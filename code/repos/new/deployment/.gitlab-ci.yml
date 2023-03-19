@@ -1,0 +1,53 @@
+variables:
+    IMAGE_NAME: r.edu.codespring.ro/kataszter/docker-compose/kataszter-proxy
+
+stages:
+    - build-image
+    - deploy
+
+build-reverse-proxy:
+    stage: build-image
+    image: tmaier/docker-compose:18.09
+    when: manual
+    only:
+        - tags
+    script:
+        - docker build -t $IMAGE_NAME .
+        - docker login -u gitlab-ci-token -p $CI_BUILD_TOKEN r.edu.codespring.ro
+        - docker push $IMAGE_NAME
+    tags:
+        - docker-image
+
+start-compose:
+    stage: deploy
+    image: tmaier/docker-compose:18.06
+    when: manual
+    only:
+        - tags
+    script:
+        - docker-compose down --remove-orphans
+        - docker-compose up -d
+    tags:
+        - staging
+
+stop-compose:
+    stage: deploy
+    image: tmaier/docker-compose:18.06
+    when: manual
+    only:
+        - tags
+    script:
+        - docker-compose down
+    tags:
+        - staging
+
+view-logs:
+    stage: deploy
+    image: tmaier/docker-compose:18.06
+    when: manual
+    only:
+        - tags
+    script:
+        - docker-compose logs
+    tags:
+        - staging

@@ -1,0 +1,963 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PriestQualificationContainer element should render a placeholder card when only loading is true 1`] = `
+Array [
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="column"
+    />
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="rectangular image"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    />
+  </div>,
+  <div
+    className="ui divider"
+  />,
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+  </div>,
+]
+`;
+
+exports[`PriestQualificationContainer element should render a placeholder when the priest is empty 1`] = `
+Array [
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="column"
+    />
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="rectangular image"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    />
+  </div>,
+  <div
+    className="ui divider"
+  />,
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+  </div>,
+]
+`;
+
+exports[`PriestQualificationContainer element should render a qualification container when the priest is not empty 1`] = `
+Array [
+  <h2
+    className="ui header"
+  >
+    <i>
+      Language skills
+    </i>
+  </h2>,
+  <div
+    className="ui doubling stackable two cards"
+  >
+    <div
+      className="ui fluid card"
+      onClick={[Function]}
+    >
+      <div
+        className="content"
+      >
+        <div
+          className="content"
+        >
+          <div
+            className="header"
+            id="header"
+          >
+            <h2
+              className="ui header"
+            >
+              Speaking skills
+            </h2>
+          </div>
+        </div>
+        <div
+          className="description"
+        >
+          <div
+            className="ui list"
+            role="list"
+          >
+            <div
+              className="item"
+              onClick={[Function]}
+              role="listitem"
+            >
+              <form
+                className="ui form"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="inline field"
+                >
+                  <b>
+                    Well
+                    :
+                  </b>
+                   
+                  magyar
+                </div>
+              </form>
+            </div>
+            <div
+              className="item"
+              onClick={[Function]}
+              role="listitem"
+            >
+              <form
+                className="ui form"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="inline field"
+                >
+                  <b>
+                    Medium
+                    :
+                  </b>
+                   
+                  román
+                </div>
+              </form>
+            </div>
+            <div
+              className="item"
+              onClick={[Function]}
+              role="listitem"
+            >
+              <form
+                className="ui form"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="inline field"
+                >
+                  <b>
+                    Less
+                    :
+                  </b>
+                   
+                  német
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="ui fluid card"
+      onClick={[Function]}
+    >
+      <div
+        className="content"
+      >
+        <div
+          className="content"
+        >
+          <div
+            className="header"
+            id="header"
+          >
+            <h2
+              className="ui header"
+            >
+              Writing skills
+            </h2>
+          </div>
+        </div>
+        <div
+          className="description"
+        >
+          <div
+            className="ui list"
+            role="list"
+          >
+            <div
+              className="item"
+              onClick={[Function]}
+              role="listitem"
+            >
+              <form
+                className="ui form"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="inline field"
+                >
+                  <b>
+                    Well
+                    :
+                  </b>
+                   
+                  magyar
+                </div>
+              </form>
+            </div>
+            <div
+              className="item"
+              onClick={[Function]}
+              role="listitem"
+            >
+              <form
+                className="ui form"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="inline field"
+                >
+                  <b>
+                    Medium
+                    :
+                  </b>
+                   
+                  román
+                </div>
+              </form>
+            </div>
+            <div
+              className="item"
+              onClick={[Function]}
+              role="listitem"
+            >
+              <form
+                className="ui form"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="inline field"
+                >
+                  <b>
+                    Less
+                    :
+                  </b>
+                   
+                  német
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="ui divider"
+  />,
+  <h2
+    className="ui header"
+  >
+    <i>
+      Qualification
+    </i>
+  </h2>,
+  <div
+    className="ui doubling stackable two cards"
+  >
+    <div
+      className="ui fluid card"
+      onClick={[Function]}
+    >
+      <div
+        className="content"
+      >
+        <div
+          className="content"
+        >
+          <div
+            className="header"
+            id="header"
+          >
+            <h2
+              className="ui header"
+            >
+              Erettsegi bizonyitvany
+            </h2>
+          </div>
+        </div>
+        <div
+          className="description"
+        >
+          <div
+            className="ui list"
+            role="list"
+          >
+            <div
+              className="item"
+              onClick={[Function]}
+              role="listitem"
+            >
+              <form
+                className="ui form"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="inline field"
+                >
+                  <b>
+                    Genesis date
+                    :
+                  </b>
+                   
+                  <span
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                  >
+                    2000.06.06
+                  </span>
+                </div>
+              </form>
+            </div>
+            <div
+              className="item"
+              onClick={[Function]}
+              role="listitem"
+            >
+              <form
+                className="ui form"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="inline field"
+                >
+                  <b>
+                    Issuing Authority
+                    :
+                  </b>
+                   
+                  Felso Oktatasi Intezmeny
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`PriestQualificationContainer element should render an error message when showError and loading are both true 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "marginTop": "7em",
+    }
+  }
+>
+  <h2
+    className="ui header red"
+  >
+    Could not estabilish server connection.
+  </h2>
+  <h3
+    className="ui header"
+  >
+    <a
+      aria-current="page"
+      className="hoverLink active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      Back to the Home Page
+    </a>
+  </h3>
+</div>
+`;
+
+exports[`PriestQualificationContainer element should render an error message when showError is true 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "marginTop": "7em",
+    }
+  }
+>
+  <h2
+    className="ui header red"
+  >
+    Could not estabilish server connection.
+  </h2>
+  <h3
+    className="ui header"
+  >
+    <a
+      aria-current="page"
+      className="hoverLink active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      Back to the Home Page
+    </a>
+  </h3>
+</div>
+`;

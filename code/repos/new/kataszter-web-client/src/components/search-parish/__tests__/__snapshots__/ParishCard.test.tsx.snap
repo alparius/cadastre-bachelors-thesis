@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ParishCard element should render a card with the parish data 1`] = `
+<a
+  aria-current={null}
+  className="ui fluid card"
+  href="/parishes/profile/1"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="header"
+    >
+      <h2
+        className="ui header"
+      >
+        name
+        <span
+          style={
+            Object {
+              "float": "right",
+            }
+          }
+        >
+          <i
+            aria-hidden="true"
+            className="green check circle outline fitted icon"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          />
+        </span>
+      </h2>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="content"
+      >
+        Number of priests
+        : 
+        12
+        <br />
+        Town
+        : 
+        Test city
+      </div>
+    </div>
+  </div>
+</a>
+`;

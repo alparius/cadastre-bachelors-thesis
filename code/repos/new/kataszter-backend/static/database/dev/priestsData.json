@@ -1,0 +1,2456 @@
+[
+    {
+        "ID": "5d6385f3f250a816135d1000",
+        "name": "Lelkész János",
+        "verified": true,
+        "birthDate": {
+            "year": 1955,
+            "month": 1,
+            "day": 1,
+            "comment": "tavaly volt  második tavalyelőttje"
+        },
+        "deathDate": {
+            "year": 2019,
+            "month": 8,
+            "day": 13,
+            "comment": "idén"
+        },
+        "subscriptionDate": {
+            "year": 1977,
+            "month": 8,
+            "day": 13,
+            "comment": "77be valamikor"
+        },
+        "graduationDate": {
+            "year": 1980,
+            "month": 8,
+            "day": 13,
+            "comment": "asszem 3 év után"
+        },
+        "birthCountry": "Mogyorország",
+        "birthCounty": "Zala",
+        "birthTown": "Egerszeg",
+        "diocese": "Zalai",
+        "isMarried": true,
+        "isWidow": false,
+        "isDivorced": false,
+        "father": {
+            "name": "Elekes Pista",
+            "job": "Kereskedő",
+            "birthDate": {
+                "year": 1230,
+                "month": 4,
+                "day": 29
+            },
+            "deathDate": {
+                "year": 1300,
+                "month": 6,
+                "day": 11,
+                "comment": "1300.06.11"
+            }
+        },
+        "mother": {
+            "name": "Elekes Rózsi",
+            "job": "Matematikus",
+            "birthDate": {
+                "year": 1700,
+                "month": 7,
+                "day": 10
+            },
+            "deathDate": {
+                "year": 1800,
+                "month": 1,
+                "day": 1,
+                "comment": "1800.01.01"
+            }
+        },
+        "speakingSkills": {
+            "well": "Magyar",
+            "less": "Román"
+        },
+        "writingSkills": {
+            "well": "Angol, Magyar",
+            "less": "Román"
+        },
+        "army": "Besorozva 1966-ban",
+        "retirementDate": {
+            "year": 2010,
+            "month": 0,
+            "day": 0,
+            "comment": "2010 közepén"
+        },
+        "children": [
+            {
+                "name": "Marika",
+                "birthPlace": "Zalaegerszeg",
+                "birthDate": {
+                    "year": 1975,
+                    "month": 1,
+                    "day": 10,
+                    "comment": "egy év házasság után"
+                }
+            }
+        ],
+        "spouses": [
+            {
+                "name": "Emese",
+                "birthDate": {
+                    "year": 1955,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "hamar naon"
+                },
+                "job": "Háziasszony",
+                "marriageDate": {
+                    "year": 1974,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "született amikor született"
+                },
+                "fatherName": "János",
+                "motherName": "Kamilla"
+            }
+        ],
+        "qualifications": [
+            {
+                "diplomaName": "Érettségi bizonyítvány",
+                "genesisDate": {
+                    "year": 1970,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "pénzzel vette"
+                },
+                "issuingAuthority": "Ref. Koll Igazgatótanácsa"
+            },
+            {
+                "diplomaName": "Kiegészítő érettségi bizoyítvány",
+                "genesisDate": {
+                    "year": 1970,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "hetvenben"
+                },
+                "issuingAuthority": "Ref. Koll Igazgatótanácsa"
+            },
+            {
+                "diplomaName": "Diploma 3",
+                "genesisDate": {
+                    "year": 1974,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "74 jan 1"
+                },
+                "issuingAuthority": "Ref. Koll Igazgatótanácsa"
+            },
+            {
+                "diplomaName": "Diploma 4",
+                "genesisDate": {
+                    "year": 1974,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "74 jan egy ez is"
+                },
+                "issuingAuthority": "Ref. Koll Igazgatótanácsa"
+            }
+        ],
+        "assistantPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8000",
+                "placeID": "5d6385f3f250a816135d1100",
+                "place": "Marosvásárhely",
+                "startDate": {
+                    "year": 1970,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "egyből végzés után"
+                },
+                "endDate": {
+                    "year": 1970,
+                    "month": 1,
+                    "day": 2,
+                    "comment": "fél évig bírta"
+                }
+            }
+        ],
+        "mainPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8001",
+                "placeID": "5d6385f3f250a816135d1101",
+                "place": "Csodaország",
+                "startDate": {
+                    "year": 1977,
+                    "comment": "utána"
+                },
+                "endDate": {
+                    "year": 1980,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "80 elején"
+                },
+                "munimentGenesisDate": {
+                    "year": 1977,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "nem biztos ennyi"
+                },
+                "munimentNumber": "112",
+                "munimentIssuingAuthority": "Aliz",
+                "income": "500 ajöró",
+                "numberOfPeople": "500"
+            },
+            {
+                "ID": "5d6385f3f250a816135d8002",
+                "placeID": "5d6385f3f250a816135d1101",
+                "place": "Csodaország",
+                "startDate": {
+                    "year": 1980,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "80 derekán"
+                },
+                "endDate": {
+                    "year": 1995,
+                    "month": 1,
+                    "comment": "egészen 95 végéig"
+                },
+                "munimentGenesisDate": {
+                    "year": 1980,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "elég hamar"
+                },
+                "munimentNumber": "112",
+                "munimentIssuingAuthority": "Aliz",
+                "income": "500 ajöró",
+                "numberOfPeople": "500"
+            },
+            {
+                "ID": "5d6385f3f250a816135d8003",
+                "placeID": "5d6385f3f250a816135d1101",
+                "place": "Csodaország",
+                "startDate": {
+                    "comment": "95 jan 1"
+                },
+                "endDate": {
+                    "year": 2015,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "3 éve"
+                },
+                "munimentGenesisDate": {
+                    "year": 1955,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "még akkor"
+                },
+                "munimentNumber": "112",
+                "munimentIssuingAuthority": "Aliz",
+                "income": "500 ajöró",
+                "numberOfPeople": "500"
+            }
+        ],
+        "Consecration": {
+            "place": "Zilah",
+            "date": {
+                "year": 1980,
+                "month": 5,
+                "day": 20,
+                "comment": "1980.05.20"
+            }
+        },
+        "churchOffices": [
+            {
+                "name": "Apostol",
+                "startDate": {
+                    "year": 1981,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1981.01.01"
+                },
+                "endDate": {
+                    "year": 1990,
+                    "month": 1,
+                    "day": 1
+                },
+                "comment": "Elég jó volt"
+            }
+        ],
+        "otherOffices": [
+            {
+                "name": "Halakat árult",
+                "startDate": {
+                    "year": 1991,
+                    "month": 12,
+                    "day": 1,
+                    "comment": "1991.12.01"
+                },
+                "endDate": {
+                    "year": 1992
+                },
+                "comment": "Csődbe ment"
+            }
+        ],
+        "literaryWorks": [
+            {
+                "title": "5 tipp, hogy gazdag legyél",
+                "published": {
+                    "year": 1992
+                },
+                "publisher": "Álomgyár"
+            }
+        ],
+        "priestReferences": [
+            {
+                "place": "\"Hazudik, mint a vízfolyás\" rádióműsor",
+                "date": {
+                    "year": 1992
+                }
+            },
+            {
+                "place": "\"A világ leggazdagabb emberei\" folyóirat",
+                "date": {
+                    "year": 1993
+                }
+            }
+        ],
+        "DisciplinaryMatters": [
+            {
+                "name": "Feri pap figyelmeztette, hogy túl sok halat árul",
+                "issuingAuthority": "János barátja, Feri"
+            }
+        ],
+        "Suspensions": [
+            {
+                "startDate": {
+                    "year": 1994,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1994.01.01"
+                },
+                "endDate": {
+                    "year": 1998,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1998.01.01"
+                },
+                "punishment": "Egy éjszaka eltörték horgászbotját"
+            }
+        ],
+        "fired": {
+            "year": 2002,
+            "month": 1,
+            "day": 1,
+            "comment": "Nem mondott le a halászatról"
+        },
+        "changedCareer": {
+            "name": "Hivatalos halász",
+            "date": {
+                "year": 2002,
+                "month": 1,
+                "day": 1
+            }
+        },
+        "note": "Remek emberhalász volt"
+    },
+    {
+        "ID": "5d6385f3f250a816135d1001",
+        "name": "Papp Bela",
+        "verified": true,
+        "birthDate": {
+            "year": 1925,
+            "month": 3,
+            "day": 12
+        },
+        "deathDate": {
+            "year": 2030,
+            "month": 4,
+            "day": 13,
+            "comment": "2030.04.13"
+        },
+        "subscriptionDate": {
+            "year": 1970,
+            "month": 8,
+            "day": 13
+        },
+        "graduationDate": {
+            "year": 1975,
+            "month": 8,
+            "day": 13,
+            "comment": "1975.08.13"
+        },
+        "birthCountry": "Magyarország",
+        "birthCounty": "Pest",
+        "birthTown": "Buda",
+        "diocese": "Pesti",
+        "isMarried": false,
+        "isWidow": true,
+        "isDivorced": true,
+        "father": {
+            "name": "Papp Hunor",
+            "job": "Pap",
+            "birthDate": {
+                "year": 1600,
+                "month": 8,
+                "day": 14,
+                "comment": "Alig született meg"
+            },
+            "deathDate": {
+                "year": 1627,
+                "month": 4,
+                "day": 28,
+                "comment": "Nehezen halt meg"
+            }
+        },
+        "mother": {
+            "name": "Pap Lanka",
+            "job": "Paplanárus",
+            "birthDate": {
+                "year": 1620,
+                "month": 1,
+                "day": 19,
+                "comment": "Paplanba csavarták"
+            },
+            "deathDate": {
+                "year": 1788,
+                "month": 10,
+                "day": 11,
+                "comment": "Szekrénybe zárták"
+            }
+        },
+        "speakingSkills": {
+            "well": "Magyar",
+            "less": "Üzbég"
+        },
+        "writingSkills": {
+            "well": "Üzbég, Magyar",
+            "less": "Román"
+        },
+        "army": "Kisorozva 1926-ban",
+        "retirementDate": {
+            "year": 2020,
+            "month": 0,
+            "day": 0,
+            "comment": "2020"
+        },
+        "children": [
+            {
+                "name": "Lujza",
+                "birthPlace": "BPest",
+                "birthDate": {
+                    "year": 1973,
+                    "month": 4,
+                    "day": 11,
+                    "comment": "1973.04.11"
+                }
+            }
+        ],
+        "spouses": [
+            {
+                "name": "Hanna",
+                "birthDate": {
+                    "year": 1935,
+                    "month": 8,
+                    "day": 5,
+                    "comment": "1935.08.05"
+                },
+                "job": "Professzionális Háziasszony",
+                "marriageDate": {
+                    "year": 1973,
+                    "month": 1,
+                    "day": 8,
+                    "comment": "1973.01.08"
+                },
+                "fatherName": "Emelt Jenő",
+                "motherName": "Csipke Rózsika"
+            }
+        ],
+        "qualifications": [
+            {
+                "diplomaName": "Érettségi bizonyítvány",
+                "genesisDate": {
+                    "year": 1973,
+                    "month": 3,
+                    "day": 29,
+                    "comment": "1973.03.29"
+                },
+                "issuingAuthority": "Ref. Koll. Igazgatótanácsa"
+            },
+            {
+                "diplomaName": "Atestat informatica",
+                "genesisDate": {
+                    "year": 1972,
+                    "month": 10,
+                    "day": 10,
+                    "comment": "1972.10.10"
+                },
+                "issuingAuthority": "Inf. Koll"
+            },
+            {
+                "diplomaName": "Diploma 3",
+                "genesisDate": {
+                    "year": 1974,
+                    "month": 11,
+                    "day": 1,
+                    "comment": "1974.11.01"
+                },
+                "issuingAuthority": "Diploma 3 kiállítóbizottság"
+            },
+            {
+                "diplomaName": "Diploma 4",
+                "genesisDate": {
+                    "year": 1874,
+                    "month": 12,
+                    "day": 1,
+                    "comment": "1874.12.01"
+                },
+                "issuingAuthority": "Hamis okiratok olcsón"
+            }
+        ],
+        "assistantPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8004",
+                "placeID": "5d6385f3f250a816135d1102",
+                "place": "Kézdivásárhely",
+                "startDate": {
+                    "year": 1930,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1930.01.01"
+                },
+                "endDate": {
+                    "year": 1940,
+                    "month": 4,
+                    "day": 2,
+                    "comment": "1940.04.02"
+                }
+            }
+        ],
+        "mainPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8005",
+                "placeID": "5d6385f3f250a816135d1103",
+                "place": "Csobotfalva",
+                "startDate": {
+                    "year": 1937,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1937.01.01"
+                },
+                "endDate": {
+                    "year": 1950,
+                    "month": 11,
+                    "day": 1,
+                    "comment": "1950.11.01"
+                },
+                "munimentGenesisDate": {
+                    "year": 1973,
+                    "month": 3,
+                    "day": 3,
+                    "comment": "1973.03.03"
+                },
+                "munimentNumber": "911",
+                "munimentIssuingAuthority": "Alma hivatal",
+                "income": "500 bani",
+                "numberOfPeople": "5"
+            },
+            {
+                "ID": "5d6385f3f250a816135d8006",
+                "placeID": "5d6385f3f250a816135d1104",
+                "place": "Csernáton",
+                "startDate": {
+                    "year": 1950,
+                    "month": 11,
+                    "day": 2,
+                    "comment": "1950.11.02"
+                },
+                "endDate": {
+                    "year": 1995,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1995.01.01"
+                },
+                "munimentGenesisDate": {
+                    "year": 1980,
+                    "month": 5,
+                    "day": 3,
+                    "comment": "1980.05.03"
+                },
+                "munimentNumber": "912",
+                "munimentIssuingAuthority": "Körte hivatal",
+                "income": "nincs",
+                "numberOfPeople": "1002"
+            },
+            {
+                "ID": "5d6385f3f250a816135d8007",
+                "placeID": "5d6385f3f250a816135d1105",
+                "place": "Csíkszereda",
+                "startDate": {
+                    "year": 1995,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1995.01.01"
+                },
+                "endDate": {
+                    "year": 2015,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "2015.01.01"
+                },
+                "munimentGenesisDate": {
+                    "year": 1995,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1995.01.01"
+                },
+                "munimentNumber": "913",
+                "munimentIssuingAuthority": "Barack hivatal",
+                "income": "zéróka",
+                "numberOfPeople": "három"
+            }
+        ],
+        "Consecration": {
+            "place": "Hídalatt",
+            "date": {
+                "year": 2000,
+                "month": 3,
+                "day": 12
+            }
+        },
+        "churchOffices": [
+            {
+                "name": "Pásztor",
+                "startDate": {
+                    "year": 2000,
+                    "month": 3,
+                    "day": 12,
+                    "comment": "2000.03.12"
+                },
+                "endDate": {
+                    "year": 2000,
+                    "month": 3,
+                    "day": 12,
+                    "comment": "2000.03.12"
+                },
+                "comment": "Nem borotválkozott meg"
+            }
+        ],
+        "otherOffices": [
+            {
+                "name": "Szakállnövesztő szerárus",
+                "startDate": {
+                    "year": 1991,
+                    "month": 12,
+                    "day": 1,
+                    "comment": "1991.12.01"
+                },
+                "endDate": {
+                    "year": 2010
+                },
+                "comment": "Jól ment, mert olcsó volt"
+            }
+        ],
+        "literaryWorks": [
+            {
+                "title": "A legszebb szakáll Európában",
+                "published": {
+                    "year": 2001
+                },
+                "publisher": "Egy próbát megér"
+            },
+            {
+                "title": "Minden, ami szakállal kapcsolatos",
+                "published": {
+                    "year": 2009
+                },
+                "publisher": "Hungary Bestseller No. 1"
+            }
+        ],
+        "priestReferences": [
+            {
+                "place": "\"Mert szakállasnak lenni jó\" újság",
+                "date": {
+                    "year": 1992
+                }
+            },
+            {
+                "place": "\"Mit lehet eltárolni a szakállban?\" TV műsor",
+                "date": {
+                    "year": 2002
+                }
+            }
+        ],
+        "DisciplinaryMatters": [
+            {
+                "name": "Szakállasan született",
+                "issuingAuthority": "A szülést segítő személyzet"
+            },
+            {
+                "name": "Szakállát szétosztotta a szegények között",
+                "issuingAuthority": "Béla szakállából már nem jútott emberek közössége"
+            }
+        ],
+        "fired": {
+            "year": 2000,
+            "month": 3,
+            "day": 12
+        },
+        "note": "Jó ember volt"
+    },
+    {
+        "ID": "5d6385f3f250a816135d1002",
+        "name": "Kerekes István",
+        "verified": false,
+        "birthDate": {
+            "year": 1025,
+            "month": 3,
+            "day": 12,
+            "comment": "1025.03.12"
+        },
+        "deathDate": {
+            "year": 1030,
+            "month": 4,
+            "day": 13,
+            "comment": "1030.04.13"
+        },
+        "subscriptionDate": {
+            "year": 1890,
+            "month": 8,
+            "day": 13,
+            "comment": "1890.08.13"
+        },
+        "graduationDate": {
+            "year": 1901,
+            "month": 8,
+            "day": 13,
+            "comment": "1901.08.13"
+        },
+        "birthCountry": "Pannónia",
+        "birthCounty": "Etelköz",
+        "birthTown": "Szarajevó",
+        "diocese": "Menyo",
+        "isMarried": true,
+        "isWidow": false,
+        "isDivorced": true,
+        "father": {
+            "name": "Kerekes Fidelikusz",
+            "job": "Kerékjavító"
+        },
+        "mother": {
+            "name": "Kocka Klaudia",
+            "job": "Kockarakó"
+        },
+        "speakingSkills": {
+            "well": "Magyar",
+            "less": "Horvát"
+        },
+        "writingSkills": {
+            "well": "Üzbég, Magyar",
+            "less": "Horvát"
+        },
+        "army": "Kisorozva 1126-ban",
+        "retirementDate": {
+            "year": 1020,
+            "month": 0,
+            "day": 0,
+            "comment": "1020"
+        },
+        "children": [
+            {
+                "name": "Lujza",
+                "birthPlace": "Szarajevó",
+                "birthDate": {
+                    "year": 1083,
+                    "month": 2,
+                    "day": 11,
+                    "comment": "1083.02.11"
+                }
+            }
+        ],
+        "spouses": [
+            {
+                "name": "Hermina",
+                "birthDate": {
+                    "year": 1035,
+                    "month": 8,
+                    "day": 5,
+                    "comment": "1035.08.05"
+                },
+                "job": "Hazagyere",
+                "marriageDate": {
+                    "year": 1073,
+                    "month": 1,
+                    "day": 8,
+                    "comment": "1073.01.08"
+                },
+                "fatherName": "Merge Hűde",
+                "motherName": "Merge Hidegilla"
+            },
+            {
+                "name": "Előzőt Meguntam",
+                "birthDate": {
+                    "year": 1045,
+                    "month": 12,
+                    "day": 5,
+                    "comment": "1045.12.05"
+                },
+                "job": "Itthonmaradj",
+                "marriageDate": {
+                    "year": 1049,
+                    "month": 2,
+                    "day": 8,
+                    "comment": "1049.02.08."
+                },
+                "fatherName": "Galambos Gábor",
+                "motherName": "Galambos Ilonka"
+            }
+        ],
+        "qualifications": [
+            {
+                "diplomaName": "Életbizonyítvány",
+                "genesisDate": {
+                    "year": 1013,
+                    "month": 3,
+                    "day": 19,
+                    "comment": "1013.03.19"
+                },
+                "issuingAuthority": "Merge Hűde"
+            },
+            {
+                "diplomaName": "Sokfeleség kitüntetés",
+                "genesisDate": {
+                    "year": 1074,
+                    "month": 12,
+                    "day": 1,
+                    "comment": "1074.12.01"
+                },
+                "issuingAuthority": "Apósok klubbja"
+            }
+        ],
+        "assistantPriestPlaces": [],
+        "mainPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8008",
+                "placeID": "5d6385f3f250a816135d1106",
+                "place": "Kisbátor",
+                "startDate": {
+                    "year": 1037,
+                    "month": 2,
+                    "day": 13,
+                    "comment": "1037.02.13"
+                },
+                "endDate": {
+                    "year": 1050,
+                    "month": 1,
+                    "day": 31,
+                    "comment": "1050.01.31"
+                },
+                "munimentGenesisDate": {
+                    "year": 1073,
+                    "month": 9,
+                    "day": 3,
+                    "comment": "1073.09.03"
+                },
+                "munimentNumber": "1",
+                "munimentIssuingAuthority": "Ország",
+                "income": "10000",
+                "numberOfPeople": "10000"
+            }
+        ],
+        "Consecration": {
+            "place": "Az erdőben",
+            "date": {
+                "year": 1864,
+                "month": 11,
+                "day": 23
+            }
+        },
+        "churchOffices": [
+            {
+                "name": "Pásztor",
+                "startDate": {
+                    "year": 1900,
+                    "month": 7,
+                    "day": 9
+                },
+                "endDate": {
+                    "year": 1948,
+                    "month": 6,
+                    "day": 13
+                }
+            }
+        ],
+        "priestReferences": [
+            {
+                "place": "\"A II. világháborúban elesettek névsora\" újság",
+                "date": {
+                    "year": 1948,
+                    "month": 6,
+                    "day": 13
+                }
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1003",
+        "name": "Harangozó Hektor",
+        "birthDate": {
+            "year": 1995,
+            "month": 3,
+            "day": 12,
+            "comment": "1995.03.12"
+        },
+        "deathDate": {
+            "year": 2000,
+            "month": 9,
+            "day": 10,
+            "comment": "2000.09.10"
+        },
+        "subscriptionDate": {
+            "year": 1913,
+            "month": 8,
+            "day": 13,
+            "comment": "1913.08.13"
+        },
+        "birthCountry": "Románia",
+        "birthCounty": "Szatmár",
+        "birthTown": "Szatmárnémeti",
+        "diocese": "Szatmár",
+        "isMarried": false,
+        "isWidow": false,
+        "isDivorced": false,
+        "father": {
+            "name": "Harangyártó Miklós",
+            "job": "Harangos",
+            "birthDate": {
+                "year": 1064,
+                "month": 3,
+                "day": 4
+            },
+            "deathDate": {
+                "year": 1120,
+                "month": 4,
+                "day": 3
+            }
+        },
+        "mother": {
+            "name": "Csendes Csenge"
+        },
+        "speakingSkills": {
+            "well": "Magyar",
+            "less": "Román"
+        },
+        "writingSkills": {
+            "well": "Magyar",
+            "less": ""
+        },
+        "army": "Soha",
+        "retirementDate": {
+            "year": 0,
+            "month": 0,
+            "day": 0,
+            "comment": ""
+        },
+        "children": [
+            {
+                "name": "Helga",
+                "birthPlace": "kolozsvár",
+                "birthDate": {
+                    "year": 2003,
+                    "month": 7,
+                    "day": 11,
+                    "comment": "2003.07.11"
+                }
+            }
+        ],
+        "spouses": [
+            {
+                "name": "Vitos Viola",
+                "birthDate": {
+                    "year": 1955,
+                    "month": 10,
+                    "day": 5,
+                    "comment": "1995.10.05"
+                },
+                "job": "Üzletassziasszony",
+                "marriageDate": {
+                    "year": 2010,
+                    "month": 1,
+                    "day": 8,
+                    "comment": "2010.01.08."
+                },
+                "fatherName": "Vitos Vendeleg",
+                "motherName": "Vitos Vivienn"
+            }
+        ],
+        "qualifications": [
+            {
+                "diplomaName": "Érecségi",
+                "genesisDate": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 13,
+                    "comment": "2019.09.13"
+                },
+                "issuingAuthority": "Primaria Cluj-Napoca"
+            },
+            {
+                "diplomaName": "Atestat teologie",
+                "genesisDate": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 14,
+                    "comment": "2019.09.14"
+                },
+                "issuingAuthority": "Primaria Cluj-Napoca"
+            },
+            {
+                "diplomaName": "Licenta teologie",
+                "genesisDate": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 15,
+                    "comment": "2019.09.15"
+                },
+                "issuingAuthority": "Primaria Cluj-Napoca 50000 ron"
+            },
+            {
+                "diplomaName": "Disertatie teologie",
+                "genesisDate": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 16,
+                    "comment": "2019.09.16"
+                },
+                "issuingAuthority": "Dümmezejü"
+            }
+        ],
+        "assistantPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8009",
+                "placeID": "5d6385f3f250a816135d1107",
+                "place": "Kolozsvárottan",
+                "startDate": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 17,
+                    "comment": "2019.09.17"
+                },
+                "endDate": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 18,
+                    "comment": "2019.09.18"
+                }
+            }
+        ],
+        "mainPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8011",
+                "placeID": "5d6385f3f250a816135d1108",
+                "place": "Kolozsvár",
+                "startDate": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 18,
+                    "comment": "2019.09.18"
+                },
+                "endDate": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0,
+                    "comment": ""
+                },
+                "munimentGenesisDate": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 18,
+                    "comment": "2019.09.18"
+                },
+                "munimentNumber": "322",
+                "munimentIssuingAuthority": "Primaria Cluj-Napoca",
+                "income": "420",
+                "numberOfPeople": "4200"
+            }
+        ],
+        "Consecration": {
+            "place": "Egy templom tornyában"
+        },
+        "churchOffices": [
+            {
+                "name": "Kongató",
+                "comment": "Messzire elhallatszott kongatása"
+            }
+        ],
+        "otherOffices": [
+            {
+                "name": "Atléta",
+                "startDate": {
+                    "year": 2003,
+                    "month": 12,
+                    "day": 1,
+                    "comment": "2003.12.01"
+                },
+                "endDate": {
+                    "year": 2010
+                },
+                "comment": "Egyszer kiesett a templomtoronyból"
+            }
+        ],
+        "literaryWorks": [
+            {
+                "title": "Hogyan válj 48 óra alatt harangkongatóvá",
+                "published": {
+                    "year": 2010,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "2010.01.01"
+                },
+                "publisher": "Nyomtass plcsón Zrt."
+            }
+        ],
+        "Suspensions": [
+            {
+                "startDate": {
+                    "year": 2005,
+                    "month": 4,
+                    "day": 29,
+                    "comment": "2005.04.29"
+                },
+                "endDate": {
+                    "year": 2005,
+                    "month": 4,
+                    "day": 29,
+                    "comment": "2005.04.29"
+                },
+                "punishment": "Otthon kellett töltse az éjszakát. Kicserélték a harangot."
+            }
+        ],
+        "resigned": {
+            "year": 2012,
+            "month": 1,
+            "day": 1,
+            "comment": "Túl hangosan verte azt a harangot"
+        },
+        "changedCareer": {
+            "name": "Nyugdíjas vadász",
+            "date": {
+                "year": 2016,
+                "month": 5,
+                "day": 19
+            }
+        }
+    },
+    {
+        "ID": "5d6385f3f250a816135d1004",
+        "name": "Karvai János",
+        "birthDate": {
+            "year": 1755,
+            "month": 1,
+            "day": 1,
+            "comment": "1755.01.01"
+        },
+        "deathDate": {
+            "year": 1719,
+            "month": 8,
+            "day": 13,
+            "comment": "1719.08.13"
+        },
+        "graduationDate": {
+            "year": 1988,
+            "month": 8,
+            "day": 13,
+            "comment": "1988.08.13"
+        },
+        "birthCountry": "Jugoszlávia",
+        "birthCounty": "Zagreb",
+        "birthTown": "Zagreb",
+        "diocese": "Zagreb",
+        "isMarried": false,
+        "isWidow": true,
+        "isDivorced": true,
+        "father": {
+            "name": "Karvai János"
+        },
+        "mother": {
+            "name": "Karvai Jánosné"
+        },
+        "speakingSkills": {
+            "well": "Szerb",
+            "less": "Szlovák"
+        },
+        "writingSkills": {
+            "well": "Szlovák, Szurdok",
+            "less": "Szerb"
+        },
+        "army": "Meglőtt százat",
+        "retirementDate": {
+            "year": 1810,
+            "month": 0,
+            "day": 0,
+            "comment": "1810"
+        },
+        "children": [
+            {
+                "name": "Zelma",
+                "birthPlace": "Zágony",
+                "birthDate": {
+                    "year": 1775,
+                    "month": 1,
+                    "day": 10,
+                    "comment": "1775.01.10"
+                }
+            },
+            {
+                "name": "Zsuzsa",
+                "birthPlace": "Zágony",
+                "birthDate": {
+                    "year": 1775,
+                    "month": 1,
+                    "day": 10,
+                    "comment": "1775.01.10"
+                }
+            },
+            {
+                "name": "Zakariás",
+                "birthPlace": "Zágony",
+                "birthDate": {
+                    "year": 1775,
+                    "month": 1,
+                    "day": 10,
+                    "comment": "1775.01.10"
+                }
+            },
+            {
+                "name": "Zongory",
+                "birthPlace": "Zágony",
+                "birthDate": {
+                    "year": 1775,
+                    "month": 1,
+                    "day": 10,
+                    "comment": "1775.01.10"
+                }
+            },
+            {
+                "name": "Zakat",
+                "birthPlace": "Zágony",
+                "birthDate": {
+                    "year": 1775,
+                    "month": 1,
+                    "day": 10,
+                    "comment": "1775.01.10"
+                }
+            }
+        ],
+        "spouses": [
+            {
+                "name": "Zita",
+                "birthDate": {
+                    "year": 1755,
+                    "month": 11,
+                    "day": 11,
+                    "comment": "1755.11.11"
+                },
+                "job": "Szavazati joggal élő",
+                "marriageDate": {
+                    "year": 1776,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1776.01.01"
+                },
+                "fatherName": "Zsombor",
+                "motherName": "Zsanett"
+            }
+        ],
+        "qualifications": [
+            {
+                "diplomaName": "Zöngétlenségi bizonyítvány",
+                "genesisDate": {
+                    "year": 1770,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1770.01.01"
+                },
+                "issuingAuthority": "Pop ABC"
+            },
+            {
+                "diplomaName": "Zöngésségi ítélet",
+                "genesisDate": {
+                    "year": 1774,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1774.01.01"
+                },
+                "issuingAuthority": "Supermarket ABCDEFGH"
+            }
+        ],
+        "assistantPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8013",
+                "placeID": "5d6385f3f250a816135d1109",
+                "place": "Zarajevó",
+                "startDate": {
+                    "year": 1770,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1770.01.01"
+                },
+                "endDate": {
+                    "year": 1770,
+                    "month": 11,
+                    "day": 2,
+                    "comment": "1770.11.02"
+                }
+            }
+        ],
+        "mainPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8014",
+                "placeID": "5d6385f3f250a816135d1110",
+                "place": "Zolnok",
+                "startDate": {
+                    "year": 1777,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1777.01.01"
+                },
+                "endDate": {
+                    "year": 1780,
+                    "month": 11,
+                    "day": 5,
+                    "comment": "1780.11.05"
+                },
+                "munimentGenesisDate": {
+                    "year": 1777,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1777.01.01"
+                },
+                "munimentNumber": "12",
+                "munimentIssuingAuthority": "Apostolok",
+                "income": "500 véka",
+                "numberOfPeople": "500"
+            },
+            {
+                "ID": "5d6385f3f250a816135d8015",
+                "placeID": "5d6385f3f250a816135d1111",
+                "place": "Debrecen",
+                "startDate": {
+                    "year": 1780,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1780.01.01"
+                },
+                "endDate": {
+                    "year": 1795,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1795.01.01"
+                },
+                "munimentGenesisDate": {
+                    "year": 1780,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1780.01.01"
+                },
+                "munimentNumber": "17",
+                "munimentIssuingAuthority": "Hivatalos hivatal",
+                "income": "500 unom",
+                "numberOfPeople": "100"
+            }
+        ],
+        "DisciplinaryMatters": [
+            {
+                "name": "Azt tanította, hogy a Föld lapos",
+                "issuingAuthority": "NASA"
+            }
+        ],
+        "resigned": {
+            "year": 1600,
+            "month": 6,
+            "day": 3,
+            "comment": "Máglyán elégették"
+        }
+    },
+    {
+        "ID": "5d6385f3f250a816135d1005",
+        "name": "Bene Bandi",
+        "birthDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 20,
+            "comment": "1998.04.20"
+        },
+        "deathDate": {
+            "year": 0,
+            "month": 0,
+            "day": 0,
+            "comment": ""
+        },
+        "subscriptionDate": {
+            "year": 1972,
+            "month": 8,
+            "day": 13,
+            "comment": "1972.08.13"
+        },
+        "graduationDate": {
+            "year": 1980,
+            "month": 8,
+            "day": 13,
+            "comment": "1980.08.13"
+        },
+        "birthCountry": "Románia",
+        "birthCounty": "Hargita",
+        "birthTown": "Gyergyószentmiklós",
+        "diocese": "Gyulafehérvári",
+        "isMarried": false,
+        "isWidow": false,
+        "isDivorced": false,
+        "father": {
+            "name": "Bene Béla",
+            "job": "Uralkodó",
+            "birthDate": {
+                "year": 1300,
+                "month": 8,
+                "day": 8
+            },
+            "deathDate": {
+                "year": 1400,
+                "month": 1,
+                "day": 1,
+                "comment": "1400.01.01"
+            }
+        },
+        "mother": {
+            "name": "Bene Zsuzsanna",
+            "job": "Celeb",
+            "birthDate": {
+                "year": 1965,
+                "month": 4,
+                "day": 4
+            }
+        },
+        "speakingSkills": {
+            "well": "Magyar, Angol, Román",
+            "less": "Német"
+        },
+        "writingSkills": {
+            "well": "Angol, Magyar, Román",
+            "less": "Német, Orosz"
+        },
+        "army": "felmentve 2016-ban",
+        "retirementDate": {
+            "year": 0,
+            "month": 0,
+            "day": 0,
+            "comment": ""
+        },
+        "children": [],
+        "spouses": [
+            {
+                "name": "Varró Renáta",
+                "birthDate": {
+                    "year": 2000,
+                    "month": 1,
+                    "day": 18,
+                    "comment": "2000.01.18"
+                },
+                "job": "csendőr",
+                "marriageDate": {
+                    "year": 2023,
+                    "month": 5,
+                    "day": 5,
+                    "comment": "2023.05.05"
+                },
+                "fatherName": "Varró János",
+                "motherName": "Varró Ilona"
+            }
+        ],
+        "qualifications": [
+            {
+                "diplomaName": "Atestat informatica",
+                "genesisDate": {
+                    "year": 2015,
+                    "month": 5,
+                    "day": 12,
+                    "comment": "2015.05.12"
+                },
+                "issuingAuthority": "Salamon Ernő Gimnázium"
+            },
+            {
+                "diplomaName": "Bacalaureat",
+                "genesisDate": {
+                    "year": 2016,
+                    "month": 7,
+                    "day": 22,
+                    "comment": "2016.07.22"
+                },
+                "issuingAuthority": "Salamon Ernő személyesen"
+            },
+            {
+                "diplomaName": "Best Binger Ever",
+                "genesisDate": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 11,
+                    "comment": "2018.10.11"
+                },
+                "issuingAuthority": "B99 cast office"
+            }
+        ],
+        "assistantPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8010",
+                "placeID": "5d6385f3f250a816135d1108",
+                "place": "Kolozsvár",
+                "startDate": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 1,
+                    "comment": "2018.10.01"
+                },
+                "endDate": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0,
+                    "comment": ""
+                }
+            }
+        ],
+        "mainPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8012",
+                "placeID": "5d6385f3f250a816135d1108",
+                "place": "Kolozsvár",
+                "startDate": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 1,
+                    "comment": "2018.10.01"
+                },
+                "endDate": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0,
+                    "comment": ""
+                },
+                "munimentGenesisDate": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 1,
+                    "comment": "2018.10.01"
+                },
+                "munimentNumber": "555",
+                "munimentIssuingAuthority": "Self issued",
+                "income": "1580 ron",
+                "numberOfPeople": "1"
+            }
+        ],
+        "Consecration": {
+            "place": "Antarktisz",
+            "date": {
+                "year": 1989,
+                "month": 9,
+                "day": 9,
+                "comment": "Hideg volt"
+            }
+        },
+        "churchOffices": [
+            {
+                "name": "Apostol",
+                "startDate": {
+                    "year": 1981,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1981.01.01"
+                },
+                "endDate": {
+                    "year": 1990,
+                    "month": 1,
+                    "day": 1
+                },
+                "comment": "Tette a dolgát"
+            },
+            {
+                "name": "Ajtónálló",
+                "startDate": {
+                    "year": 1993,
+                    "month": 2,
+                    "day": 2
+                },
+                "endDate": {
+                    "year": 2000,
+                    "month": 3,
+                    "day": 3
+                }
+            }
+        ],
+        "otherOffices": [
+            {
+                "name": "Bűnbocsátó cédulákat árusított",
+                "comment": "Sok pénzt bezsebelt"
+            }
+        ],
+        "literaryWorks": [
+            {
+                "title": "Hogyan legyen ön is milliomos",
+                "published": {
+                    "year": 1998
+                },
+                "publisher": "Drága nyomtatvány Kft."
+            }
+        ],
+        "priestReferences": [
+            {
+                "place": "\"A pénz beszél\" rádióműsor",
+                "date": {
+                    "year": 1995
+                }
+            },
+            {
+                "place": "\"Vannak egyenlők és egyenlőbbek\" TV műsor",
+                "date": {
+                    "year": 2019
+                }
+            }
+        ],
+        "resigned": {
+            "year": 2019,
+            "month": 1,
+            "day": 1,
+            "comment": "Elköltözött Hawaii-ra"
+        },
+        "note": "Csak irónia az egész"
+    },
+    {
+        "ID": "5d6385f3f250a816135d1006",
+        "name": "Kuruc Áron",
+        "birthDate": {
+            "year": 1889,
+            "month": 1,
+            "day": 1,
+            "comment": "1899.01.01"
+        },
+        "deathDate": {
+            "year": 1999,
+            "month": 8,
+            "day": 13,
+            "comment": "1999.08.13"
+        },
+        "subscriptionDate": {
+            "year": 1955,
+            "month": 8,
+            "day": 13,
+            "comment": "1955.08.13"
+        },
+        "birthCountry": "Dánia",
+        "birthCounty": "Justice",
+        "birthTown": "Justice-town",
+        "diocese": "Dán",
+        "isMarried": true,
+        "isWidow": false,
+        "isDivorced": false,
+        "father": {
+            "name": "Kuruc Árpád"
+        },
+        "mother": {
+            "name": "Kuruc Mónika"
+        },
+        "speakingSkills": {
+            "well": "Dán, Magyar",
+            "medium": "Német, Angol",
+            "less": "Román"
+        },
+        "writingSkills": {
+            "well": "Dán, Magyar",
+            "medium": "Német, Angol",
+            "less": "Román"
+        },
+        "army": "Német SS hadtest",
+        "retirementDate": {
+            "year": 1985,
+            "month": 4,
+            "day": 6,
+            "comment": "1985.04.06"
+        },
+        "children": [
+            {
+                "name": "Mihály",
+                "birthPlace": "Felső csorbafalva",
+                "birthDate": {
+                    "year": 1930,
+                    "month": 3,
+                    "day": 13,
+                    "comment": "1930.03.13"
+                }
+            }
+        ],
+        "spouses": [
+            {
+                "name": "Monalisa",
+                "birthDate": {
+                    "year": 1517,
+                    "month": 6,
+                    "day": 3,
+                    "comment": "1517.06.03"
+                },
+                "job": "Mosogatónő",
+                "marriageDate": {
+                    "year": 1920,
+                    "month": 3,
+                    "day": 17,
+                    "comment": "1920.03.17"
+                },
+                "fatherName": "Ernő",
+                "motherName": "Rózsa"
+            }
+        ],
+        "qualifications": [
+            {
+                "diplomaName": "Érettségi bizonyítvány",
+                "genesisDate": {
+                    "year": 1930,
+                    "month": 6,
+                    "day": 26,
+                    "comment": "1930.06.26"
+                },
+                "issuingAuthority": "Ref. Koll Igazgatótanácsa"
+            },
+            {
+                "diplomaName": "Tésztaszaggatás",
+                "genesisDate": {
+                    "year": 1934,
+                    "month": 7,
+                    "day": 14,
+                    "comment": "1934.07.14"
+                },
+                "issuingAuthority": "Konyhatündér egyetem"
+            },
+            {
+                "diplomaName": "Kanálgörbités",
+                "genesisDate": {
+                    "year": 1935,
+                    "month": 11,
+                    "day": 11,
+                    "comment": "1935.11.11"
+                },
+                "issuingAuthority": "Magic and Stuff"
+            },
+            {
+                "diplomaName": "Egérfogó",
+                "genesisDate": {
+                    "year": 1940,
+                    "month": 3,
+                    "day": 14,
+                    "comment": "1940.3.14"
+                },
+                "issuingAuthority": "Macskavilág by sziamiau"
+            }
+        ],
+        "assistantPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8016",
+                "placeID": "5d6385f3f250a816135d1112",
+                "place": "Paptesztfalu",
+                "startDate": {
+                    "year": 1940,
+                    "month": 8,
+                    "day": 1,
+                    "comment": "1940.08.01"
+                },
+                "endDate": {
+                    "year": 1945,
+                    "month": 1,
+                    "day": 15,
+                    "comment": "1945.01.15"
+                }
+            }
+        ],
+        "mainPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8017",
+                "placeID": "5d6385f3f250a816135d1113",
+                "place": "Vasút Állomás",
+                "startDate": {
+                    "year": 1945,
+                    "month": 9,
+                    "day": 8,
+                    "comment": "1945.09.08"
+                },
+                "endDate": {
+                    "year": 1950,
+                    "month": 2,
+                    "day": 19,
+                    "comment": "1950.02.19"
+                },
+                "munimentGenesisDate": {
+                    "year": 1945,
+                    "month": 9,
+                    "day": 8,
+                    "comment": "1945.09.08"
+                },
+                "munimentNumber": "136/U23-13",
+                "munimentIssuingAuthority": "Kalauz",
+                "income": "1 kenyér naponta",
+                "numberOfPeople": "193"
+            },
+            {
+                "ID": "5d6385f3f250a816135d8018",
+                "placeID": "5d6385f3f250a816135d1114",
+                "place": "Mariann Papság",
+                "startDate": {
+                    "year": 1940,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1940.01.01"
+                },
+                "endDate": {
+                    "year": 1960,
+                    "month": 12,
+                    "day": 12,
+                    "comment": "1960.12.12"
+                },
+                "munimentGenesisDate": {
+                    "year": 1940,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1940.01.01"
+                },
+                "munimentNumber": "351-231",
+                "munimentIssuingAuthority": "Mariann Papság Felügyelősége",
+                "income": "2800 Ron ",
+                "numberOfPeople": "700"
+            }
+        ],
+        "Consecration": {
+            "place": "Kolozsvár",
+            "date": {
+                "year": 2010,
+                "month": 7,
+                "day": 7
+            }
+        },
+        "churchOffices": [
+            {
+                "name": "Pásztor",
+                "endDate": {
+                    "year": 2010,
+                    "month": 7,
+                    "day": 7
+                },
+                "comment": "Szerette, amit csinál"
+            }
+        ],
+        "otherOffices": [
+            {
+                "name": "Programozó",
+                "startDate": {
+                    "year": 2004,
+                    "month": 8,
+                    "day": 8,
+                    "comment": "2004.08.08"
+                },
+                "comment": "Ügyes fiú"
+            }
+        ],
+        "priestReferences": [
+            {
+                "place": "\"Kincs, ami nincs\" YouTube sorozat",
+                "date": {
+                    "year": 2019
+                }
+            }
+        ],
+        "DisciplinaryMatters": [
+            {
+                "name": "Jancsi megszólta öltözködése miatt",
+                "issuingAuthority": "Szeretet"
+            }
+        ],
+        "note": "Nem kellett neki 2-szer mondani"
+    },
+    {
+        "ID": "5d6385f3f250a816135d1007",
+        "name": "Semmisemigaz Attila",
+        "birthDate": {
+            "year": 1800,
+            "month": 1,
+            "day": 1,
+            "comment": "1800.01.01"
+        },
+        "deathDate": {
+            "year": 2341,
+            "month": 8,
+            "day": 13,
+            "comment": "2341.08.13"
+        },
+        "birthCountry": "Csendesóceán",
+        "birthCounty": "Atlantisz",
+        "birthTown": "Atlantisz papnegyed",
+        "diocese": "Vízalatti",
+        "isMarried": false,
+        "isWidow": false,
+        "isDivorced": false,
+        "father": {
+            "name": "Semmisemigaz Apofisz"
+        },
+        "mother": {
+            "name": "Semmisemigaz Renáta"
+        },
+        "speakingSkills": {
+            "well": "ヒビカセ"
+        },
+        "writingSkills": {
+            "well": "ヒビカセ"
+        },
+        "army": "Vízalatt nincs háború",
+        "retirementDate": {
+            "year": 2020,
+            "month": 1,
+            "day": 1,
+            "comment": "2020.01.01"
+        },
+        "children": [],
+        "spouses": [],
+        "qualifications": [
+            {
+                "diplomaName": "Úszás",
+                "genesisDate": {
+                    "year": 1851,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1851.01.01"
+                },
+                "issuingAuthority": "Babes ÚszótanFOLYAM ... érted... folyam"
+            },
+            {
+                "diplomaName": "ElektronUtántöltőBeszéd",
+                "genesisDate": {
+                    "year": 1974,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1974.01.01"
+                },
+                "issuingAuthority": "A lehetetlen lehetséges közigazgatás"
+            },
+            {
+                "diplomaName": "Buvárkodás",
+                "genesisDate": {
+                    "year": 1974,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1974.01.01"
+                },
+                "issuingAuthority": "Vizipók csodapók tanoda"
+            }
+        ],
+        "assistantPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8019",
+                "placeID": "5d6385f3f250a816135d1115",
+                "place": "Honolulu",
+                "startDate": {
+                    "year": 2000,
+                    "month": 6,
+                    "day": 2,
+                    "comment": "2000.06.02"
+                },
+                "endDate": {
+                    "year": 2012,
+                    "month": 1,
+                    "day": 2,
+                    "comment": "2012.01.02"
+                }
+            }
+        ],
+        "mainPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8020",
+                "placeID": "5d6385f3f250a816135d1116",
+                "place": "Atlantisz",
+                "startDate": {
+                    "year": 1956,
+                    "month": 5,
+                    "day": 30,
+                    "comment": "1956.05.30"
+                },
+                "endDate": {
+                    "year": 2063,
+                    "month": 3,
+                    "day": 11,
+                    "comment": "2063.03.11"
+                },
+                "munimentGenesisDate": {
+                    "year": 1956,
+                    "month": 5,
+                    "day": 30,
+                    "comment": "1956.05.30"
+                },
+                "munimentNumber": "404",
+                "munimentIssuingAuthority": "Atlantiszi toronygyűlés",
+                "income": "26000 sekel",
+                "numberOfPeople": "3000"
+            }
+        ],
+        "Consecration": {
+            "place": "Hunyad",
+            "date": {
+                "year": 1400,
+                "month": 11,
+                "day": 11
+            }
+        }
+    },
+    {
+        "ID": "5d6385f3f250a816135d1008",
+        "name": "Cseke Csaba",
+        "birthDate": {
+            "year": 1923,
+            "month": 1,
+            "day": 1,
+            "comment": "1923.01.01"
+        },
+        "deathDate": {
+            "year": 1966,
+            "month": 8,
+            "day": 13,
+            "comment": "1966.08.13"
+        },
+        "subscriptionDate": {
+            "year": 1932,
+            "month": 8,
+            "day": 13,
+            "comment": "1932.08.13"
+        },
+        "graduationDate": {
+            "year": 1937,
+            "month": 8,
+            "day": 13,
+            "comment": "1937.08.13"
+        },
+        "birthCountry": "Románia",
+        "birthCounty": "Szilágymegye",
+        "birthTown": "Magyarkecel",
+        "diocese": "Zilahi",
+        "isMarried": true,
+        "isWidow": false,
+        "isDivorced": false,
+        "father": {
+            "name": "Cseke Gábor"
+        },
+        "mother": {
+            "name": "Cseke Melinda"
+        },
+        "speakingSkills": {
+            "well": "Angol, Magyar",
+            "less": "Román"
+        },
+        "writingSkills": {
+            "well": "Angol, Magyar",
+            "less": "Román"
+        },
+        "army": "Besorozva 1941-ban",
+        "retirementDate": {
+            "year": 0,
+            "month": 0,
+            "day": 0,
+            "comment": ""
+        },
+        "children": [
+            {
+                "name": "Józsi",
+                "birthPlace": "Zalaegerszeg",
+                "birthDate": {
+                    "year": 1965,
+                    "month": 1,
+                    "day": 10,
+                    "comment": "1965.01.10"
+                }
+            },
+            {
+                "name": "Csabi",
+                "birthPlace": "Zalaegerszeg",
+                "birthDate": {
+                    "year": 1965,
+                    "month": 1,
+                    "day": 10,
+                    "comment": "1965.01.10"
+                }
+            },
+            {
+                "name": "Zalán",
+                "birthPlace": "Zalaegerszeg",
+                "birthDate": {
+                    "year": 1965,
+                    "month": 1,
+                    "day": 10,
+                    "comment": "1965.01.10"
+                }
+            },
+            {
+                "name": "Dorottya",
+                "birthPlace": "Zalaegerszeg",
+                "birthDate": {
+                    "year": 1965,
+                    "month": 1,
+                    "day": 10,
+                    "comment": "1965.01.10"
+                }
+            }
+        ],
+        "spouses": [
+            {
+                "name": "Johanna",
+                "birthDate": {
+                    "year": 1923,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1923.01.01"
+                },
+                "job": "Szalámibiztos",
+                "marriageDate": {
+                    "year": 1965,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1965.01.01"
+                },
+                "fatherName": "Emánuel",
+                "motherName": "Karola"
+            },
+            {
+                "name": "Kincső",
+                "birthDate": {
+                    "year": 1923,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1923.01.01"
+                },
+                "job": "Éjjeliőr",
+                "marriageDate": {
+                    "year": 1955,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1955.01.01"
+                },
+                "fatherName": "Jóska",
+                "motherName": "Hortenzia"
+            }
+        ],
+        "qualifications": [
+            {
+                "diplomaName": "Érettségi bizonyítvány",
+                "genesisDate": {
+                    "year": 1933,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1933.01.01"
+                },
+                "issuingAuthority": "Ref. Koll Igazgatótanácsa"
+            },
+            {
+                "diplomaName": "Kiegészítő érettségi bizoyítvány",
+                "genesisDate": {
+                    "year": 1944,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1944.01.01"
+                },
+                "issuingAuthority": "Ref. Koll Igazgatótanácsa"
+            }
+        ],
+        "assistantPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8021",
+                "placeID": "5d6385f3f250a816135d1117",
+                "place": "Zilah",
+                "startDate": {
+                    "year": 1955,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1955.01.01"
+                },
+                "endDate": {
+                    "year": 1965,
+                    "month": 1,
+                    "day": 2,
+                    "comment": "1965.01.02"
+                }
+            }
+        ],
+        "mainPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8022",
+                "placeID": "5d6385f3f250a816135d1118",
+                "place": "Egrespatak",
+                "startDate": {
+                    "year": 1935,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1935.01.01"
+                },
+                "endDate": {
+                    "year": 1940,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1940.01.01"
+                },
+                "munimentGenesisDate": {
+                    "year": 1935,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1935.01.01"
+                },
+                "munimentNumber": "112",
+                "munimentIssuingAuthority": "PatakEgres",
+                "income": "140 euró",
+                "numberOfPeople": "70"
+            },
+            {
+                "ID": "5d6385f3f250a816135d8023",
+                "placeID": "5d6385f3f250a816135d1119",
+                "place": "Kraszna",
+                "startDate": {
+                    "year": 1940,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1940.01.01"
+                },
+                "endDate": {
+                    "year": 1945,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1945.01.01"
+                },
+                "munimentGenesisDate": {
+                    "year": 1940,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1940.01.01"
+                },
+                "munimentNumber": "07456/13",
+                "munimentIssuingAuthority": "Aliz",
+                "income": "800 gramm arany",
+                "numberOfPeople": "400"
+            }
+        ],
+        "note": "Békés egy ember volt"
+    },
+    {
+        "ID": "5d6385f3f250a816135d1009",
+        "name": "Hegyesi Botond",
+        "birthDate": {
+            "year": 1940,
+            "month": 12,
+            "day": 6,
+            "comment": "1940.12.16"
+        },
+        "deathDate": {
+            "year": 2010,
+            "month": 3,
+            "day": 18,
+            "comment": "2010.03.18"
+        },
+        "graduationDate": {
+            "year": 1919,
+            "month": 8,
+            "day": 13,
+            "comment": "1919.08.13"
+        },
+        "birthCountry": "Magyarország",
+        "birthCounty": "Békés",
+        "birthTown": "BékésCsaba",
+        "diocese": "Békési",
+        "isMarried": true,
+        "isWidow": false,
+        "isDivorced": false,
+        "father": {
+            "name": "Hegyesi János"
+        },
+        "mother": {
+            "name": "Hegyesi Mirjám"
+        },
+        "speakingSkills": {
+            "well": "Angol",
+            "less": "Román"
+        },
+        "writingSkills": {
+            "well": "Angol",
+            "less": "Román"
+        },
+        "army": "Felmentve",
+        "retirementDate": {
+            "year": 2005,
+            "month": 6,
+            "day": 6,
+            "comment": "2005.06.06"
+        },
+        "children": [
+            {
+                "name": "Obed",
+                "birthPlace": "Békés",
+                "birthDate": {
+                    "year": 1960,
+                    "month": 3,
+                    "day": 2,
+                    "comment": "1960.03.02"
+                }
+            }
+        ],
+        "spouses": [
+            {
+                "name": "Csilla",
+                "birthDate": {
+                    "year": 1942,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1942.01.01"
+                },
+                "job": "Háziasszony",
+                "marriageDate": {
+                    "year": 1960,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1960.01.01."
+                },
+                "fatherName": "László",
+                "motherName": "Irma"
+            }
+        ],
+        "qualifications": [
+            {
+                "diplomaName": "Érettségi bizonyítvány",
+                "genesisDate": {
+                    "year": 1963,
+                    "month": 3,
+                    "day": 2,
+                    "comment": "1963.03.02"
+                },
+                "issuingAuthority": "Ref. Koll Igazgatótanácsa"
+            },
+            {
+                "diplomaName": "Kiegészítő érettségi bizoyítvány",
+                "genesisDate": {
+                    "year": 1968,
+                    "month": 7,
+                    "day": 17,
+                    "comment": "1968.07.17"
+                },
+                "issuingAuthority": "Ref. Koll Igazgatótanácsa"
+            }
+        ],
+        "mainPriestPlaces": [
+            {
+                "ID": "5d6385f3f250a816135d8025",
+                "placeID": "5d6385f3f250a816135d1121",
+                "place": "Békéscsaba",
+                "startDate": {
+                    "year": 1965,
+                    "month": 1,
+                    "day": 2,
+                    "comment": "1965.01.02"
+                },
+                "endDate": {
+                    "year": 1970,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1970.01.01"
+                },
+                "munimentGenesisDate": {
+                    "year": 1965,
+                    "month": 1,
+                    "day": 2,
+                    "comment": "1965.01.02"
+                },
+                "munimentNumber": "9825A",
+                "munimentIssuingAuthority": "Békési Egyháztanács",
+                "income": "3000 ajöró",
+                "numberOfPeople": "462"
+            },
+            {
+                "ID": "5d6385f3f250a816135d8024",
+                "placeID": "5d6385f3f250a816135d1120",
+                "place": "Békés",
+                "startDate": {
+                    "year": 1970,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1970.01.01"
+                },
+                "endDate": {
+                    "year": 1995,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1995.01.01"
+                },
+                "munimentGenesisDate": {
+                    "year": 1970,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1970.01.01"
+                },
+                "munimentNumber": "9837A",
+                "munimentIssuingAuthority": "Békési Egyháztanács",
+                "income": "800 ajöró",
+                "numberOfPeople": "23"
+            }
+        ],
+        "changedCareer": {
+            "name": "Petárdaárus telefon szerelő miniszterelnök bálnavadász",
+            "date": {
+                "year": 2000,
+                "month": 1,
+                "day": 1
+            }
+        }
+    },
+    {
+        "ID": "5d6385f3f250a816135d1010",
+        "name": "Adat Ádám",
+        "deathDate": {
+            "year": 2019,
+            "month": 8,
+            "day": 13,
+            "comment": "2019.08.13"
+        },
+        "mainPriestPlaces": [
+            {
+                "endDate": {
+                    "year": 1970,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1970.01.01"
+                }
+            }
+        ],
+        "Suspensions": [
+            {
+                "startDate": {
+                    "year": 1994,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1994.01.01"
+                },
+                "endDate": {
+                    "year": 1998,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1998.01.01"
+                },
+                "punishment": "Nem volt szabad beszélnie. Itt járt Ézi."
+            },
+            {
+                "startDate": {
+                    "year": 2007,
+                    "month": 12,
+                    "day": 12
+                },
+                "endDate": {
+                    "year": 2016,
+                    "month": 10,
+                    "day": 10,
+                    "comment": "2016.10.10"
+                },
+                "punishment": "Megbotozták a talpát."
+            }
+        ]
+    }
+]

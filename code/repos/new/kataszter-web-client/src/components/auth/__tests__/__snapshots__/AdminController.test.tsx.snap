@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AdminController element should render a menu 1`] = `
+Array [
+  <h1
+    className="ui header"
+  >
+    Admin
+  </h1>,
+  <div
+    className="ui violet huge fluid secondary vertical menu"
+  >
+    <a
+      className="active item"
+      onClick={[Function]}
+    >
+      All accounts
+    </a>
+    <a
+      className="item"
+      onClick={[Function]}
+    >
+      Admin
+    </a>
+    <a
+      className="item"
+      onClick={[Function]}
+    >
+      Editor
+    </a>
+    <a
+      className="item"
+      onClick={[Function]}
+    >
+      Reader
+    </a>
+    <a
+      className="item"
+      onClick={[Function]}
+    >
+      Guest
+    </a>
+    <a
+      className="item"
+      onClick={[Function]}
+    >
+      Pending
+    </a>
+    <a
+      className="item"
+      onClick={[Function]}
+    >
+      Refused
+    </a>
+  </div>,
+]
+`;

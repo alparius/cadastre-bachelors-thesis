@@ -1,0 +1,21 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+</head>
+
+<body>
+    <h3>Üdv, {{.User.Name}}!</h3>
+    <p>Az ön hozzáférési kérése a <b>Lelkész Kataszter</b> oldalhoz elfogadásra került.</p>
+
+    <p>Az ön hozzáférési szintje: <i>{{.User.Role}}</i></p>
+    <p>{{if ne .Message ""}}A döntéshozó adminisztrátor a követező üzenetet hagyta: "<i>{{.Message}}</i>".{{end}}</p>
+
+    <p>Most már <a href="https://kataszter.test.edu.codespring.ro/">bejelentkezhet</a> és kezdheti használi a szintjéhez
+        rendelt szolgáltatásokat.</p>
+
+    <p>További minden jót,<br />a Lelkész Kataszter csapata</p>
+
+</body>
+
+</html>

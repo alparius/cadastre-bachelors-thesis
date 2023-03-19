@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DateDisplay element should render a noData label, nothing given 1`] = `
+<i>
+  No data
+</i>
+`;
+
+exports[`DateDisplay element should render a popup with a span, full date given 1`] = `
+<span
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  2000.06.06
+</span>
+`;
+
+exports[`DateDisplay element should render just a span with a comment, no date given 1`] = `
+<i
+  style={
+    Object {
+      "color": "gray",
+    }
+  }
+>
+  test
+</i>
+`;
+
+exports[`DateDisplay element should render just a span, no comment given 1`] = `"2000.06.06"`;

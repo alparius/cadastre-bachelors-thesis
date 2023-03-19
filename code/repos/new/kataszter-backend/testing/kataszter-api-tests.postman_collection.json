@@ -1,0 +1,4259 @@
+{
+	"info": {
+		"_postman_id": "1e4b3861-f200-4f85-be98-caf1d3d71e4e",
+		"name": "kataszter-api-tests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "user management",
+			"item": [
+				{
+					"name": "POST /login START FROM HERE",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "b93438e1-b5c8-447f-83a3-7e143597f167",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});\r",
+									"\r",
+									"setTimeout(function(){}, 1000);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"admin@admin.admin\",\r\n\t\"password\": \"{{pass_admin}}\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /smtpstatus",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is false\", function () {\r",
+									"    pm.expect(responseBody === false);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/smtpstatus",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"smtpstatus"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /logout (justincase)",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/logout",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /logout (justincase) Copy",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/logout",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /logout (justincase) Copy",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/logout",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /users unauthorized 1",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "fbbf6210-9457-440f-a3c9-c4884c6d8fcc",
+								"exec": [
+									"pm.test(\"response is UnAuthorized\", function () {\r",
+									"    pm.response.to.have.status(401);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/users",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /register missing-fields",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3da99c29-4247-4625-86d5-4786599d8279",
+								"exec": [
+									"pm.test(\"response is BadRequest\", function () {\r",
+									"    pm.response.to.have.status(400);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"name\": \"alpi\",\r\n\t\"email\": \"alpi@alpi.alpi\"\r\n\t\"message\": \"blabla\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/register",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /register",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3da99c29-4247-4625-86d5-4786599d8279",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 1500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(1500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"name\": \"alpi\",\r\n\t\"email\": \"alpi@alpi.alpi\",\r\n\t\"password\": \"alpi\",\r\n\t\"message\": \"blabla\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/register",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /register again",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3da99c29-4247-4625-86d5-4786599d8279",
+								"exec": [
+									"pm.test(\"response is Conflict\", function () {\r",
+									"    pm.response.to.have.status(409);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response contains object with label\", function () {\r",
+									"    pm.expect(JSON.parse(responseBody)).to.have.property('label');\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"name\": \"alpi\",\r\n\t\"email\": \"alpi@alpi.alpi\",\r\n\t\"password\": \"alpi\",\r\n\t\"message\": \"blabla\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/register",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /login wrong-fields",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "1ff54ffa-d2d0-4cd3-a3dd-cea2d6bcb935",
+								"exec": [
+									"pm.test(\"response is BadRequest\", function () {\r",
+									"    pm.response.to.have.status(400);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"admin@admin.admin\",\r\n\t\"asd\": \"kiri\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /login pending",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "1ff54ffa-d2d0-4cd3-a3dd-cea2d6bcb935",
+								"exec": [
+									"pm.test(\"response is Unauthorized\", function () {\r",
+									"    pm.response.to.have.status(401);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response contains object with label\", function () {\r",
+									"    pm.expect(JSON.parse(responseBody)).to.have.property('label');\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"alpi@alpi.alpi\",\r\n\t\"password\": \"kiri\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /login missing-fields",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "12a9a54d-a2dd-4726-9501-d745c99442a4",
+								"exec": [
+									"pm.test(\"response is BadRequest\", function () {\r",
+									"    pm.response.to.have.status(400);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"admin@admin.admin\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /login wrong-credentials",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "1ff54ffa-d2d0-4cd3-a3dd-cea2d6bcb935",
+								"exec": [
+									"pm.test(\"response is UnAuthorized\", function () {\r",
+									"    pm.response.to.have.status(401);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"admin@admin.admin\",\r\n\t\"password\": \"alpi\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /login wrong-email",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "1ff54ffa-d2d0-4cd3-a3dd-cea2d6bcb935",
+								"exec": [
+									"pm.test(\"response is UnAuthorized\", function () {\r",
+									"    pm.response.to.have.status(401);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"alpi@kiri.kiri\",\r\n\t\"password\": \"alpi\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /users unauthorized 2",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "fbbf6210-9457-440f-a3c9-c4884c6d8fcc",
+								"exec": [
+									"pm.test(\"response is UnAuthorized\", function () {\r",
+									"    pm.response.to.have.status(401);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/users",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /user/me unauthorized 1",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response is UnAuthorized\", function () {\r",
+									"    pm.response.to.have.status(401);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/user/me",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"user",
+								"me"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /login",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "b93438e1-b5c8-447f-83a3-7e143597f167",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});\r",
+									"\r",
+									"setTimeout(function(){}, 1000);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"admin@admin.admin\",\r\n\t\"password\": \"{{pass_admin}}\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /smtpstatus true",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is true\", function () {\r",
+									"    pm.expect(responseBody === true);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/smtpstatus",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"smtpstatus"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /users",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "fbbf6210-9457-440f-a3c9-c4884c6d8fcc",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 6 objects\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(6);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/users",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /user/me 1",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response contains an object with Email\", function () {\r",
+									"    pm.expect(JSON.parse(responseBody)).to.have.property('email');\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/user/me",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"user",
+								"me"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /logout 1",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/logout",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /login reader",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "b93438e1-b5c8-447f-83a3-7e143597f167",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});\r",
+									"\r",
+									"setTimeout(function(){}, 1000);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"reader@reader.reader\",\r\n\t\"password\": \"{{pass_reader}}\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /users reader forbidden",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "fbbf6210-9457-440f-a3c9-c4884c6d8fcc",
+								"exec": [
+									"pm.test(\"response is Forbidden\", function () {\r",
+									"    pm.response.to.have.status(403);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/users",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /user/me 2",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response contains an object with Email\", function () {\r",
+									"    pm.expect(JSON.parse(responseBody)).to.have.property('email');\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/user/me",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"user",
+								"me"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /logout 2",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/logout",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /users unauthorized 3",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "fbbf6210-9457-440f-a3c9-c4884c6d8fcc",
+								"exec": [
+									"pm.test(\"response is UnAuthorized\", function () {\r",
+									"    pm.response.to.have.status(401);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/users",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /user/me unauthorized 2",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response is UnAuthorized\", function () {\r",
+									"    pm.response.to.have.status(401);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/user/me",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"user",
+								"me"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "/priests - list and filter",
+			"item": [
+				{
+					"name": "POST /login admin",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "b93438e1-b5c8-447f-83a3-7e143597f167",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});\r",
+									"\r",
+									"setTimeout(function(){}, 1000);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"admin@admin.admin\",\r\n\t\"password\": \"{{pass_admin}}\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "c0a88754-2eb3-4df9-acf3-58ca0f4d9c53",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 11 objects\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(11);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests chart",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "c0a88754-2eb3-4df9-acf3-58ca0f4d9c53",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 11 objects\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(11);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?chart=yes",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "chart",
+									"value": "yes"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?birthtown",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "e42536be-a220-4f35-b605-079d2203d770",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 1 object\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(1);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?birthTown=ger",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "birthTown",
+									"value": "ger"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?birthtown noresult",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "6d4007b6-f3ce-489a-af0a-972636d4f729",
+								"exec": [
+									"pm.test(\"response is NoContent\", function () {",
+									"    pm.response.to.have.status(204);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response body is null\", function () {",
+									"    pm.expect(responseBody === null);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?birthTown=german",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "birthTown",
+									"value": "german"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?name",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "39d1c249-93a1-4040-9bc7-7d871f7de1c6",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 2 objects\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(2);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?name=ános",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": "ános"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?name noresult",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "079eefe3-993d-433c-a2fd-1ff14695f7c8",
+								"exec": [
+									"pm.test(\"response is NoContent\", function () {",
+									"    pm.response.to.have.status(204);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response body is null\", function () {",
+									"    pm.expect(responseBody === null);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?name=ilonk",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": "ilonk"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?name&birthtown",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "e12cf280-72ce-4cf1-af29-e33eb4c52db7",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 1 object\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(1);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?name=lelkész&birthTown=eger",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": "lelkész"
+								},
+								{
+									"key": "birthTown",
+									"value": "eger"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?birthtown&name",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "1fe2ed24-9e74-481b-aa1f-c60996164bab",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 1 object\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(1);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?birthTown=eger&name=lelkész",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "birthTown",
+									"value": "eger"
+								},
+								{
+									"key": "name",
+									"value": "lelkész"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?name&birthtown noresult",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "0c3c466c-c8cf-460e-859f-3a994766945e",
+								"exec": [
+									"pm.test(\"response is NoContent\", function () {",
+									"    pm.response.to.have.status(204);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response body is null\", function () {",
+									"    pm.expect(responseBody === null);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?name=lelkész&birthTown=Krasz",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": "lelkész"
+								},
+								{
+									"key": "birthTown",
+									"value": "Krasz"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?name&birthtown halfempty 1",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "e12cf280-72ce-4cf1-af29-e33eb4c52db7",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 1 object\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(1);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?name=lelkész&birthTown=",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": "lelkész"
+								},
+								{
+									"key": "birthTown",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?name&birthtown halfempty 2",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "e12cf280-72ce-4cf1-af29-e33eb4c52db7",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 1 object\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(1);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?name=&birthTown=eger",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": ""
+								},
+								{
+									"key": "birthTown",
+									"value": "eger"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?<all> empty",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "e12cf280-72ce-4cf1-af29-e33eb4c52db7",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 11 objects\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(11);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?name=&birthTown=&placement=&area=",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": ""
+								},
+								{
+									"key": "birthTown",
+									"value": ""
+								},
+								{
+									"key": "placement",
+									"value": ""
+								},
+								{
+									"key": "area",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests? malformed query",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "78c8964c-36ea-4446-9f5e-f6289a8bd1f6",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 11 objects\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(11);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?lol=lol",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "lol",
+									"value": "lol"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests malformed nonquery",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3c96ee03-4483-45ee-8ec9-5c9d768c9c63",
+								"exec": [
+									"pm.test(\"response is NotFound\", function () {",
+									"    pm.response.to.have.status(404);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response body is null\", function () {",
+									"    pm.expect(responseBody === null);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests/name=lelk",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests",
+								"name=lelk"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?placement",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "39d1c249-93a1-4040-9bc7-7d871f7de1c6",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 2 objects\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(2);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?placement=m",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "placement",
+									"value": "m"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?name&birthtown&placement",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "39d1c249-93a1-4040-9bc7-7d871f7de1c6",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 1 object\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(1);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?placement=m&birthTown=szeg&name=lelk",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "placement",
+									"value": "m"
+								},
+								{
+									"key": "birthTown",
+									"value": "szeg"
+								},
+								{
+									"key": "name",
+									"value": "lelk"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?area",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "39d1c249-93a1-4040-9bc7-7d871f7de1c6",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 2 objects\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(2);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?area=zal",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "area",
+									"value": "zal"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?name&birthtown&placement&area",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "39d1c249-93a1-4040-9bc7-7d871f7de1c6",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 1 object\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(1);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?placement=m&birthTown=szeg&name=lelk&area=mogyor",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "placement",
+									"value": "m"
+								},
+								{
+									"key": "birthTown",
+									"value": "szeg"
+								},
+								{
+									"key": "name",
+									"value": "lelk"
+								},
+								{
+									"key": "area",
+									"value": "mogyor"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?<all,specific>",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "39d1c249-93a1-4040-9bc7-7d871f7de1c6",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 1 object\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(1);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?name=&birthTown=&placement=&area=&activeStart=1931&activeEnd=1943&birthStart=1901&birthEnd=1927&deathStart=1962&deathEnd=1989&subscriptionStart=1931&subscriptionEnd=1939&graduationStart=1935&graduationEnd=1975",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": ""
+								},
+								{
+									"key": "birthTown",
+									"value": ""
+								},
+								{
+									"key": "placement",
+									"value": ""
+								},
+								{
+									"key": "area",
+									"value": ""
+								},
+								{
+									"key": "activeStart",
+									"value": "1931"
+								},
+								{
+									"key": "activeEnd",
+									"value": "1943"
+								},
+								{
+									"key": "birthStart",
+									"value": "1901"
+								},
+								{
+									"key": "birthEnd",
+									"value": "1927"
+								},
+								{
+									"key": "deathStart",
+									"value": "1962"
+								},
+								{
+									"key": "deathEnd",
+									"value": "1989"
+								},
+								{
+									"key": "subscriptionStart",
+									"value": "1931"
+								},
+								{
+									"key": "subscriptionEnd",
+									"value": "1939"
+								},
+								{
+									"key": "graduationStart",
+									"value": "1935"
+								},
+								{
+									"key": "graduationEnd",
+									"value": "1975"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /priests?<all,null> Copy",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "39d1c249-93a1-4040-9bc7-7d871f7de1c6",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 11 object\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(11);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests?name=&birthTown=&placement=&area=&activeStart=1800&activeEnd=2020&birthStart=1800&birthEnd=2020&deathStart=1800&deathEnd=2020&subscriptionStart=1800&subscriptionEnd=2020&graduationStart=1800&graduationEnd=2020",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests"
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": ""
+								},
+								{
+									"key": "birthTown",
+									"value": ""
+								},
+								{
+									"key": "placement",
+									"value": ""
+								},
+								{
+									"key": "area",
+									"value": ""
+								},
+								{
+									"key": "activeStart",
+									"value": "1800"
+								},
+								{
+									"key": "activeEnd",
+									"value": "2020"
+								},
+								{
+									"key": "birthStart",
+									"value": "1800"
+								},
+								{
+									"key": "birthEnd",
+									"value": "2020"
+								},
+								{
+									"key": "deathStart",
+									"value": "1800"
+								},
+								{
+									"key": "deathEnd",
+									"value": "2020"
+								},
+								{
+									"key": "subscriptionStart",
+									"value": "1800"
+								},
+								{
+									"key": "subscriptionEnd",
+									"value": "2020"
+								},
+								{
+									"key": "graduationStart",
+									"value": "1800"
+								},
+								{
+									"key": "graduationEnd",
+									"value": "2020"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /logout",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/logout",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "75e161f3-4580-4a60-a27f-da182f1fd36d",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"id": "c8809d0f-c849-4739-9437-b069b44e042b",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "/priest - profile",
+			"item": [
+				{
+					"name": "POST /login admin Copy",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "b93438e1-b5c8-447f-83a3-7e143597f167",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});\r",
+									"\r",
+									"setTimeout(function(){}, 1000);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"admin@admin.admin\",\r\n\t\"password\": \"{{pass_admin}}\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /1",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "be7c4bd5-03e2-4c9e-9cba-e8fc188f0805",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response conatins object with id\", function () {\r",
+									"    pm.expect(JSON.parse(responseBody)).to.have.property('ID');\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priest/5d6385f3f250a816135d1001",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priest",
+								"5d6385f3f250a816135d1001"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /404",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "6702f79d-5c03-48be-9f02-508e4c0f1109",
+								"exec": [
+									"pm.test(\"response is NotFound\", function () {\r",
+									"    pm.response.to.have.status(404);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priest/5d6385f3f250a816135d1100",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priest",
+								"5d6385f3f250a816135d1100"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /dummy",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "2f9a56fe-726f-487b-96f6-4bf4e1ad4d9c",
+								"exec": [
+									"pm.test(\"response is NotFound\", function () {\r",
+									"    pm.response.to.have.status(404);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priest/dummy",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priest",
+								"dummy"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /logout Copy",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/logout",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "/parish, /parishes - filter and profile",
+			"item": [
+				{
+					"name": "POST /login admin Copy",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "b93438e1-b5c8-447f-83a3-7e143597f167",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});\r",
+									"\r",
+									"setTimeout(function(){}, 1000);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"admin@admin.admin\",\r\n\t\"password\": \"{{pass_admin}}\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /parishes",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3a26f462-3542-42b9-92d0-371953f36cf7",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 22 objects\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(22);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/parishes",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"parishes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /parishes?name",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3a26f462-3542-42b9-92d0-371953f36cf7",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 5 objects\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(5);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/parishes?parishName=sz",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"parishes"
+							],
+							"query": [
+								{
+									"key": "parishName",
+									"value": "sz"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /parishes?name noresult",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3a26f462-3542-42b9-92d0-371953f36cf7",
+								"exec": [
+									"pm.test(\"response is NoContent\", function () {",
+									"    pm.response.to.have.status(204);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response body is null\", function () {",
+									"    pm.expect(responseBody === null);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/parishes?parishName=lol",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"parishes"
+							],
+							"query": [
+								{
+									"key": "parishName",
+									"value": "lol"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /parishes?name empty",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3a26f462-3542-42b9-92d0-371953f36cf7",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 22 objects\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(22);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/parishes?parishName=",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"parishes"
+							],
+							"query": [
+								{
+									"key": "parishName",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /parishes malformed",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3a26f462-3542-42b9-92d0-371953f36cf7",
+								"exec": [
+									"pm.test(\"response is NotFound\", function () {",
+									"    pm.response.to.have.status(404);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response body is null\", function () {",
+									"    pm.expect(responseBody === null);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/parishes/parishName=",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"parishes",
+								"parishName="
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /parish",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3a26f462-3542-42b9-92d0-371953f36cf7",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response conatins object with id\", function () {",
+									"    pm.expect(JSON.parse(responseBody)).to.have.property('ID');",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/parish/5d6385f3f250a816135d1100",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"parish",
+								"5d6385f3f250a816135d1100"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /parish noresult",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3a26f462-3542-42b9-92d0-371953f36cf7",
+								"exec": [
+									"pm.test(\"response is NotFound\", function () {",
+									"    pm.response.to.have.status(404);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response body is null\", function () {",
+									"    pm.expect(responseBody === null);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/parish/5d6385f3f250a816135d1130",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"parish",
+								"5d6385f3f250a816135d1130"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /parish malformed",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3a26f462-3542-42b9-92d0-371953f36cf7",
+								"exec": [
+									"pm.test(\"response is NotFound\", function () {",
+									"    pm.response.to.have.status(404);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response body is null\", function () {",
+									"    pm.expect(responseBody === null);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/parish/123",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"parish",
+								"123"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /logout Copy",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/logout",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "/priest - create",
+			"item": [
+				{
+					"name": "POST /login admin Copy",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "b93438e1-b5c8-447f-83a3-7e143597f167",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});\r",
+									"\r",
+									"setTimeout(function(){}, 1000);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"admin@admin.admin\",\r\n\t\"password\": \"{{pass_admin}}\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /priest minimal",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "546db49e-38e6-48f6-a467-510c75e95b28",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response conatins object with label\", function () {",
+									"    pm.expect(JSON.parse(responseBody)).to.have.property('label');",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\": \"Lelkész János\",\r\n    \"birthTown\": \"Egerszeg\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/priest",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priest"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /priest",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "546db49e-38e6-48f6-a467-510c75e95b28",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response conatins object with label\", function () {",
+									"    pm.expect(JSON.parse(responseBody)).to.have.property('label');",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"name\": \"Teljes Tihamér\",\r\n    \"birthDate\": {\r\n        \"year\": 1980,\r\n        \"month\": 1,\r\n        \"day\": 1,\r\n        \"comment\": \"80 derekán\"\r\n    },\r\n    \"birthTown\": \"Egerszeg\"\r\n}\r\n"
+						},
+						"url": {
+							"raw": "{{server}}/api/priest",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priest"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /priest unkownfield",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "546db49e-38e6-48f6-a467-510c75e95b28",
+								"exec": [
+									"pm.test(\"response is BadRequest\", function () {",
+									"    pm.response.to.have.status(400);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response conatins object with label\", function () {",
+									"    pm.expect(JSON.parse(responseBody)).to.have.property('label');",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"name\": \"Teljes Tihamér\",\r\n    \"halabala\": \"1955.01.01\"\r\n}\r\n"
+						},
+						"url": {
+							"raw": "{{server}}/api/priest",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priest"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /logout Copy",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/logout",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "/priests - delete",
+			"item": [
+				{
+					"name": "DELETE /priests/5d6385f3f250a816135d1000 unauthorized",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "ec4fe496-11b4-464d-a546-e23aa8c1a6b4",
+								"exec": [
+									"pm.test(\"unauthorized\", function () {\r",
+									"    pm.response.to.have.status(401);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});\r",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests/5d6385f3f250a816135d1000",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests",
+								"5d6385f3f250a816135d1000"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /login admin Copy",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "b93438e1-b5c8-447f-83a3-7e143597f167",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});\r",
+									"\r",
+									"setTimeout(function(){}, 1000);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"admin@admin.admin\",\r\n\t\"password\": \"{{pass_admin}}\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE /priests/5d6385f3f250a816135d1000 existent",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "6366b2b8-7a5f-41b0-ac46-6263c2fc1a35",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"Body is correct\", function () {\r",
+									"    pm.response.to.have.body(\"null\");\r",
+									"});\r",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests/5d6385f3f250a816135d1000",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests",
+								"5d6385f3f250a816135d1000"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE /priests/5d6385f3f250a816135d0404 nonexistent",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "94fb23b8-c6e3-4498-a054-e7956abed746",
+								"exec": [
+									"pm.test(\"not found\", function () {\r",
+									"    pm.response.to.have.status(404);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});\r",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests/5d6385f3f250a816135d0404",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests",
+								"5d6385f3f250a816135d0404"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /logout Copy",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/logout",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "/parishes - create",
+			"item": [
+				{
+					"name": "POST /parishes unauthorized",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "ec4fe496-11b4-464d-a546-e23aa8c1a6b4",
+								"exec": [
+									"pm.test(\"unauthorized\", function () {",
+									"    pm.response.to.have.status(401);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response body is null\", function () {",
+									"    pm.expect(responseBody === null);",
+									"});",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"name\":\"Szeretet\"\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/parishes",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"parishes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /login admin",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "bd036c7d-e094-48c4-a932-c8f0fbc00ce1",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response conatins object with label\", function () {\r",
+									"    pm.expect(JSON.parse(responseBody)).to.have.property('label');\r",
+									"});\r",
+									"\r",
+									"setTimeout(function(){}, 1000);\r",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"admin@admin.admin\",\r\n\t\"password\": \"{{pass_admin}}\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /parishes",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "ec4fe496-11b4-464d-a546-e23aa8c1a6b4",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response conatins object with label\", function () {",
+									"    pm.expect(JSON.parse(responseBody)).to.have.property('label');",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"name\":\"Szeretet\"\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/parishes",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"parishes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /logout Copy",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/logout",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "/parishes - update",
+			"item": [
+				{
+					"name": "POST /parishes/5d6385f3f250a816135d1121 unauthorized",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "ec4fe496-11b4-464d-a546-e23aa8c1a6b4",
+								"exec": [
+									"pm.test(\"unauthorized\", function () {",
+									"    pm.response.to.have.status(401);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response body is null\", function () {",
+									"    pm.expect(responseBody === null);",
+									"});",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\": \"5d6385f3f250a816135d1100\",\n    \"name\": \"Krumpli Gyülekezet\",\n    \"cityName\": \"Krumpli\",\n    \"description\": \"Központban található, Főutca 23. házszám alatt.\",\n    \"history\": \"1971-ben átköltözött a Mellékutca 24. házszám alól a Főutca 23. házszám alá.\",\n    \"pastNames\": [\n        {\n            \"name\": \"Marosvásárhely Gyülekezet\",\n            \"startDate\": \"1860.06.06\",\n            \"endDate\": \"1900.06.06\"\n        },\n        {\n            \"name\": \"Marosvásárhely Központi Gyülekezet\",\n            \"startDate\": \"1900.06.06\",\n            \"endDate\": \"1920.06.06\"\n        },\n        {\n            \"name\": \"Marosvásárhely Gyülekezet\",\n            \"startDate\": \"1920.06.06\"\n        }\n    ],\n    \"coordinates\": {\n        \"latitude\": 34.532,\n        \"longitude\": 5.123\n    },\n    \"assistantPriests\": [\n        {\n            \"priestID\": \"5d6385f3f250a816135d1000\",\n            \"priestName\": \"Lelkész János\",\n            \"startDate\": {\n                \"year\": 1970,\n                \"month\": 1,\n                \"day\": 1,\n                \"comment\": \"1970.01.01\"\n            },\n            \"endDate\": {\n                \"year\": 1970,\n                \"month\": 1,\n                \"day\": 2,\n                \"comment\": \"1970.01.02\"\n            }\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{server}}/api/parishes/5d6385f3f250a816135d1121",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"parishes",
+								"5d6385f3f250a816135d1121"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /login admin",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "bd036c7d-e094-48c4-a932-c8f0fbc00ce1",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response conatins object with label\", function () {\r",
+									"    pm.expect(JSON.parse(responseBody)).to.have.property('label');\r",
+									"});\r",
+									"\r",
+									"setTimeout(function(){}, 1000);\r",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"admin@admin.admin\",\r\n\t\"password\": \"{{pass_admin}}\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /parishes/5d6385f3f250a816135d1121 existent",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "ec4fe496-11b4-464d-a546-e23aa8c1a6b4",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"Body is correct\", function () {",
+									"    pm.response.to.have.body(\"null\");",
+									"});",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\": \"5d6385f3f250a816135d1100\",\n    \"name\": \"Krumpli Gyülekezet\",\n    \"cityName\": \"Krumpli\",\n    \"description\": \"Központban található, Főutca 23. házszám alatt.\",\n    \"history\": \"1971-ben átköltözött a Mellékutca 24. házszám alól a Főutca 23. házszám alá.\",\n    \"pastNames\": [\n        {\n            \"name\": \"Marosvásárhely Gyülekezet\",\n            \"startDate\": \"1860.06.06\",\n            \"endDate\": \"1900.06.06\"\n        },\n        {\n            \"name\": \"Marosvásárhely Központi Gyülekezet\",\n            \"startDate\": \"1900.06.06\",\n            \"endDate\": \"1920.06.06\"\n        },\n        {\n            \"name\": \"Marosvásárhely Gyülekezet\",\n            \"startDate\": \"1920.06.06\"\n        }\n    ],\n    \"coordinates\": {\n        \"latitude\": 34.532,\n        \"longitude\": 5.123\n    },\n    \"assistantPriests\": [\n        {\n            \"priestID\": \"5d6385f3f250a816135d1000\",\n            \"priestName\": \"Lelkész János\",\n            \"startDate\": {\n                \"year\": 1970,\n                \"month\": 1,\n                \"day\": 1,\n                \"comment\": \"1970.01.01\"\n            },\n            \"endDate\": {\n                \"year\": 1970,\n                \"month\": 1,\n                \"day\": 2,\n                \"comment\": \"1970.01.02\"\n            }\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{server}}/api/parishes/5d6385f3f250a816135d1121",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"parishes",
+								"5d6385f3f250a816135d1121"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /parishes/5d6385f3f250a816135d1121 nonexistent",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "ec4fe496-11b4-464d-a546-e23aa8c1a6b4",
+								"exec": [
+									"pm.test(\"not found\", function () {",
+									"    pm.response.to.have.status(404);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response body is null\", function () {",
+									"    pm.expect(responseBody === null);",
+									"});",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\": \"5d6385f3f250a816135d0404\",\n    \"name\": \"Szolgalat\",\n    \"description\": \"... alazat\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{server}}/api/parishes/5d6385f3f250a816135d1121",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"parishes",
+								"5d6385f3f250a816135d1121"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /logout",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/logout",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "/priest-file",
+			"item": [
+				{
+					"name": "POST /login",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "b93438e1-b5c8-447f-83a3-7e143597f167",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});\r",
+									"\r",
+									"setTimeout(function(){}, 1000);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"admin@admin.admin\",\r\n\t\"password\": \"{{pass_admin}}\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /priests/5d6385f3f250a816135d1000/pictures",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "b7115307-2854-47ec-a28c-f4858324bf24",
+								"exec": [
+									"pm.test(\"server error\", function () {\r",
+									"    pm.response.to.have.status(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{server}}/api/priests/5d6385f3f250a816135d1000/pictures",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests",
+								"5d6385f3f250a816135d1000",
+								"pictures"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE /priests/5d6385f3f250a816135d1000/pictures/%2e%2e%5c%5cgo.mod",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "6b1fed61-3305-4b68-9e96-ac61e18b48f6",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(500);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/priests/5d6385f3f250a816135d1000/pictures/%2e%2e%5c%5cgo.mod",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"priests",
+								"5d6385f3f250a816135d1000",
+								"pictures",
+								"%2e%2e%5c%5cgo.mod"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /logout",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/logout",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "aa75d7f7-be08-4927-949b-efe9314b009b",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"id": "db4ee159-a73c-4345-8bbf-92576d64ae87",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "/article",
+			"item": [
+				{
+					"name": "GET /articles",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "c0a88754-2eb3-4df9-acf3-58ca0f4d9c53",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response contains exactly 2 objects\", function () {",
+									"    pm.expect(JSON.parse(responseBody).length).to.be.eq(2);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/articles",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"articles"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /login admin",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "bd036c7d-e094-48c4-a932-c8f0fbc00ce1",
+								"exec": [
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response conatins object with label\", function () {\r",
+									"    pm.expect(JSON.parse(responseBody)).to.have.property('label');\r",
+									"});\r",
+									"\r",
+									"setTimeout(function(){}, 1000);\r",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"email\": \"admin@admin.admin\",\r\n\t\"password\": \"{{pass_admin}}\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/login",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST /article",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "c0a88754-2eb3-4df9-acf3-58ca0f4d9c53",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response body is null\", function () {",
+									"    pm.expect(responseBody === null);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"title\": \"hir\",\r\n    \"content\": \"hir belseje\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/article",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"article"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PUT /article",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "c0a88754-2eb3-4df9-acf3-58ca0f4d9c53",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response body is null\", function () {",
+									"    pm.expect(responseBody === null);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\t\"ID\": \"5d68db03723a699fc018b200\",\r\n\t\"title\": \"hir\",\r\n    \"content\": \"hir belseje\"\r\n}"
+						},
+						"url": {
+							"raw": "{{server}}/api/article",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"article"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE /article/:id",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "c0a88754-2eb3-4df9-acf3-58ca0f4d9c53",
+								"exec": [
+									"pm.test(\"response is ok\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"response time is less than 500ms\", function () {",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);",
+									"});",
+									"",
+									"pm.test(\"response body is null\", function () {",
+									"    pm.expect(responseBody === null);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/article/5d68db03723a699fc018b200",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"article",
+								"5d68db03723a699fc018b200"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /logout",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "aa58332a-f91c-4692-90e8-cc7df8a9cdb2",
+								"exec": [
+									"pm.test(\"response time is less than 500ms\", function () {\r",
+									"    pm.expect(pm.response.responseTime).to.be.below(500);\r",
+									"});\r",
+									"\r",
+									"pm.test(\"response body is null\", function () {\r",
+									"    pm.expect(responseBody === null);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{server}}/api/logout",
+							"host": [
+								"{{server}}"
+							],
+							"path": [
+								"api",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}

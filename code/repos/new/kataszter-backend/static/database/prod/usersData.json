@@ -1,0 +1,29 @@
+[
+    {
+        "_id": {
+            "$oid": "5d68dab2723a699fc018b1d4"
+        },
+        "name": "Editor Elemér",
+        "email": "editor@editor.editor",
+        "password": "$2a$05$FhUE1hpUnnK4XkSolvOp7.oTRLSHOGuTTIwpuE2Sh7mNDNb5vssUG",
+        "role": "editor"
+    },
+    {
+        "_id": {
+            "$oid": "5d68daed723a699fc018b1d5"
+        },
+        "name": "Reader Róbert",
+        "email": "reader@reader.reader",
+        "password": "$2a$05$k4sQPA9iyM0Ih8eRAQG16umOTQW2fdPRBKfYSopxOSTTEH7reOECm",
+        "role": "reader"
+    },
+    {
+        "_id": {
+            "$oid": "5d68db03723a699fc018b1d6"
+        },
+        "name": "Admin Albert",
+        "email": "admin@admin.admin",
+        "password": "$2a$05$KIx2x.c/hhjtOzotfsSzNu4Dm.68MhMrs8.pGkuWhMzGSSMcrmd.K",
+        "role": "admin"
+    }
+]

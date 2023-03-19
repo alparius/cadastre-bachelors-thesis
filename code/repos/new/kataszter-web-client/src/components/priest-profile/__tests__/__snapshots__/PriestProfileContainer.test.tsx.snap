@@ -1,0 +1,1500 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PriestProfileContainer element should render a placeholder card when only loading is true 1`] = `
+<div
+  className="ui fluid card"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="header"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="header"
+        >
+          <div
+            className="line"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`PriestProfileContainer element should render a placeholder when the priest is empty 1`] = `
+<div
+  className="ui fluid card"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="header"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="header"
+        >
+          <div
+            className="line"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`PriestProfileContainer element should render a placeholder when the priest is empty while editMode=true 1`] = `
+<div
+  className="ui fluid card"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="header"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="header"
+        >
+          <div
+            className="line"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`PriestProfileContainer element should render a profile container when the priest is not empty 1`] = `
+Array [
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="column"
+    />
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="rectangular image"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    />
+  </div>,
+  <div
+    className="ui divider"
+  />,
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+  </div>,
+  <div
+    className="ui divider"
+  />,
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="column"
+    />
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="rectangular image"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    />
+  </div>,
+  <div
+    className="ui divider"
+  />,
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+  </div>,
+]
+`;
+
+exports[`PriestProfileContainer element should render a profile container when the priest is not empty while editMode=true 1`] = `
+Array [
+  <div
+    className="ui tertiary segment"
+    id="editControlLabelComputer"
+  >
+    <div
+      className="ui stackable two column grid"
+    >
+      <div
+        className="middle aligned column"
+        id="editModeText"
+      >
+        You are in edit mode.
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui two column grid"
+        >
+          <div
+            className="column"
+          >
+            <button
+              className="ui violet fluid button"
+              id="saveChanges"
+              onClick={[Function]}
+            >
+              Save Changes
+            </button>
+          </div>
+          <div
+            className="column"
+          >
+            <button
+              className="ui grey fluid button"
+              id="revertChanges"
+              onClick={[Function]}
+              value={false}
+            >
+              Cancel
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="ui divider"
+    style={
+      Object {
+        "marginTop": "4em",
+      }
+    }
+  />,
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="column"
+    />
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="rectangular image"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    />
+  </div>,
+  <div
+    className="ui divider"
+  />,
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+  </div>,
+  <div
+    className="ui divider"
+  />,
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="column"
+    />
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="rectangular image"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    />
+  </div>,
+  <div
+    className="ui divider"
+  />,
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+  </div>,
+]
+`;
+
+exports[`PriestProfileContainer element should render an error message when showError and loading are both true 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "marginTop": "7em",
+    }
+  }
+>
+  <h2
+    className="ui header red"
+  >
+    Could not estabilish server connection.
+  </h2>
+  <h3
+    className="ui header"
+  >
+    <a
+      aria-current="page"
+      className="hoverLink active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      Back to the Home Page
+    </a>
+  </h3>
+</div>
+`;
+
+exports[`PriestProfileContainer element should render an error message when showError is true 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "marginTop": "7em",
+    }
+  }
+>
+  <h2
+    className="ui header red"
+  >
+    Could not estabilish server connection.
+  </h2>
+  <h3
+    className="ui header"
+  >
+    <a
+      aria-current="page"
+      className="hoverLink active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      Back to the Home Page
+    </a>
+  </h3>
+</div>
+`;
+
+exports[`PriestProfileContainer element should render an error message when showError is true and editMode=true 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "marginTop": "7em",
+    }
+  }
+>
+  <h2
+    className="ui header red"
+  >
+    Could not estabilish server connection.
+  </h2>
+  <h3
+    className="ui header"
+  >
+    <a
+      aria-current="page"
+      className="hoverLink active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      Back to the Home Page
+    </a>
+  </h3>
+</div>
+`;

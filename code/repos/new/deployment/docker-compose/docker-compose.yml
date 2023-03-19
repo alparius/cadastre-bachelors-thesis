@@ -1,0 +1,75 @@
+version: "3"
+
+volumes:
+    kataszter-mongo-data:
+        driver: local
+
+services:
+    #  _ __    _ __    ___   __  __  _   _
+    # | '_ \  | '__|  / _ \  \ \/ / | | | |
+    # | |_) | | |    | (_) |  >  <  | |_| |
+    # | .__/  |_|     \___/  /_/\_\  \__, |
+    # | |                             __/ |
+    # |_|                            |___/
+
+    kataszter-reverse-proxy:
+        image: r.edu.codespring.ro/kataszter/docker-compose/kataszter-proxy
+        container_name: kataszter-reverse-proxy
+        restart: always
+        network_mode: bridge
+        links:
+            - kataszter-web-client:kataszter-web-client
+            - kataszter-backend:kataszter-backend
+        environment:
+            - VIRTUAL_HOST=kataszter.test.edu.codespring.ro
+            - VIRTUAL_PORT=80
+            - LETSENCRYPT_HOST=kataszter.test.edu.codespring.ro
+            - LETSENCRYPT_EMAIL=[secret]
+
+    #  _ __ ___     ___    _ __     __ _    ___
+    # | '_ ` _ \   / _ \  | '_ \   / _` |  / _ \
+    # | | | | | | | (_) | | | | | | (_| | | (_) |
+    # |_| |_| |_|  \___/  |_| |_|  \__, |  \___/
+    #                               __/ |
+    #                              |___/
+
+    kataszter-mongo-db:
+        image: mongo:4.2.0-bionic
+        container_name: kataszter-mongo-db
+        restart: always
+        network_mode: bridge
+        volumes:
+            - kataszter-mongo-data:/data
+
+    #  _                      _                         _
+    # | |                    | |                       | |
+    # | |__     __ _    ___  | | __   ___   _ __     __| |
+    # | '_ \   / _` |  / __| | |/ /  / _ \ | '_ \   / _` |
+    # | |_) | | (_| | | (__  |   <  |  __/ | | | | | (_| |
+    # |_.__/   \__,_|  \___| |_|\_\  \___| |_| |_|  \__,_|
+
+    kataszter-backend:
+        image: r.edu.codespring.ro/kataszter/kataszter-backend:develop
+        container_name: kataszter-backend
+        restart: always
+        network_mode: bridge
+        links:
+            - kataszter-mongo-db:kataszter-mongo-db
+        environment:
+            - DATABASE_URL=mongodb://kataszter-mongo-db:27017
+            - DATABASE_NAME=kataszter
+            - DATABASE_IMPORT_TYPE=dev
+            - WEB_ACCESS_PORT=:8080
+
+    #   __                          _                        _
+    #  / _|                        | |                      | |
+    # | |_   _ __    ___    _ __   | |_    ___   _ __     __| |
+    # |  _| | '__|  / _ \  | '_ \  | __|  / _ \ | '_ \   / _` |
+    # | |   | |    | (_) | | | | | | |_  |  __/ | | | | | (_| |
+    # |_|   |_|     \___/  |_| |_|  \__|  \___| |_| |_|  \__,_|
+
+    kataszter-web-client:
+        image: r.edu.codespring.ro/kataszter/kataszter-web-client:develop
+        container_name: kataszter-web-client
+        restart: always
+        network_mode: bridge

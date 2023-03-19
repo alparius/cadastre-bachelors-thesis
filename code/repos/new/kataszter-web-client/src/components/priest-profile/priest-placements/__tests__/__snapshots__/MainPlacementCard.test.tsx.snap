@@ -1,0 +1,209 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainPlacementCard element should render a card with the placement data 1`] = `
+<a
+  aria-current={null}
+  className="ui fluid card"
+  href="/parishes/profile/0"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="content"
+    >
+      <div
+        className="header"
+        id="header"
+      >
+        <h2
+          className="ui header"
+        >
+          place
+        </h2>
+      </div>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="ui list"
+        role="list"
+      >
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Start date
+                :
+              </b>
+               
+              <span
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+              >
+                2000.06.06
+              </span>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                End date
+                :
+              </b>
+               
+              <span
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+              >
+                2000.06.06
+              </span>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Number of people
+                :
+              </b>
+               
+              numberOfPeople
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Muniment issuing authority
+                :
+              </b>
+               
+              munimentIssuingAuthority
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Muniment genesis date
+                :
+              </b>
+               
+              <span
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+              >
+                2000.06.06
+              </span>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Muniment number
+                :
+              </b>
+               
+              munimentNumber
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Income
+                :
+              </b>
+               
+              income
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</a>
+`;

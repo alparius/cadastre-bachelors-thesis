@@ -1,0 +1,294 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LoginForm element should render a message too when there is a response 1`] = `
+<div
+  className="ui center aligned grid"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="column"
+      style={
+        Object {
+          "maxWidth": 450,
+        }
+      }
+    >
+      <form
+        className="ui large form"
+        onSubmit={[Function]}
+      >
+        <div
+          className="ui negative message"
+        >
+          error.test
+        </div>
+        <div
+          className="field"
+        >
+          <div
+            className="ui fluid left icon input"
+          >
+            <input
+              name="email"
+              onChange={[Function]}
+              placeholder="E-mail address"
+              type="text"
+              value=""
+            />
+            <i
+              aria-hidden="true"
+              className="user icon"
+              onClick={[Function]}
+            />
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <div
+            className="ui fluid left icon input"
+          >
+            <input
+              name="password"
+              onChange={[Function]}
+              placeholder="Password"
+              type="password"
+              value=""
+            />
+            <i
+              aria-hidden="true"
+              className="lock icon"
+              onClick={[Function]}
+            />
+          </div>
+        </div>
+        <h5
+          className="ui header"
+          style={
+            Object {
+              "marginTop": "0em",
+            }
+          }
+        >
+          <a
+            aria-current={null}
+            className="hoverLink"
+            href="/forgotPassword"
+            onClick={[Function]}
+          >
+            Forgotten Password?
+          </a>
+        </h5>
+        <div
+          style={
+            Object {
+              "marginBottom": "3em",
+              "marginTop": "1em",
+            }
+          }
+        >
+          <div
+            className="g-recaptcha"
+            data-badge="bottomright"
+            data-sitekey="6LfURxEbAAAAAI6TU9GsuydKqmXb3t2TDZwvOYd2"
+            data-size="normal"
+            data-tabindex="0"
+            data-theme="light"
+            data-type="image"
+            id="g-recaptcha"
+          />
+        </div>
+        <button
+          className="ui violet large fluid button"
+          onClick={[Function]}
+        >
+          Log in!
+        </button>
+      </form>
+    </div>
+  </div>
+  <div
+    className="row"
+    style={
+      Object {
+        "marginTop": "10vh",
+      }
+    }
+  >
+    <div
+      className="column"
+      style={
+        Object {
+          "maxWidth": 800,
+        }
+      }
+    >
+      <h3
+        className="ui header"
+      >
+        No account yet?
+         
+        <a
+          aria-current={null}
+          className="hoverLink"
+          href="/register"
+          onClick={[Function]}
+        >
+          Register!*
+        </a>
+      </h3>
+      <h4
+        className="ui header"
+      >
+        *Note that the site is closed to the public, new registrations need to be approved by an admin.
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`LoginForm element should render the login form with input fields 1`] = `
+<div
+  className="ui center aligned grid"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="column"
+      style={
+        Object {
+          "maxWidth": 450,
+        }
+      }
+    >
+      <form
+        className="ui large form"
+        onSubmit={[Function]}
+      >
+        <div
+          className="field"
+        >
+          <div
+            className="ui fluid left icon input"
+          >
+            <input
+              name="email"
+              onChange={[Function]}
+              placeholder="E-mail address"
+              type="text"
+              value=""
+            />
+            <i
+              aria-hidden="true"
+              className="user icon"
+              onClick={[Function]}
+            />
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <div
+            className="ui fluid left icon input"
+          >
+            <input
+              name="password"
+              onChange={[Function]}
+              placeholder="Password"
+              type="password"
+              value=""
+            />
+            <i
+              aria-hidden="true"
+              className="lock icon"
+              onClick={[Function]}
+            />
+          </div>
+        </div>
+        <h5
+          className="ui header"
+          style={
+            Object {
+              "marginTop": "0em",
+            }
+          }
+        >
+          <a
+            aria-current={null}
+            className="hoverLink"
+            href="/forgotPassword"
+            onClick={[Function]}
+          >
+            Forgotten Password?
+          </a>
+        </h5>
+        <div
+          style={
+            Object {
+              "marginBottom": "3em",
+              "marginTop": "1em",
+            }
+          }
+        >
+          <div
+            className="g-recaptcha"
+            data-badge="bottomright"
+            data-sitekey="6LfURxEbAAAAAI6TU9GsuydKqmXb3t2TDZwvOYd2"
+            data-size="normal"
+            data-tabindex="0"
+            data-theme="light"
+            data-type="image"
+            id="g-recaptcha"
+          />
+        </div>
+        <button
+          className="ui violet large fluid button"
+          onClick={[Function]}
+        >
+          Log in!
+        </button>
+      </form>
+    </div>
+  </div>
+  <div
+    className="row"
+    style={
+      Object {
+        "marginTop": "10vh",
+      }
+    }
+  >
+    <div
+      className="column"
+      style={
+        Object {
+          "maxWidth": 800,
+        }
+      }
+    >
+      <h3
+        className="ui header"
+      >
+        No account yet?
+         
+        <a
+          aria-current={null}
+          className="hoverLink"
+          href="/register"
+          onClick={[Function]}
+        >
+          Register!*
+        </a>
+      </h3>
+      <h4
+        className="ui header"
+      >
+        *Note that the site is closed to the public, new registrations need to be approved by an admin.
+      </h4>
+    </div>
+  </div>
+</div>
+`;

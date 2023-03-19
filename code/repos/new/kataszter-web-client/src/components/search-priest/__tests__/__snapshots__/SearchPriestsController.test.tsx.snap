@@ -1,0 +1,824 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchPriestsController element should render the form with search input fields 1`] = `
+<form
+  className="ui form"
+  onSubmit={[Function]}
+>
+  <h1
+    className="ui header controllerHeader"
+  >
+    Search priests
+  </h1>
+  <div
+    className="field"
+  >
+    <label
+      htmlFor="name"
+    >
+      Name
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        id="name"
+        name="name"
+        onChange={[Function]}
+        type="text"
+        value="test"
+      />
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <label
+      htmlFor="birthTown"
+    >
+      Town of birth
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        id="birthTown"
+        name="birthTown"
+        onChange={[Function]}
+        type="text"
+        value="test"
+      />
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <label
+      htmlFor="placement"
+    >
+      Placement
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        id="placement"
+        name="placement"
+        onChange={[Function]}
+        type="text"
+        value="test"
+      />
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <label
+      htmlFor="area"
+    >
+      Country / County / Diocese
+    </label>
+    <div
+      className="ui input"
+      style={
+        Object {
+          "marginBottom": "0.5em",
+        }
+      }
+    >
+      <input
+        id="area"
+        name="area"
+        onChange={[Function]}
+        type="text"
+        value="test"
+      />
+    </div>
+  </div>
+  <b
+    style={
+      Object {
+        "fontSize": "13px",
+      }
+    }
+  >
+    Active years
+  </b>
+  <div
+    className="inline unstackable fields"
+    style={
+      Object {
+        "marginBottom": "2em",
+        "marginTop": "0.5em",
+      }
+    }
+  >
+    <div
+      className="two wide field"
+    >
+      <button
+        className="ui basic circular compact icon button"
+        name="refresh"
+        onClick={[Function]}
+      >
+        <i
+          aria-hidden="true"
+          className="refresh icon"
+          onClick={[Function]}
+        />
+      </button>
+    </div>
+    <div
+      className="one wide field"
+    />
+    <div
+      className="thirteen wide field"
+    >
+      <div
+        aria-disabled={false}
+        className="input-range"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <span
+          className="input-range__label input-range__label--min"
+        >
+          <span
+            className="input-range__label-container"
+          >
+            1800
+          </span>
+        </span>
+        <div
+          className="input-range__track input-range__track--background"
+          onMouseDown={[Function]}
+          onTouchStart={[Function]}
+        >
+          <div
+            className="input-range__track input-range__track--active"
+            style={
+              Object {
+                "left": "0%",
+                "width": "0%",
+              }
+            }
+          />
+          <span
+            className="input-range__slider-container"
+            style={
+              Object {
+                "left": "0%",
+                "position": "absolute",
+              }
+            }
+          >
+            <span
+              className="input-range__label input-range__label--value"
+            >
+              <span
+                className="input-range__label-container"
+              >
+                NaN
+              </span>
+            </span>
+            <div
+              aria-valuemax={NaN}
+              aria-valuemin={1800}
+              aria-valuenow={NaN}
+              className="input-range__slider"
+              draggable="false"
+              onKeyDown={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+              role="slider"
+              tabIndex="0"
+            />
+          </span>
+          <span
+            className="input-range__slider-container"
+            style={
+              Object {
+                "left": "0%",
+                "position": "absolute",
+              }
+            }
+          >
+            <span
+              className="input-range__label input-range__label--value"
+            >
+              <span
+                className="input-range__label-container"
+              >
+                NaN
+              </span>
+            </span>
+            <div
+              aria-valuemax={2021}
+              aria-valuemin={NaN}
+              aria-valuenow={NaN}
+              className="input-range__slider"
+              draggable="false"
+              onKeyDown={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+              role="slider"
+              tabIndex="0"
+            />
+          </span>
+        </div>
+        <span
+          className="input-range__label input-range__label--max"
+        >
+          <span
+            className="input-range__label-container"
+          >
+            2021
+          </span>
+        </span>
+      </div>
+    </div>
+  </div>
+  <b
+    style={
+      Object {
+        "fontSize": "13px",
+      }
+    }
+  >
+    Birthyear
+  </b>
+  <div
+    className="inline unstackable fields"
+    style={
+      Object {
+        "marginBottom": "2em",
+        "marginTop": "0.5em",
+      }
+    }
+  >
+    <div
+      className="two wide field"
+    >
+      <button
+        className="ui basic circular compact icon button"
+        name="refresh"
+        onClick={[Function]}
+      >
+        <i
+          aria-hidden="true"
+          className="refresh icon"
+          onClick={[Function]}
+        />
+      </button>
+    </div>
+    <div
+      className="one wide field"
+    />
+    <div
+      className="thirteen wide field"
+    >
+      <div
+        aria-disabled={false}
+        className="input-range"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <span
+          className="input-range__label input-range__label--min"
+        >
+          <span
+            className="input-range__label-container"
+          >
+            1800
+          </span>
+        </span>
+        <div
+          className="input-range__track input-range__track--background"
+          onMouseDown={[Function]}
+          onTouchStart={[Function]}
+        >
+          <div
+            className="input-range__track input-range__track--active"
+            style={
+              Object {
+                "left": "0%",
+                "width": "0%",
+              }
+            }
+          />
+          <span
+            className="input-range__slider-container"
+            style={
+              Object {
+                "left": "0%",
+                "position": "absolute",
+              }
+            }
+          >
+            <span
+              className="input-range__label input-range__label--value"
+            >
+              <span
+                className="input-range__label-container"
+              >
+                NaN
+              </span>
+            </span>
+            <div
+              aria-valuemax={NaN}
+              aria-valuemin={1800}
+              aria-valuenow={NaN}
+              className="input-range__slider"
+              draggable="false"
+              onKeyDown={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+              role="slider"
+              tabIndex="0"
+            />
+          </span>
+          <span
+            className="input-range__slider-container"
+            style={
+              Object {
+                "left": "0%",
+                "position": "absolute",
+              }
+            }
+          >
+            <span
+              className="input-range__label input-range__label--value"
+            >
+              <span
+                className="input-range__label-container"
+              >
+                NaN
+              </span>
+            </span>
+            <div
+              aria-valuemax={2021}
+              aria-valuemin={NaN}
+              aria-valuenow={NaN}
+              className="input-range__slider"
+              draggable="false"
+              onKeyDown={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+              role="slider"
+              tabIndex="0"
+            />
+          </span>
+        </div>
+        <span
+          className="input-range__label input-range__label--max"
+        >
+          <span
+            className="input-range__label-container"
+          >
+            2021
+          </span>
+        </span>
+      </div>
+    </div>
+  </div>
+  <b
+    style={
+      Object {
+        "fontSize": "13px",
+      }
+    }
+  >
+    Death year
+  </b>
+  <div
+    className="inline unstackable fields"
+    style={
+      Object {
+        "marginBottom": "2em",
+        "marginTop": "0.5em",
+      }
+    }
+  >
+    <div
+      className="two wide field"
+    >
+      <button
+        className="ui basic circular compact icon button"
+        name="refresh"
+        onClick={[Function]}
+      >
+        <i
+          aria-hidden="true"
+          className="refresh icon"
+          onClick={[Function]}
+        />
+      </button>
+    </div>
+    <div
+      className="one wide field"
+    />
+    <div
+      className="thirteen wide field"
+    >
+      <div
+        aria-disabled={false}
+        className="input-range"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <span
+          className="input-range__label input-range__label--min"
+        >
+          <span
+            className="input-range__label-container"
+          >
+            1800
+          </span>
+        </span>
+        <div
+          className="input-range__track input-range__track--background"
+          onMouseDown={[Function]}
+          onTouchStart={[Function]}
+        >
+          <div
+            className="input-range__track input-range__track--active"
+            style={
+              Object {
+                "left": "0%",
+                "width": "0%",
+              }
+            }
+          />
+          <span
+            className="input-range__slider-container"
+            style={
+              Object {
+                "left": "0%",
+                "position": "absolute",
+              }
+            }
+          >
+            <span
+              className="input-range__label input-range__label--value"
+            >
+              <span
+                className="input-range__label-container"
+              >
+                NaN
+              </span>
+            </span>
+            <div
+              aria-valuemax={NaN}
+              aria-valuemin={1800}
+              aria-valuenow={NaN}
+              className="input-range__slider"
+              draggable="false"
+              onKeyDown={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+              role="slider"
+              tabIndex="0"
+            />
+          </span>
+          <span
+            className="input-range__slider-container"
+            style={
+              Object {
+                "left": "0%",
+                "position": "absolute",
+              }
+            }
+          >
+            <span
+              className="input-range__label input-range__label--value"
+            >
+              <span
+                className="input-range__label-container"
+              >
+                NaN
+              </span>
+            </span>
+            <div
+              aria-valuemax={2021}
+              aria-valuemin={NaN}
+              aria-valuenow={NaN}
+              className="input-range__slider"
+              draggable="false"
+              onKeyDown={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+              role="slider"
+              tabIndex="0"
+            />
+          </span>
+        </div>
+        <span
+          className="input-range__label input-range__label--max"
+        >
+          <span
+            className="input-range__label-container"
+          >
+            2021
+          </span>
+        </span>
+      </div>
+    </div>
+  </div>
+  <b
+    style={
+      Object {
+        "fontSize": "13px",
+      }
+    }
+  >
+    Subscription year
+  </b>
+  <div
+    className="inline unstackable fields"
+    style={
+      Object {
+        "marginBottom": "2em",
+        "marginTop": "0.5em",
+      }
+    }
+  >
+    <div
+      className="two wide field"
+    >
+      <button
+        className="ui basic circular compact icon button"
+        name="refresh"
+        onClick={[Function]}
+      >
+        <i
+          aria-hidden="true"
+          className="refresh icon"
+          onClick={[Function]}
+        />
+      </button>
+    </div>
+    <div
+      className="one wide field"
+    />
+    <div
+      className="thirteen wide field"
+    >
+      <div
+        aria-disabled={false}
+        className="input-range"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <span
+          className="input-range__label input-range__label--min"
+        >
+          <span
+            className="input-range__label-container"
+          >
+            1800
+          </span>
+        </span>
+        <div
+          className="input-range__track input-range__track--background"
+          onMouseDown={[Function]}
+          onTouchStart={[Function]}
+        >
+          <div
+            className="input-range__track input-range__track--active"
+            style={
+              Object {
+                "left": "0%",
+                "width": "0%",
+              }
+            }
+          />
+          <span
+            className="input-range__slider-container"
+            style={
+              Object {
+                "left": "0%",
+                "position": "absolute",
+              }
+            }
+          >
+            <span
+              className="input-range__label input-range__label--value"
+            >
+              <span
+                className="input-range__label-container"
+              >
+                NaN
+              </span>
+            </span>
+            <div
+              aria-valuemax={NaN}
+              aria-valuemin={1800}
+              aria-valuenow={NaN}
+              className="input-range__slider"
+              draggable="false"
+              onKeyDown={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+              role="slider"
+              tabIndex="0"
+            />
+          </span>
+          <span
+            className="input-range__slider-container"
+            style={
+              Object {
+                "left": "0%",
+                "position": "absolute",
+              }
+            }
+          >
+            <span
+              className="input-range__label input-range__label--value"
+            >
+              <span
+                className="input-range__label-container"
+              >
+                NaN
+              </span>
+            </span>
+            <div
+              aria-valuemax={2021}
+              aria-valuemin={NaN}
+              aria-valuenow={NaN}
+              className="input-range__slider"
+              draggable="false"
+              onKeyDown={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+              role="slider"
+              tabIndex="0"
+            />
+          </span>
+        </div>
+        <span
+          className="input-range__label input-range__label--max"
+        >
+          <span
+            className="input-range__label-container"
+          >
+            2021
+          </span>
+        </span>
+      </div>
+    </div>
+  </div>
+  <b
+    style={
+      Object {
+        "fontSize": "13px",
+      }
+    }
+  >
+    Graduation year
+  </b>
+  <div
+    className="inline unstackable fields"
+    style={
+      Object {
+        "marginBottom": "2em",
+        "marginTop": "0.5em",
+      }
+    }
+  >
+    <div
+      className="two wide field"
+    >
+      <button
+        className="ui basic circular compact icon button"
+        name="refresh"
+        onClick={[Function]}
+      >
+        <i
+          aria-hidden="true"
+          className="refresh icon"
+          onClick={[Function]}
+        />
+      </button>
+    </div>
+    <div
+      className="one wide field"
+    />
+    <div
+      className="thirteen wide field"
+    >
+      <div
+        aria-disabled={false}
+        className="input-range"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onTouchStart={[Function]}
+      >
+        <span
+          className="input-range__label input-range__label--min"
+        >
+          <span
+            className="input-range__label-container"
+          >
+            1800
+          </span>
+        </span>
+        <div
+          className="input-range__track input-range__track--background"
+          onMouseDown={[Function]}
+          onTouchStart={[Function]}
+        >
+          <div
+            className="input-range__track input-range__track--active"
+            style={
+              Object {
+                "left": "0%",
+                "width": "0%",
+              }
+            }
+          />
+          <span
+            className="input-range__slider-container"
+            style={
+              Object {
+                "left": "0%",
+                "position": "absolute",
+              }
+            }
+          >
+            <span
+              className="input-range__label input-range__label--value"
+            >
+              <span
+                className="input-range__label-container"
+              >
+                NaN
+              </span>
+            </span>
+            <div
+              aria-valuemax={NaN}
+              aria-valuemin={1800}
+              aria-valuenow={NaN}
+              className="input-range__slider"
+              draggable="false"
+              onKeyDown={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+              role="slider"
+              tabIndex="0"
+            />
+          </span>
+          <span
+            className="input-range__slider-container"
+            style={
+              Object {
+                "left": "0%",
+                "position": "absolute",
+              }
+            }
+          >
+            <span
+              className="input-range__label input-range__label--value"
+            >
+              <span
+                className="input-range__label-container"
+              >
+                NaN
+              </span>
+            </span>
+            <div
+              aria-valuemax={2021}
+              aria-valuemin={NaN}
+              aria-valuenow={NaN}
+              className="input-range__slider"
+              draggable="false"
+              onKeyDown={[Function]}
+              onMouseDown={[Function]}
+              onTouchStart={[Function]}
+              role="slider"
+              tabIndex="0"
+            />
+          </span>
+        </div>
+        <span
+          className="input-range__label input-range__label--max"
+        >
+          <span
+            className="input-range__label-container"
+          >
+            2021
+          </span>
+        </span>
+      </div>
+    </div>
+  </div>
+</form>
+`;

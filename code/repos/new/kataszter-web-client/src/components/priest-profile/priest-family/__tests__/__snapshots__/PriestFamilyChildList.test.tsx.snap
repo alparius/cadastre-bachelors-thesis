@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PriestFamilyChildList element should render a \`no data\` when the children is empty 1`] = `
+<i>
+  No data
+</i>
+`;
+
+exports[`PriestFamilyChildList element should render a family child list container when the children is not empty 1`] = `
+<div
+  className="ui doubling stackable two cards"
+>
+  <div
+    className="ui fluid card"
+    onClick={[Function]}
+  >
+    <div
+      className="content"
+    >
+      <div
+        className="content"
+      >
+        <div
+          className="header"
+          id="header"
+        >
+          <h2
+            className="ui header"
+          >
+            Gyerek
+          </h2>
+        </div>
+      </div>
+      <div
+        className="description"
+      >
+        <div
+          className="ui list"
+          role="list"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            <form
+              className="ui form"
+              onSubmit={[Function]}
+            >
+              <div
+                className="inline field"
+              >
+                <b>
+                  Place of birth
+                  :
+                </b>
+                 
+                Krahorandia
+              </div>
+            </form>
+          </div>
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            <form
+              className="ui form"
+              onSubmit={[Function]}
+            >
+              <div
+                className="inline field"
+              >
+                <b>
+                  Date of birth
+                  :
+                </b>
+                 
+                <span
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}
+                >
+                  2000.06.06
+                </span>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

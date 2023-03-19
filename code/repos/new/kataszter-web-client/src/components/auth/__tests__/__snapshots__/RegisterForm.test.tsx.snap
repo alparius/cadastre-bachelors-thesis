@@ -1,0 +1,380 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RegisterForm element should render a message too when there is a response 1`] = `
+<div
+  className="ui center aligned grid"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="column"
+      style={
+        Object {
+          "maxWidth": 450,
+        }
+      }
+    >
+      <form
+        className="ui large form"
+        onSubmit={[Function]}
+      >
+        <div
+          className="ui negative message"
+        >
+          error.test
+        </div>
+        <div
+          className="field"
+        >
+          <div
+            className="ui fluid left icon input"
+          >
+            <input
+              name="name"
+              onChange={[Function]}
+              placeholder="Full name"
+              type="text"
+              value="test"
+            />
+            <i
+              aria-hidden="true"
+              className="address card outline icon"
+              onClick={[Function]}
+            />
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <div
+            className="ui fluid left icon input"
+          >
+            <input
+              name="email"
+              onChange={[Function]}
+              placeholder="E-mail address"
+              type="text"
+              value="test"
+            />
+            <i
+              aria-hidden="true"
+              className="user outline icon"
+              onClick={[Function]}
+            />
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <div
+            className="ui fluid left icon input"
+          >
+            <input
+              name="password"
+              onChange={[Function]}
+              placeholder="Password"
+              type="password"
+              value="test"
+            />
+            <i
+              aria-hidden="true"
+              className="lock icon"
+              onClick={[Function]}
+            />
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <div
+            className="ui fluid left icon input"
+          >
+            <input
+              name="password2"
+              onChange={[Function]}
+              placeholder="Repeat password"
+              type="password"
+              value="test"
+            />
+            <i
+              aria-hidden="true"
+              className="lock icon"
+              onClick={[Function]}
+            />
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <textarea
+            name="message"
+            onChange={[Function]}
+            onInput={[Function]}
+            placeholder="Introduce yourself to the admins of the page. Why would you like to access?"
+            rows={3}
+            type="text"
+            value="test"
+          />
+        </div>
+        <div
+          style={
+            Object {
+              "marginBottom": "3em",
+              "marginTop": "1em",
+            }
+          }
+        >
+          <div
+            className="g-recaptcha"
+            data-badge="bottomright"
+            data-sitekey="6LfURxEbAAAAAI6TU9GsuydKqmXb3t2TDZwvOYd2"
+            data-size="normal"
+            data-tabindex="0"
+            data-theme="light"
+            data-type="image"
+            id="g-recaptcha"
+          />
+        </div>
+        <div
+          className="ui large inline loader"
+        />
+        <div
+          className="field"
+        >
+          <button
+            className="ui violet large fluid button"
+            onClick={[Function]}
+            style={
+              Object {
+                "marginTop": "3em",
+              }
+            }
+          >
+            Sign up!
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div
+    className="row"
+    style={
+      Object {
+        "marginTop": "10vh",
+      }
+    }
+  >
+    <div
+      className="column"
+      style={
+        Object {
+          "maxWidth": 800,
+        }
+      }
+    >
+      <h3
+        className="ui header"
+      >
+        Already have an account?
+         
+        <a
+          aria-current={null}
+          className="hoverLink"
+          href="/login"
+          onClick={[Function]}
+        >
+          Sign in!
+        </a>
+      </h3>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`RegisterForm element should render the register form with input fields 1`] = `
+<div
+  className="ui center aligned grid"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="column"
+      style={
+        Object {
+          "maxWidth": 450,
+        }
+      }
+    >
+      <form
+        className="ui large form"
+        onSubmit={[Function]}
+      >
+        <div
+          className="field"
+        >
+          <div
+            className="ui fluid left icon input"
+          >
+            <input
+              name="name"
+              onChange={[Function]}
+              placeholder="Full name"
+              type="text"
+              value="test"
+            />
+            <i
+              aria-hidden="true"
+              className="address card outline icon"
+              onClick={[Function]}
+            />
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <div
+            className="ui fluid left icon input"
+          >
+            <input
+              name="email"
+              onChange={[Function]}
+              placeholder="E-mail address"
+              type="text"
+              value="test"
+            />
+            <i
+              aria-hidden="true"
+              className="user outline icon"
+              onClick={[Function]}
+            />
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <div
+            className="ui fluid left icon input"
+          >
+            <input
+              name="password"
+              onChange={[Function]}
+              placeholder="Password"
+              type="password"
+              value="test"
+            />
+            <i
+              aria-hidden="true"
+              className="lock icon"
+              onClick={[Function]}
+            />
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <div
+            className="ui fluid left icon input"
+          >
+            <input
+              name="password2"
+              onChange={[Function]}
+              placeholder="Repeat password"
+              type="password"
+              value="test"
+            />
+            <i
+              aria-hidden="true"
+              className="lock icon"
+              onClick={[Function]}
+            />
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <textarea
+            name="message"
+            onChange={[Function]}
+            onInput={[Function]}
+            placeholder="Introduce yourself to the admins of the page. Why would you like to access?"
+            rows={3}
+            type="text"
+            value="test"
+          />
+        </div>
+        <div
+          style={
+            Object {
+              "marginBottom": "3em",
+              "marginTop": "1em",
+            }
+          }
+        >
+          <div
+            className="g-recaptcha"
+            data-badge="bottomright"
+            data-sitekey="6LfURxEbAAAAAI6TU9GsuydKqmXb3t2TDZwvOYd2"
+            data-size="normal"
+            data-tabindex="0"
+            data-theme="light"
+            data-type="image"
+            id="g-recaptcha"
+          />
+        </div>
+        <div
+          className="ui large inline loader"
+        />
+        <div
+          className="field"
+        >
+          <button
+            className="ui violet large fluid button"
+            onClick={[Function]}
+            style={
+              Object {
+                "marginTop": "3em",
+              }
+            }
+          >
+            Sign up!
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div
+    className="row"
+    style={
+      Object {
+        "marginTop": "10vh",
+      }
+    }
+  >
+    <div
+      className="column"
+      style={
+        Object {
+          "maxWidth": 800,
+        }
+      }
+    >
+      <h3
+        className="ui header"
+      >
+        Already have an account?
+         
+        <a
+          aria-current={null}
+          className="hoverLink"
+          href="/login"
+          onClick={[Function]}
+        >
+          Sign in!
+        </a>
+      </h3>
+    </div>
+  </div>
+</div>
+`;

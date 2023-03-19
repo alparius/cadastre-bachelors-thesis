@@ -1,0 +1,1130 @@
+5e9025e5c6db4afdd9251b22;;Nagysajó;;Nagysajó, Románia;;47.0338615;;24.6112901
+5e9025e5c6db4afdd9251b23;;Tacs;;Tacs, Románia;;46.9992239;;24.3746602
+5e9025e5c6db4afdd9251b24;;Teke;;Teke 427345, Románia;;46.9114516;;24.5031976
+5e9025e5c6db4afdd9251b27;;Marosszentkirály;;Marosszentkirály 547525, Románia;;46.5532218;;24.5208852
+5e9025e5c6db4afdd9251b28;;Tordaszentlászló;;Tordaszentlászló, Románia;;46.6453867;;23.4508153
+5e9025e5c6db4afdd9251b29;;Dicsőszentmárton;;Dicsőszentmárton 545600, Románia;;46.3293137;;24.2935777
+5e9025e5c6db4afdd9251b2a;;Marosvásárhely;;Marosvásárhely, Románia;;46.5385862;;24.5514392
+5e9025e5c6db4afdd9251b2d;;Székelybő;;Székelybő 547411, Románia;;46.5728513;;24.7119752
+5e9025e5c6db4afdd9251b2e;;Póka;;Póka 547279, Románia;;46.6826865;;24.5652737
+5e9025e5c6db4afdd9251b2f;;Szék;;Szék 407540, Románia;;46.9310611;;23.8936403
+5e9025e5c6db4afdd9251b30;;Szászzsombor;;Szászzsombor, Románia;;46.9217467;;24.2010976
+5e9025e5c6db4afdd9251b31;;Mezőszentmihály;;Mezőszentmihály, Románia;;46.9104077;;24.3373045
+5e9025e5c6db4afdd9251b32;;Bodonkút;;Bodonkút, Románia;;46.8962831;;23.5135795
+5e9025e5c6db4afdd9251b33;;Fejérd;;Fejérd 407207, Románia;;46.8817421;;23.6216078
+5e9025e5c6db4afdd9251b34;;Magyardellő;;Magyardellő, Románia;;46.461567;;24.3309946
+5e9025e5c6db4afdd9251b36;;Gyalu;;Gyalu 407310, Románia;;46.7527602;;23.3907723
+5e9025e5c6db4afdd9251b39;;Arad;;Arad, Románia;;46.1865606;;21.3122677
+5e9025e5c6db4afdd9251b3a;;Ákosfalva;;Ákosfalva 547005, Románia;;46.479789;;24.6353545
+5e9025e5c6db4afdd9251b3b;;Székelyföldvár;;Székelyföldvár, Románia;;46.412935;;23.8705557
+5e9025e5c6db4afdd9251b3c;;Magyarkapus;;Magyarkapus 407145, Románia;;46.78729999999999;;23.2935
+5e9025e5c6db4afdd9251b3d;;Ormány;;Ormány 407339, Románia;;47.0451827;;23.8192699
+5e9025e5c6db4afdd9251b3e;;Borsa;;Borsa 435200, Románia;;47.6537683;;24.6631517
+5e9025e5c6db4afdd9251b3f;;Magyarfráta;;Magyarfráta, Románia;;46.7121256;;24.0310028
+5e9025e5c6db4afdd9251b41;;Radnót;;Radnot, Románia;;46.4507604;;24.2290151
+5e9025e5c6db4afdd9251b42;;Boldogfalva;;Boldogfalva, Románia;;46.2425975;;24.1454649
+5e9025e5c6db4afdd9251b43;;Mikeszásza;;Mikeszásza 557145, Románia;;46.0872013;;24.1072459
+5e9025e5c6db4afdd9251b44;;Magyarpéterlaka;;Magyarpéterlaka 547288, Románia;;46.6894644;;24.7512859
+5e9025e5c6db4afdd9251b46;;Magyarpéterfalva;;Magyarpéterfalva 515405, Románia;;46.1940817;;23.9196693
+5e9025e5c6db4afdd9251b47;;Csombord;;Csombord, Románia;;46.3046369;;23.7630726
+5e9025e5c6db4afdd9251b49;;Sovata;;Szováta 545500, Románia;;46.5990794;;25.0774363
+5e9025e5c6db4afdd9251b4a;;Tövis;;Tövis 515900, Románia;;46.2024166;;23.678038
+5e9025e5c6db4afdd9251b4e;;Búzásbesenyő;;Búzásbesenyő, Románia;;46.4354601;;24.3788068
+5e9025e5c6db4afdd9251b4f;;Szilágysomlyó;;Szilágysomlyó 455300, Románia;;47.2260727;;22.8037864
+5e9025e5c6db4afdd9251b51;;Szilágylompért;;Szilágylompért 457332, Románia;;47.3205436;;22.8441073
+5e9025e5c6db4afdd9251b52;;Györgyfalva;;Györgyfalva, Románia;;46.7123032;;23.6884605
+5e9025e5c6db4afdd9251b53;;Kolozsvár;;Kolozsvár, Románia;;46.7712101;;23.6236353
+5e9025e5c6db4afdd9251b54;;Magyarókereke;;Magyarókereke, Románia;;46.8317796;;22.9430228
+5e9025e5c6db4afdd9251b55;;Brassó;;Brassó, Románia;;45.6579755;;25.6011977
+5e9025e5c6db4afdd9251b56;;Marosludas;;Marosludas 545200, Románia;;46.476045;;24.0933922
+5e9025e5c6db4afdd9251b58;;Kiskunhalas;;Kiskunhalas, 6400 Magyarország;;46.4354409;;19.4834284
+5e9025e5c6db4afdd9251b5c;;Alsósófalva;;Alsósófalva 537243, Románia;;46.5246904;;25.1267372
+5e9025e5c6db4afdd9251b5d;;Bukarest;;Bukarest, Románia;;44.4267674;;26.1025384
+5e9025e5c6db4afdd9251b5e;;Bikfalva;;Bikfalva 527131, Románia;;45.7632615;;25.8726536
+5e9025e5c6db4afdd9251b5f;;Árkos;;Árkos 527166, Románia;;45.9006159;;25.7766981
+5e9025e5c6db4afdd9251b61;;Farnas;;Farnas 457017, Románia;;46.9018289;;23.0976711
+5e9025e5c6db4afdd9251b62;;Boroskrakkó;;Boroskrakkó, Románia;;46.18988909999999;;23.5386452
+5e9025e5c6db4afdd9251b63;;Nagyenyed;;Nagyenyed 515200, Románia;;46.3086633;;23.724558
+5e9025e5c6db4afdd9251b66;;Kendő;;Kendő 547388, Románia;;46.6001793;;24.8879294
+5e9025e5c6db4afdd9251b68;;Esztény;;Esztény, Románia;;47.0175644;;23.6872588
+5e9025e5c6db4afdd9251b69;;Kolozspata;;Kolozspata, Románia;;46.7278791;;23.7456469
+5e9025e5c6db4afdd9251b6a;;Sztána;;Sztána 457018, Románia;;46.8865254;;23.1425011
+5e9025e5c6db4afdd9251b6b;;Kispetri;;Kispetri 457016, Románia;;46.90881530000001;;23.1429336
+5e9025e5c6db4afdd9251b6c;;Kolozsvár-Hidelve;;Biserica Reformată Horea, 400000,, Strada Câmpeni, Cluj-Napoca 400000, Románia;;46.7804408;;23.5869881
+5e9025e5c6db4afdd9251b6d;;Petek;;Petek 537347, Románia;;46.1725152;;25.2335549
+5e9025e5c6db4afdd9251b6e;;Szászrégen;;Szászrégen, Románia;;46.7710931;;24.700762
+5e9025e5c6db4afdd9251b70;;Lisznyó;;Lisznyó 527132, Románia;;45.7752545;;25.8963414
+5e9025e5c6db4afdd9251b71;;Zágon;;Zágon 527185, Románia;;45.771657;;26.1242507
+5e9025e5c6db4afdd9251b72;;Dányán;;Dányán, Románia;;46.3052642;;24.4588365
+5e9025e5c6db4afdd9251b76;;Tusnád;;Tusnád 537335, Románia;;46.2068655;;25.9119481
+5e9025e5c6db4afdd9251b77;;Szilágyszeg;;Szilágyszeg, Románia;;47.3654266;;23.1379852
+5e9025e5c6db4afdd9251b78;;Mezőujlak;;Mezőújlak, Románia;;46.8148342;;24.3449374
+5e9025e5c6db4afdd9251b79;;Geges;;Geges 547436, Románia;;46.4964446;;24.8629349
+5e9025e5c6db4afdd9251b7b;;Berlini Frigyes Vilmos egyetem;;Unter den Linden 6, 10117 Berlin, Németország;;52.517883;;13.3936551
+5e9025e5c6db4afdd9251b7c;;Korodszentmárton;;Kóródszentmárton, Románia;;46.4043492;;24.5801249
+5e9025e5c6db4afdd9251b7d;;Nyárádszereda;;Nyárádszereda 547410, Románia;;46.53298179999999;;24.8045057
+5e9025e5c6db4afdd9251b7e;;Újtorda;;Piața Basarabiei 10 a, Turda, Románia;;46.5799563;;23.7730378
+5e9025e5c6db4afdd9251b87;;Kézdivásárhely;;Kézdivásárhely 525400, Románia;;46.0006001;;26.1345785
+5e9025e5c6db4afdd9251b88;;Mezőmadaras;;Mezőmadaras, Románia;;46.6048947;;24.4342327
+5e9025e5c6db4afdd9251b89;;Nagysármás;;Nagysármás 547515, Románia;;46.7512385;;24.165584
+5e9025e5c6db4afdd9251b8a;;Görgényszentimre;;Görgényszentimre, Románia;;46.7832154;;24.849175
+5e9025e5c6db4afdd9251b8b;;Székelykeresztúr;;Székelykeresztúr 535400, Románia;;46.2924526;;25.0317145
+5e9025e5c6db4afdd9251b8c;;Dés;;Dés 405200, Románia;;47.1415878;;23.8787342
+5e9025e5c6db4afdd9251b91;;Pócstelke;;Pócstelke, Románia;;46.2180767;;24.3558972
+5e9025e5c6db4afdd9251b95;;Küsmöd;;Küsmöd 537007, Románia;;46.4770023;;25.0457564
+5e9025e5c6db4afdd9251b96;;Betfalva;;Betfalva 537208, Románia;;46.2894137;;25.0829573
+5e9025e5c6db4afdd9251b97;;Lónyaytelep;;Budapest, Lónyaytelep, Magyarország;;47.4497928;;19.1821693
+5e9025e5c6db4afdd9251b98;;Bogdánd (Szilágy m.);;Bogdánd 447060, Románia;;47.41617249999999;;22.9350312
+5e9025e5c6db4afdd9251b9b;;Székelycsóka;;Székelycsóka 547006, Románia;;46.4296435;;24.5908471
+5e9025e5c6db4afdd9251b9c;;Káposztásszentmiklós;;Káposztásszentmiklós 547175, Románia;;46.476944;;24.555556
+5e9025e5c6db4afdd9251b9d;;Fotosmartonos;;Fotosmartonos 527097, Románia;;45.8989489;;25.8676237
+5e9025e5c6db4afdd9251b9f;;Zernest;;Zernest, Románia;;45.5606505;;25.322019
+5e9025e5c6db4afdd9251ba1;;Erdőcsinád;;Erdőcsinád 547286, Románia;;46.6403084;;24.7139645
+5e9025e5c6db4afdd9251ba2;;Radnótfája;;Radnótfája 545300, Románia;;46.7639;;24.7192
+5e9025e5c6db4afdd9251ba3;;Nagyenyed-Csombord;;Csombord, Románia;;46.3046369;;23.7630726
+5e9025e5c6db4afdd9251ba4;;Árpástó;;Árpástó, Románia;;47.1548057;;24.0752152
+5e9025e5c6db4afdd9251ba5;;Újszékely;;Újszékely 537290, Románia;;46.2608366;;24.9731894
+5e9025e5c6db4afdd9251ba6;;Mezőveresegyháza;;Mezőveresegyháza, Románia;;46.9807002;;24.2050802
+5e9025e5c6db4afdd9251ba7;;Felőr;;Felőr, Románia;;47.2026349;;24.0576913
+5e9025e5c6db4afdd9251ba8;;Feketelak;;Feketelak, Románia;;46.8837003;;24.1068581
+5e9025e5c6db4afdd9251ba9;;Egeres;;Egeres 407005, Románia;;46.8709707;;23.239204
+5e9025e5c6db4afdd9251baa;;Magyarszovát;;Magyarszovát, Románia;;46.7469027;;23.9666568
+5e9025e5c6db4afdd9251bab;;Újős;;Újős, Románia;;46.9372836;;24.2722816
+5e9025e5c6db4afdd9251bac;;Visa;;Visa 407356, Románia;;46.8564241;;23.8741863
+5e9025e5c6db4afdd9251bae;;Zilah;;Zilah, Románia;;47.1854562;;23.0573324
+5e9025e5c6db4afdd9251baf;;Hátszeg;;Hátszeg, Románia;;45.6068844;;22.9493625
+5e9025e5c6db4afdd9251bb0;;Nagykend;;Nagykend 547102, Románia;;46.3867134;;24.7293981
+5e9025e5c6db4afdd9251bb1;;Makfalva;;Makfalva 547265, Románia;;46.5054469;;24.9235061
+5e9025e5c6db4afdd9251bb4;;Érszodoró;;Érszodoró 447272, Románia;;47.5310766;;22.4578631
+5e9025e5c6db4afdd9251bba;;Székelyvaja-Göcs;;Göcs 547007, Románia;;46.4256038;;24.6684129
+5e9025e5c6db4afdd9251bbb;;Bogdánd;;Bogdánd 447060, Románia;;47.41617249999999;;22.9350312
+5e9025e5c6db4afdd9251bbc;;Marosujvár;;Marosújvár, Románia;;46.38208090000001;;23.8520705
+5e9025e5c6db4afdd9251bbd;;Sárd;;Sárd 517363, Románia;;46.12337000000001;;23.5311306
+5e9025e5c6db4afdd9251bbe;;Lupény;;Lupény 335600, Románia;;45.3569989;;23.2132218
+5e9025e5c6db4afdd9251bbf;;Zagón;;Zágon 527185, Románia;;45.771657;;26.1242507
+5e9025e5c6db4afdd9251bc2;;Szacsva;;Szacsva 527148, Románia;;45.7841508;;25.9562377
+5e9025e5c6db4afdd9251bc3;;Szővérd;;Szövérd 547013, Románia;;46.4338418;;24.7159349
+5e9025e5c6db4afdd9251bc6;;Bánócz;;072 04 Bánóc, Szlovákia;;48.685595;;21.8121711
+5e9025e5c6db4afdd9251bc7;;Magyarkeczel;;Magyarkecel 457245, Románia;;47.1545891;;22.9481642
+5e9025e5c6db4afdd9251bc8;;Küküllő-széplak;;Küküllőszéplak, Románia;;46.3972736;;24.5189235
+5e9025e5c6db4afdd9251bc9;;Hosdát;;Hosdát 331003, Románia;;45.7356341;;22.9237094
+5e9025e5c6db4afdd9251bca;;Ráton;;Ráton 457088, Románia;;47.1741509;;22.8308296
+5e9025e5c6db4afdd9251bcb;;Székelytamásfalva;;Székelytamásfalva 527193, Románia;;45.8842826;;26.1156096
+5e9025e5c6db4afdd9251bcc;;Harangláb;;Harangláb, Románia;;46.3039772;;24.4140795
+5e9025e5c6db4afdd9251bcd;;Sepsimagyaros;;Sepsimagyarós 527136, Románia;;45.786454;;25.9232986
+5e9025e5c6db4afdd9251bd1;;Székes;;Székes 547219, Románia;;46.5987622;;24.6967493
+5e9025e5c6db4afdd9251bd3;;Tasnádszarvad;;Tasnádszarvad 445304, Románia;;47.4744117;;22.6258159
+5e9025e5c6db4afdd9251bd4;;Hadadnádasd;;Hadadnádasd 447158, Románia;;47.4026609;;22.9959695
+5e9025e5c6db4afdd9251bd5;;Ótorda;;Torda, Románia;;46.564676;;23.7971063
+5e9025e5c6db4afdd9251bd6;;Kézdialbis;;Kézdialbis 527071, Románia;;45.9374993;;26.0019487
+5e9025e5c6db4afdd9251bd7;;Angyalos;;Angyalos 527096, Románia;;45.8766525;;25.8862459
+5e9025e5c6db4afdd9251bdb;;Kérő;;Kérő, Románia;;47.0218385;;23.8784559
+5e9025e5c6db4afdd9251bdc;;Marosdécse;;Marosdécse, Románia;;46.3824267;;23.764068
+5e9025e5c6db4afdd9251bdd;;Marosbogát;;Marosbogát, Románia;;46.453782;;24.118921
+5e9025e5c6db4afdd9251bde;;Kercsed;;Kercsed, Románia;;46.4657881;;23.7344904
+5e9025e5c6db4afdd9251bdf;;Alsórákos;;Alsórákos 507175, Románia;;46.0236232;;25.4140644
+5e9025e5c6db4afdd9251be0;;Kálnok;;Kálnok 527167, Románia;;45.9297551;;25.7927996
+5e9025e5c6db4afdd9251be1;;Maksa;;Maksa 527120, Románia;;45.8715616;;25.9699262
+5e9025e5c6db4afdd9251be2;;Sükő;;Sükő, Románia;;46.3233689;;25.2021749
+5e9025e5c6db4afdd9251be3;;Alsócsernáton;;Cernatu de Jos, Csernáton 527070, Románia;;45.978243;;26.0106084
+5e9025e5c6db4afdd9251be5;;Bácsi;;Bácsi 337040, Románia;;45.8035396;;23.0098201
+5e9025e5c6db4afdd9251be6;;Vajdahunyad;;Vajdahunyad, Románia;;45.7678128;;22.9072331
+5e9025e5c6db4afdd9251be7;;Bágyon;;Bágyon, Románia;;46.4900036;;23.7371508
+5e9025e5c6db4afdd9251be9;;Bethel bei Bielefeld (Németo.);;Bethel, Bielefeld, Németország;;52.006663;;8.5205656
+5e9025e5c6db4afdd9251bea;;Sepsiszentgyörgy;;Sepsiszentgyörgy, Románia;;45.8609375;;25.7885796
+5e9025e5c6db4afdd9251beb;;Zabola;;Zabola 527190, Románia;;45.88770299999999;;26.189789
+5e9025e5c6db4afdd9251bec;;Szászváros;;Szászváros 335700, Románia;;45.8451246;;23.2019265
+5e9025e5c6db4afdd9251bed;;Tordos;;Tordos 337495, Románia;;45.8532771;;23.1228184
+5e9025e5c6db4afdd9251bee;;Balavásár;;Balavásár 547100, Románia;;46.4078416;;24.6929815
+5e9025e5c6db4afdd9251bef;;Zalán;;Zalán 527037, Románia;;45.9593921;;25.8174491
+5e9025e5c6db4afdd9251bf1;;Parajd;;Parajd 537240, Románia;;46.5553429;;25.1272723
+5e9025e5c6db4afdd9251bf2;;Kisbacon;;Kisbacon 527017, Románia;;46.1039124;;25.6959284
+5e9025e5c6db4afdd9251bf3;;Kisiklód;;Kisiklód, Románia;;46.9707;;23.8249001
+5e9025e5c6db4afdd9251bf4;;Mezőörményes;;Mezőörményes, Románia;;46.7732247;;24.3472637
+5e9025e5c6db4afdd9251bf5;;Szucság;;Szucság 407062, Románia;;46.7843115;;23.4634357
+5e9025e5c6db4afdd9251bf6;;Kékes;;Gyöngyös, Kékes, 3221 Magyarország;;47.8719444;;20.0130556
+5e9025e5c6db4afdd9251bf7;;Lozsád;;Lozsád 337318, Románia;;45.803168;;23.0762352
+5e9025e5c6db4afdd9251bf8;;Szér;;Szér 447063, Románia;;47.3792652;;22.9631625
+5e9025e5c6db4afdd9251bfd;;Holtmaros;;Holtmaros 547037, Románia;;46.8727639;;24.7876027
+5e9025e5c6db4afdd9251c01;;Nagyszeben;;Nagyszeben, Románia;;45.7935607;;24.1212945
+5e9025e5c6db4afdd9251c02;;Magyarbénye;;Magyarbénye, Románia;;46.2322365;;24.0016176
+5e9025e5c6db4afdd9251c03;;Czegőtelke;;Cegőtelke, Románia;;47.0684912;;24.3307087
+5e9025e5c6db4afdd9251c04;;Marosjára;;Marosjára 547281, Románia;;46.66261739999999;;24.7285129
+5e9025e5c6db4afdd9251c05;;Fintaháza;;Fintaháza 547177, Románia;;46.4556153;;24.5483572
+5e9025e5c6db4afdd9251c07;;Küküllőszéplak;;Küküllőszéplak, Románia;;46.3972736;;24.5189235
+5e9025e5c6db4afdd9251c08;;Nagyteremi;;Nagyteremi, Románia;;46.450966;;24.4903334
+5e9025e5c6db4afdd9251c0a;;Feldoboly;;Feldoboly 527042, Románia;;45.7819341;;26.0355734
+5e9025e5c6db4afdd9251c0b;;Szilágyszentkirály;;Szilágyszentkirály, Románia;;47.3001256;;23.132655
+5e9025e5c6db4afdd9251c0c;;Bősháza;;Bősháza, Románia;;47.4201422;;23.2447816
+5e9025e5c6db4afdd9251c10;;Gyerővásárhely;;Gyerővásárhely, Románia;;46.82279339999999;;23.2134879
+5e9025e5c6db4afdd9251c11;;Gógán;;Gógán, Románia;;46.3047939;;24.5154207
+5e9025e5c6db4afdd9251c12;;Székelyföldvár hely lelk.;;Războieni-Cetate, Románia;;46.4109412;;23.8673396
+5e9025e5c6db4afdd9251c14;;Nagymedvés;;Nagymedvés 517282, Románia;;46.3063227;;24.0618571
+5e9025e5c6db4afdd9251c15;;Magyarherepe;;Magyarherepe, Románia;;46.3304933;;24.1554184
+5e9025e5c6db4afdd9251c16;;Csekelaka;;Csekelaka, Románia;;46.3945483;;24.0422188
+5e9025e5c6db4afdd9251c19;;Kóbor;;Kóbor 507231, Románia;;45.9454545;;25.0511905
+5e9025e5c6db4afdd9251c1a;;Bun;;Bún 547027, Románia;;46.2661321;;24.8652979
+5e9025e5c6db4afdd9251c1b;;Vizakna;;Vizakna 555600, Románia;;45.8746227;;24.0654513
+5e9025e5c6db4afdd9251c1d;;Beregújfalu;;Beregújfalu, Kárpátalja, Ukrajna, 90240;;48.2796279;;22.8075308
+5e9025e5c6db4afdd9251c22;;Tasnád;;Tasnád 445300, Románia;;47.47839039999999;;22.5817433
+5e9025e5c6db4afdd9251c24;;Mezőbánd;;Mezőbánd, Románia;;46.5762629;;24.3743048
+5e9025e5c6db4afdd9251c27;;Bihartorda;;Bihartorda, 4174 Magyarország;;47.21599399999999;;21.3526252
+5e9025e5c6db4afdd9251c28;;Nagypalád;;Nagypalád, Kárpátalja, Ukrajna, 90370;;48.0013824;;22.8804573
+5e9025e5c6db4afdd9251c29;;Debrecen;;Debrecen, Magyarország;;47.5316049;;21.6273124
+5e9025e5c6db4afdd9251c2a;;Szilágyborzás;;Szilágyborzás 457263, Románia;;47.1559726;;22.715308
+5e9025e5c6db4afdd9251c2c;;Rugonfalva;;Rugonfalva 537323, Románia;;46.30415929999999;;25.0717186
+5e9025e5c6db4afdd9251c30;;Harasztos;;Harasztos 407130, Románia;;46.4831357;;23.8550202
+5e9025e5c6db4afdd9251c31;;Szilágycseh;;Szilágycseh 455100, Románia;;47.4105497;;23.1747277
+5e9025e5c6db4afdd9251c33;;Magyarlapád;;Magyarlapád, Románia;;46.29201579999999;;23.8175113
+5e9025e5c6db4afdd9251c34;;Kanton Sankt Gallenben s.lel.;;Sankt Gallen kanton, Svájc;;47.1456254;;9.3504332
+5e9025e5c6db4afdd9251c38;;Marburg;;Marburg, Németország;;50.8021728;;8.7667933
+5e9025e5c6db4afdd9251c39;;Berlin;;Berlin, Németország;;52.52000659999999;;13.404954
+5e9025e5c6db4afdd9251c3a;;Zürich;;Zürich, Svájc;;47.3768866;;8.541694
+5e9025e5c6db4afdd9251c3b;;Edinburgh;;Edinburgh, Egyesült Királyság;;55.953252;;-3.188267
+5e9025e5c6db4afdd9251c3c;;Genf;;Genf, Svájc;;46.2043907;;6.1431577
+5e9025e5c6db4afdd9251c3d;;London;;London, Egyesült Királyság;;51.5073509;;-0.1277583
+5e9025e5c6db4afdd9251c3e;;Dijon;;21000 Dijon, Franciaország;;47.322047;;5.04148
+5e9025e5c6db4afdd9251c40;;Héderfája;;Héderfája, Románia;;46.3875722;;24.4663448
+5e9025e5c6db4afdd9251c41;;Magyarós;;Magyaros 535703, Románia;;46.9183023;;25.3450419
+5e9025e5c6db4afdd9251c44;;Somosd;;Somosd 547178, Románia;;46.4572864;;24.5857726
+5e9025e5c6db4afdd9251c46;;Ádámos;;Ádámos 547015, Románia;;46.304229;;24.2413007
+5e9025e5c6db4afdd9251c47;;Vámosgálfalva;;Vámosgálfalva, Románia;;46.332969;;24.3562405
+5e9025e5c6db4afdd9251c48;;Székelyudvarhely;;Székelyudvarhely 535600, Románia;;46.3049996;;25.2926479
+5e9025e5c6db4afdd9251c49;;Marosújvár;;Marosújvár, Románia;;46.38208090000001;;23.8520705
+5e9025e5c6db4afdd9251c4a;;Alsóbölkény;;Alsóbölkény 547110, Románia;;46.73423589999999;;24.7967136
+5e9025e5c6db4afdd9251c4b;;Köröspatak;;Sepsikőröspatak, Románia;;45.9463233;;25.7504648
+5e9025e5c6db4afdd9251c4c;;Sajószentandrás;;Sajószentandrás, Románia;;47.148488;;24.3053352
+5e9025e5c6db4afdd9251c4d;;Tamásváralja;;Tamásváralja 447033, Románia;;48.0156166;;23.1316308
+5e9025e5c6db4afdd9251c4e;;Avasújváros;;Avasújváros 447220, Románia;;47.8338831;;23.2890724
+5e9025e5c6db4afdd9251c4f;;Feketepatak;;Feketepatak, Kárpátalja, Ukrajna;;48.184888;;22.9031893
+5e9025e5c6db4afdd9251c51;;Nagytarna;;Nagytarna 447310, Románia;;48.0915447;;23.1959613
+5e9025e5c6db4afdd9251c52;;Szigetfalu;;Szigetfalu 307193, Románia;;45.44470339999999;;21.4324003
+5e9025e5c6db4afdd9251c58;;Kide;;Kide 407598, Románia;;46.9785294;;23.5983374
+5e9025e5c6db4afdd9251c59;;Nagydoba;;Nagydoba, Románia;;47.2898281;;23.0871397
+5e9025e5c6db4afdd9251c5a;;Bánffyhunyad;;Bánffyhunyad 405400, Románia;;46.8623427;;23.0218215
+5e9025e5c6db4afdd9251c5b;;Magyarvalkó;;Magyarvalkó 407139, Románia;;46.7812726;;23.0339654
+5e9025e5c6db4afdd9251c5c;;Szamosujvár;;Szamosújvár 405300, Románia;;47.0317645;;23.909253
+5e9025e5c6db4afdd9251c5d;;Sóvárad;;Sóvárad, Románia;;46.5660162;;25.0101754
+5e9025e5c6db4afdd9251c5e;;Kibéd;;Kibéd 547268, Románia;;46.5326244;;24.9608848
+5e9025e5c6db4afdd9251c60;;Marosgezse;;Marosgezse 545205, Románia;;46.448486;;24.0628014
+5e9025e5c6db4afdd9251c61;;Braila;;Brajla, Románia;;45.2652463;;27.9594714
+5e9025e5c6db4afdd9251c62;;Alsójára;;Alsójára, Románia;;46.5532007;;23.5177115
+5e9025e5c6db4afdd9251c63;;Magyarmacskás;;Magyarmacskás 407208, Románia;;46.8895686;;23.5665793
+5e9025e5c6db4afdd9251c64;;Nagypetri;;Nagypetri 457114, Románia;;46.9198996;;23.1824228
+5e9025e5c6db4afdd9251c65;;Oláhdellő;;Oláhdellő, Románia;;46.4706956;;24.3074946
+5e9025e5c6db4afdd9251c67;;Nagyiklód;;Nagyiklód 407335, Románia;;46.9847173;;23.8076555
+5e9025e5c6db4afdd9251c68;;Türe;;Türe, Románia;;46.8517436;;23.3525136
+5e9025e5c6db4afdd9251c69;;Kovászna;;Kovászna 525200, Románia;;45.84727669999999;;26.1783452
+5e9025e5c6db4afdd9251c6a;;Oltszem;;Oltszem 527036, Románia;;45.970976;;25.8458019
+5e9025e5c6db4afdd9251c6b;;Kisfülpös;;Kisfülpös, Románia;;46.7821405;;24.5991971
+5e9025e5c6db4afdd9251c6c;;Középajta;;Középajta 527006, Románia;;45.9765624;;25.6087491
+5e9025e5c6db4afdd9251c6d;;Homoródszentlászló;;Homoródszentlászló 537348, Románia;;46.2280542;;25.2709504
+5e9025e5c6db4afdd9251c6e;;Ördögkeresztúr;;Ördögkeresztúr 407048, Románia;;46.9650139;;23.4596785
+5e9025e5c6db4afdd9251c6f;;Petrilla-Lónyatelep;;Petrilla, Románia;;45.4437689;;23.4093784
+5e9025e5c6db4afdd9251c70;;Petrozsény;;Petrozsény, Románia;;45.4088946;;23.3754021
+5e9025e5c6db4afdd9251c71;;Somkerék;;Somkerék, Románia;;47.1582871;;24.336442
+5e9025e5c6db4afdd9251c72;;Vajdakamarás;;Vajdakamarás 407124, Románia;;46.82305059999999;;23.9410102
+5e9025e5c6db4afdd9251c76;;Homoródszentmárton;;Homoródszentmárton, Románia;;46.2821667;;25.4117826
+5e9025e5c6db4afdd9251c7a;;Keresztur;;Székelykeresztúr 535400, Románia;;46.2924526;;25.0317145
+5e9025e5c6db4afdd9251c7c;;Kisborosnyó;;Kisborosnyó 527041, Románia;;45.784333;;26.0127498
+5e9025e5c6db4afdd9251c7d;;Barátos;;Barátos 527050, Románia;;45.8342844;;26.0706541
+5e9025e5c6db4afdd9251c7e;;Domokos;;Domokos 435604, Románia;;47.4544302;;23.9093126
+5e9025e5c6db4afdd9251c80;;Hagymáslapos;;Hagymáslápos, Románia;;47.6160566;;23.4727827
+5e9025e5c6db4afdd9251c81;;Aranyosmegyes;;Aranyosmeggyes 447185, Románia;;47.786743;;23.1376644
+5e9025e5c6db4afdd9251c82;;Bethlen;;Bethlen 425100, Románia;;47.18006810000001;;24.1704031
+5e9025e5c6db4afdd9251c83;;Beszterce;;Beszterce, Románia;;47.1392617;;24.4890979
+5e9025e5c6db4afdd9251c84;;Kolozsvár Hidelve;;Biserica Reformată Horea, 400000,, Strada Câmpeni, Cluj-Napoca 400000, Románia;;46.7804408;;23.5869881
+5e9025e5c6db4afdd9251c85;;Felvinc;;Felvinc, Románia;;46.402835;;23.8213327
+5e9025e5c6db4afdd9251c86;;Búza;;Buza 407115, Románia;;46.9092506;;24.1477964
+5e9025e5c6db4afdd9251c89;;Szilágyfőkeresztur;;Szilágyfőkeresztúr 457106, Románia;;47.258697;;23.0942036
+5e9025e5c6db4afdd9251c8a;;Magyarcsaholy;;Magyarcsaholy 447096, Románia;;47.4244369;;22.5682782
+5e9025e5c6db4afdd9251c8d;;Erszodori;;Érszodoró 447272, Románia;;47.5310766;;22.4578631
+5e9025e5c6db4afdd9251c90;;Avasujváros;;Avasújváros 447220, Románia;;47.8338831;;23.2890724
+5e9025e5c6db4afdd9251c91;;Kőszegremete;;Kőszegremete 447227, Románia;;47.8749455;;23.3165433
+5e9025e5c6db4afdd9251c92;;Sarkadkeresztúr;;Sarkadkeresztúr, 5731 Magyarország;;46.8107081;;21.3841932
+5e9025e5c6db4afdd9251c93;;Nagyzerénd;;Nagyzerind, Románia;;46.6225105;;21.5174194
+5e9025e5c6db4afdd9251c94;;Magyarkecel;;Magyarkecel 457245, Románia;;47.1545891;;22.9481642
+5e9025e5c6db4afdd9251c95;;Ikafalva;;Ikafalva, Románia;;46.0017951;;26.0202424
+5e9025e5c6db4afdd9251c96;;Mocs;;Mócs, Románia;;46.7952336;;24.0316528
+5e9025e5c6db4afdd9251c98;;Tancs;;Tancs 547231, Románia;;46.7780774;;24.5522482
+5e9025e5c6db4afdd9251c99;;Mezőbodon;;Mezőbodon, Románia;;46.5734733;;24.216582
+5e9025e5c6db4afdd9251c9a;;Marosnémeti;;Marosnémeti, Románia;;45.9179026;;22.8474798
+5e9025e5c6db4afdd9251c9b;;Élesd;;Élesd 415100, Románia;;47.0590191;;22.3980649
+5e9025e5c6db4afdd9251c9c;;Monostorpályi;;Monostorpályi, 4275 Magyarország;;47.3984198;;21.7764527
+5e9025e5c6db4afdd9251c9d;;Kaba;;Kaba, 4183 Magyarország;;47.3565391;;21.2726765
+5e9025e5c6db4afdd9251c9e;;Bádok;;Bádok, Románia;;46.969447;;23.6370356
+5e9025e5c6db4afdd9251c9f;;Mákófalva;;Mákófalva 407013, Románia;;46.8312032;;23.2904838
+5e9025e5c6db4afdd9251ca1;;Ketesd;;Ketesd 457138, Románia;;46.897659;;23.0435866
+5e9025e5c6db4afdd9251ca2;;Málnás;;Málnás 527117, Románia;;46.0077474;;25.8411026
+5e9025e5c6db4afdd9251ca3;;Penyige (Szatmár megye);;Penyige, 4941 Magyarország;;47.9987475;;22.5622405
+5e9025e5c6db4afdd9251ca4;;Ombod (Szatmár megye);;Ombod 447232, Románia;;47.7713599;;22.9399483
+5e9025e5c6db4afdd9251ca5;;Biharkeresztes (Bihar megye);;Biharkeresztes, 4110 Magyarország;;47.1301236;;21.7219423
+5e9025e5c6db4afdd9251ca6;;Mezőcsávás;;Mezőcsávás 547140, Románia;;46.64040749999999;;24.5145836
+5e9025e5c6db4afdd9251ca8;;Völcsök;;Völcsök, Románia;;47.4338323;;23.1867675
+5e9025e5c6db4afdd9251ca9;;Mezőújlak;;Mezőújlak, Románia;;46.8148342;;24.3449374
+5e9025e5c6db4afdd9251caa;;Teremiujfalu;;Teremiújfalu, Románia;;46.4567922;;24.509588
+5e9025e5c6db4afdd9251cab;;Szováta;;Szováta 545500, Románia;;46.5990794;;25.0774363
+5e9025e5c6db4afdd9251cac;;Bonchida;;Bonchida 407105, Románia;;46.9148948;;23.8155833
+5e9025e5c6db4afdd9251cad;;Magyarigen;;Magyarigen 517360, Románia;;46.1438947;;23.5121564
+5e9025e5c6db4afdd9251cae;;Magyar-Lapád;;Magyarlapád, Románia;;46.29201579999999;;23.8175113
+5e9025e5c6db4afdd9251caf;;Mezőbergenye;;Mezőbergenye 547451, Románia;;46.5392795;;24.4303736
+5e9025e5c6db4afdd9251cb1;;Mikefalva;;Mikefalva, Románia;;46.36722049999999;;24.4101129
+5e9025e5c6db4afdd9251cb2;;Sepsimagyarós;;Sepsimagyarós 527136, Románia;;45.786454;;25.9232986
+5e9025e5c6db4afdd9251cb6;;Magyarsülye;;Magyarsülye 517284, Románia;;46.3251239;;24.1141302
+5e9025e5c6db4afdd9251cb7;;Mezőzáh;;Mezőzáh, Románia;;46.6127595;;24.1267725
+5e9025e5c6db4afdd9251cb8;;Torboszló;;Torboszló 547396, Románia;;46.5491733;;24.8867956
+5e9025e5c6db4afdd9251cb9;;Gógánváralja;;DJ151B 199, Gogan 547059, Románia;;46.31259;;24.5158195
+5e9025e5c6db4afdd9251cba;;Eresztevény;;Eresztevény, Maksa, Románia;;45.8624024;;25.9579789
+5e9025e5c6db4afdd9251cbb;;Csikszereda;;Csíkszereda, Románia;;46.3695574;;25.7953655
+5e9025e5c6db4afdd9251cbc;;Kolozsvár-Hídelve;;Biserica Reformată Horea, 400000,, Strada Câmpeni, Cluj-Napoca 400000, Románia;;46.7804408;;23.5869881
+5e9025e5c6db4afdd9251cbf;;Lőrinczréve;;Lőrincréve 517586, Románia;;46.2536773;;23.7240608
+5e9025e5c6db4afdd9251cc0;;Temesvár;;Temesvár, Románia;;45.7488716;;21.2086793
+5e9025e5c6db4afdd9251cc1;;Köpecz;;Köpec 525103, Románia;;46.0421249;;25.5791913
+5e9025e5c6db4afdd9251cc2;;Bágy;;Bágy 537177, Románia;;46.2176909;;25.3445149
+5e9025e5c6db4afdd9251cc3;;Csekefalva;;Csekefalva 537012, Románia;;46.3146795;;25.0184433
+5e9025e5c6db4afdd9251cc4;;Székelymuzsna;;Székelymuzsna 537076, Románia;;46.2052965;;25.1482476
+5e9025e5c6db4afdd9251cc5;;Szászsebes;;Szászsebes, Románia;;45.9595588;;23.5663758
+5e9025e5c6db4afdd9251cc6;;Ajton;;Ajton 407025, Románia;;46.68208689999999;;23.7388896
+5e9025e5c6db4afdd9251cc7;;Aldoboly;;Aldoboly 527106, Románia;;45.78176209999999;;25.7542193
+5e9025e5c6db4afdd9251cc8;;Öraljaboldogfalva;;Őraljaboldogfalva, Románia;;45.5747092;;22.9486111
+5e9025e5c6db4afdd9251cc9;;Torda;;Torda, Románia;;46.564676;;23.7971063
+5e9025e5c6db4afdd9251cca;;Soltvadkert;;Soltvadkert, 6230 Magyarország;;46.5789287;;19.3938029
+5e9025e5c6db4afdd9251ccb;;Sepsi-Szentkirály;;Sepsiszentkirály 527107, Románia;;45.8236895;;25.761623
+5e9025e5c6db4afdd9251ccc;;Vajdaszentiván;;Vajdaszentivány, Románia;;46.7065552;;24.6011956
+5e9025e5c6db4afdd9251ccd;;Kolozsvár, Hidelve;;Biserica Reformată Horea, 400000,, Strada Câmpeni, Cluj-Napoca 400000, Románia;;46.7804408;;23.5869881
+5e9025e5c6db4afdd9251cce;;Koródszentmárton;;Kóródszentmárton, Románia;;46.4043492;;24.5801249
+5e9025e5c6db4afdd9251ccf;;Méra;;Méra 407057, Románia;;46.815521;;23.4521424
+5e9025e5c6db4afdd9251cd0;;Torda-túr;;Tordatúr 407560, Románia;;46.6231;;23.7034
+5e9025e5c6db4afdd9251cd1;;Pankota;;Pankota 315600, Románia;;46.3284025;;21.6866668
+5e9025e5c6db4afdd9251cd4;;Bethfalva;;Betfalva 537208, Románia;;46.2894137;;25.0829573
+5e9025e5c6db4afdd9251cd6;;Szamosangyalos;;Szamosangyalos, 4767 Magyarország;;47.87223179999999;;22.6517066
+5e9025e5c6db4afdd9251cd7;;Ége;;Ége 537343, Románia;;46.2044054;;25.2847315
+5e9025e5c6db4afdd9251cd8;;Borosbenedek;;Borosbenedek, Románia;;46.2124985;;23.5914445
+5e9025e5c6db4afdd9251cda;;Tisza-Nána;;Tiszanána, 3385 Magyarország;;47.56203900000001;;20.522157
+5e9025e5c6db4afdd9251cdf;;Nádasdarócz;;Nádasdaróc, Románia;;46.8559837;;23.2941597
+5e9025e5c6db4afdd9251ce2;;Miriszló;;Miriszló 517470, Románia;;46.3619891;;23.7068884
+5e9025e5c6db4afdd9251ce3;;Marburgi Egyetem, Poroszo.;;Biegenstraße 10, 35037 Marburg, Németország;;50.8106859;;8.7741641
+5e9025e5c6db4afdd9251ce5;;Székely-Földvár;;Székelyföldvár, Románia;;46.412935;;23.8705557
+5e9025e5c6db4afdd9251ce6;;Szász Csávás;;Szászcsávás, Románia;;46.3420041;;24.4427159
+5e9025e5c6db4afdd9251ce8;;Felsőboldogfalva;;Felsőboldogfalva 537095, Románia;;46.2743433;;25.2775321
+5e9025e5c6db4afdd9251ce9;;Szászcsávás;;Szászcsávás, Románia;;46.3420041;;24.4427159
+5e9025e5c6db4afdd9251cec;;Sóvárad, lelk.;;Sóvárad, Románia;;46.5617005;;25.0121886
+5e9025e5c6db4afdd9251cee;;Olthévíz;;Olthéviz 507095, Románia;;45.984608;;25.3080583
+5e9025e5c6db4afdd9251cf0;;Magyargyerőmonostor;;Magyargyerőmonostor 407370, Románia;;46.77861859999999;;23.0854825
+5e9025e5c6db4afdd9251cf1;;Bogártelke;;Bogártelke 400007, Románia;;46.86425800000001;;23.3032696
+5e9025e5c6db4afdd9251cf4;;Csíkszereda;;Csíkszereda, Románia;;46.3695574;;25.7953655
+5e9025e5c6db4afdd9251cf5;;Déva;;Déva, Románia;;45.86625739999999;;22.9143737
+5e9025e5c6db4afdd9251cf6;;Egerpatak;;Egerpatak 527146, Románia;;45.814055;;25.966257
+5e9025e5c6db4afdd9251cf7;;Mohács;;Mohács, Magyarország;;46.0046295;;18.6794304
+5e9025e5c6db4afdd9251cf8;;Székelykövesd;;Székelykövesd, Románia;;46.6030253;;24.4734685
+5e9025e5c6db4afdd9251cf9;;Kecset;;Kecset 537171, Románia;;46.3863664;;25.1951403
+5e9025e5c6db4afdd9251cfa;;Bodos;;Bodos 525102, Románia;;46.076186;;25.6601756
+5e9025e5c6db4afdd9251cfb;;Magyarhermány;;Magyarhermány, Románia;;46.1354128;;25.7081089
+5e9025e5c6db4afdd9251cfc;;Sajóhidvég;;Sajóhídvég, 3576 Magyarország;;48.0026817;;20.9495863
+5e9025e5c6db4afdd9251cfd;;Ond;;Szerencs, Ond, 3900 Magyarország;;48.1897199;;21.2122001
+5e9025e5c6db4afdd9251d01;;Szentegyed;;Vasasszentegyed 407567, Románia;;46.92512379999999;;23.9885991
+5e9025e5c6db4afdd9251d02;;Szentgotthárd;;Szentgotthárd, Magyarország;;46.9500038;;16.2853985
+5e9025e5c6db4afdd9251d03;;Királyfalva;;Királyfalva, Ausztria;;47.0015387;;16.1684565
+5e9025e5c6db4afdd9251d04;;Zürichi egyetem;;Rämistrasse 71, 8006 Zürich, Svájc;;47.3743221;;8.550981199999999
+5e9025e5c6db4afdd9251d05;;Marburgi egyetem;;Biegenstraße 10, 35037 Marburg, Németország;;50.8106859;;8.7741641
+5e9025e5c6db4afdd9251d07;;Okány;;Okány, 5534 Magyarország;;46.8982798;;21.3467384
+5e9025e5c6db4afdd9251d08;;Körösladány;;Körösladány, 5516 Magyarország;;46.9607513;;21.0767574
+5e9025e5c6db4afdd9251d0a;;Pir;;Szilágypér 447245, Románia;;47.4588295;;22.3763682
+5e9025e5c6db4afdd9251d0b;;Berlini Friedrich Vilhelm királyi egyetem;;Unter den Linden 6, 10117 Berlin, Németország;;52.517883;;13.3936551
+5e9025e5c6db4afdd9251d0f;;Enyedszentkirály;;Enyedszentkirály, Románia;;46.2922679;;23.7472831
+5e9025e5c6db4afdd9251d10;;Mezőpanit;;Mezőpanit, Románia;;46.5599133;;24.435195
+5e9025e5c6db4afdd9251d11;;Székelykövesd-Harcó;;Harcó, Románia;;46.5826157;;24.4788249
+5e9025e5c6db4afdd9251d13;;Galac;;Galac, Románia;;45.4353208;;28.0079945
+5e9025e5c6db4afdd9251d14;;Nagysomkút;;Nagysomkút 437335, Románia;;47.5038693;;23.4634345
+5e9025e5c6db4afdd9251d15;;Kisenyed;;Kisenyed 557011, Románia;;45.9109407;;23.8509342
+5e9025e5c6db4afdd9251d16;;Lozsád;;Lozsád 337318, Románia;;45.803168;;23.0762352
+5e9025e5c6db4afdd9251d17;;Andrásfalva;;Andrásfalva 727256, Románia;;47.8991684;;25.9241913
+5e9025e5c6db4afdd9251d19;;Érkörös- Sződemeter;;Sződemeter 447280, Románia;;47.467341;;22.4916729
+5e9025e5c6db4afdd9251d1b;;Selymesilosva;;Selymesilosva 457331, Románia;;47.2958554;;22.8390396
+5e9025e5c6db4afdd9251d1e;;Szilágyballa;;Szilágyballa 457046, Románia;;47.2804709;;22.93663
+5e9025e5c6db4afdd9251d1f;;Somlyóújlak;;Somlyóújlak 457241, Románia;;47.2792734;;22.7461812
+5e9025e5c6db4afdd9251d20;;Mezőberény;;Mezőberény, 5650 Magyarország;;46.82568699999999;;21.0243614
+5e9025e5c6db4afdd9251d21;;Kőröstarcsa;;Köröstarcsa, 5622 Magyarország;;46.8780314;;21.02402
+5e9025e5c6db4afdd9251d22;;Csaholc;;Csaholc, 4967 Magyarország;;47.9833733;;22.7323201
+5e9025e5c6db4afdd9251d24;;Szentmargita;;Szentmargita 407399, Románia;;47.1560887;;23.9939532
+5e9025e5c6db4afdd9251d26;;Bibarczfalva;;Bibarcfalva 525101, Románia;;46.0933223;;25.6524703
+5e9025e5c6db4afdd9251d27;;Máramarossziget;;Máramarossziget 435500, Románia;;47.927707;;23.8976506
+5e9025e5c6db4afdd9251d28;;Kunhegyes;;Kunhegyes, 5340 Magyarország;;47.36668840000001;;20.6346524
+5e9025e5c6db4afdd9251d29;;Doboz;;Doboz, 5624 Magyarország;;46.7343152;;21.2420659
+5e9025e5c6db4afdd9251d2b;;Nagydevecser;;Nagydevecser 407523, Románia;;46.9875149;;24.0723592
+5e9025e5c6db4afdd9251d2c;;Baca;;Baca 427216, Románia;;47.1871662;;23.9935674
+5e9025e5c6db4afdd9251d2e;;Kiskereki;;Kiskereki 417175, Románia;;47.3835591;;22.1205771
+5e9025e5c6db4afdd9251d2f;;Bacza;;Bacza, 33-335 Bącza Kunina, Lengyelország;;49.5408321;;20.7366881
+5e9025e5c6db4afdd9251d30;;Bács;;Bács, Szerbia;;45.3951678;;19.2371383
+5e9025e5c6db4afdd9251d3a;;Sepsikőröspatak;;Sepsikőröspatak 527165, Románia;;45.9161216;;25.7755976
+5e9025e5c6db4afdd9251d3e;;Szövérd;;Szövérd 547013, Románia;;46.4338418;;24.7159349
+5e9025e5c6db4afdd9251d3f;;Kissolymos;;Kissolymos 537257, Románia;;46.338384;;24.9604621
+5e9025e5c6db4afdd9251d43;;Érszöllös;;Érszőllős 417625, Románia;;47.3839131;;22.4401339
+5e9025e5c6db4afdd9251d44;;Szilágypér;;Szilágypér 447245, Románia;;47.4588295;;22.3763682
+5e9025e5c6db4afdd9251d46;;Erősd;;Erősd 527177, Románia;;45.7781241;;25.6746503
+5e9025e5c6db4afdd9251d48;;Kézdimartonfalva;;Kézdimartonfalva 527069, Románia;;45.9221368;;26.0960963
+5e9025e5c6db4afdd9251d49;;Bölön;;Bölön 527030, Románia;;45.9344587;;25.5724102
+5e9025e5c6db4afdd9251d4a;;Erzsébetváros;;Erzsébetváros 555500, Románia;;46.22979650000001;;24.5752707
+5e9025e5c6db4afdd9251d4b;;Vérvölgy;;Vérvölgy, Románia;;47.3123741;;23.1084168
+5e9025e5c6db4afdd9251d4c;;Magyarvista;;Magyarvista, Románia;;46.8022433;;23.4012085
+5e9025e5c6db4afdd9251d4d;;Székelykeresztur;;Székelykeresztúr 535400, Románia;;46.2924526;;25.0317145
+5e9025e5c6db4afdd9251d4e;;Siklód;;Siklód 537009, Románia;;46.5170204;;25.0389112
+5e9025e5c6db4afdd9251d4f;;Alpestes;;Alpestes 331004, Románia;;45.8002354;;22.9251505
+5e9025e5c6db4afdd9251d50;;Kisbarcsa;;Kisbarcsa, 330002, Románia;;45.8214981;;22.9545764
+5e9025e5c6db4afdd9251d51;;Nádasdarócz-Bogártelke;;Nádasdaróc, Románia;;46.8559837;;23.2941597
+5e9025e5c6db4afdd9251d52;;Kővárhosszúfalu;;Kővárhosszúfalu, Románia;;47.5687033;;23.4214819
+5e9025e5c6db4afdd9251d55;;Vajasd;;Vajasd, Románia;;46.1579061;;23.6331692
+5e9025e5c6db4afdd9251d5a;;Bonn-i egyetem;;Regina-Pacis-Weg 3, 53113 Bonn, Németország;;50.7267715;;7.0865227
+5e9025e5c6db4afdd9251d5d;;heidelberg;;Heidelberg, Németország;;49.3987524;;8.6724335
+5e9025e5c6db4afdd9251d5e;;Szamosújvár;;Szamosújvár 405300, Románia;;47.0317645;;23.909253
+5e9025e5c6db4afdd9251d5f;;Uzdiszentpéter;;Uzdiszentpéter 547555, Románia;;46.7181828;;24.2614783
+5e9025e5c6db4afdd9251d60;;Felenyed;;Felsöenyed, Románia;;46.3187129;;23.6845109
+5e9025e5c6db4afdd9251d61;;Topánfalva;;Topánfalva 515500, Románia;;46.3628153;;23.0459729
+5e9025e5c6db4afdd9251d62;;Szilágy-Cseh;;Szilágycseh 455100, Románia;;47.4105497;;23.1747277
+5e9025e5c6db4afdd9251d63;;Magyar-nemegye;;Magyarnemegye, Románia;;47.2512334;;24.2972946
+5e9025e5c6db4afdd9251d64;;Magyar-Köblös;;Magyarköblös, Románia;;47.051603;;23.6256152
+5e9025e5c6db4afdd9251d65;;Tordatur;;Tordatúr 407560, Románia;;46.6231;;23.7034
+5e9025e5c6db4afdd9251d66;;Mezőszengyel;;Mezőszengyel 547540, Románia;;46.55912559999999;;24.1381743
+5e9025e5c6db4afdd9251d68;;Toldalag;;Toldalag 547651, Románia;;46.7047;;24.5784192
+5e9025e5c6db4afdd9251d69;;Maroshéviz;;Maroshévíz 535700, Románia;;46.9260303;;25.3534041
+5e9025e5c6db4afdd9251d6a;;Balatonfőkajár;;Balatonfőkajár, 8164 Magyarország;;47.0196638;;18.2109785
+5e9025e5c6db4afdd9251d6b;;Mezőszentgyörgy;;Mezőszentgyörgy, 8133 Magyarország;;46.9920267;;18.2795568
+5e9025e5c6db4afdd9251d6c;;Ősi;;Ősi, 8161 Magyarország;;47.1445512;;18.1872527
+5e9025e5c6db4afdd9251d6d;;Som;;Som, 8655 Magyarország;;46.80641989999999;;18.140602
+5e9025e5c6db4afdd9251d6e;;Köröshegy;;Kőröshegy, 8617 Magyarország;;46.8350066;;17.8988043
+5e9025e5c6db4afdd9251d6f;;Nagyberény;;Nagyberény, 8656 Magyarország;;46.7991196;;18.1671875
+5e9025e5c6db4afdd9251d72;;Csomafája;;Csomafája 407113, Románia;;46.9424945;;23.6223294
+5e9025e5c6db4afdd9251d73;;Magyarkályán;;Magyarkalyán 407120, Románia;;46.7823017;;23.9167027
+5e9025e5c6db4afdd9251d75;;Illyefalva;;Illyefalva 527105, Románia;;45.7953615;;25.7713587
+5e9025e5c6db4afdd9251d76;;Lécfalva;;Lécfalva 527043, Románia;;45.8547535;;26.0180487
+5e9025e5c6db4afdd9251d77;;Kutyfalva;;Kutyfalva 547195, Románia;;46.4634727;;24.1553106
+5e9025e5c6db4afdd9251d78;;Mezőszava;;Mezőszava 407386, Románia;;46.882134;;23.9667325
+5e9025e5c6db4afdd9251d79;;Vice;;Vice 427207, Románia;;47.0413267;;24.1472155
+5e9025e5c6db4afdd9251d7e;;Czege;;Cege, Románia;;46.9418679;;24.013031
+5e9025e5c6db4afdd9251d81;;Ördöngösfüzes;;Ördöngösfüzes 407275, Románia;;47.02517479999999;;23.988398
+5e9025e5c6db4afdd9251d87;;Zsibó;;Zsibó 455200, Románia;;47.2555011;;23.2601119
+5e9025e5c6db4afdd9251d89;;Déda;;Déda 547205, Románia;;46.9486509;;24.875216
+5e9025e5c6db4afdd9251d8b;;Érolaszi;;Érolaszi, Románia;;47.3497644;;22.1715858
+5e9025e5c6db4afdd9251d8c;;Etéd;;Etéd 537005, Románia;;46.4534697;;25.0478746
+5e9025e5c6db4afdd9251d8e;;Mezőméhes;;Mezőméhes, Románia;;46.6768782;;24.1545248
+5e9025e5c6db4afdd9251d8f;;Disznajó;;Disznajó 547134, Románia;;46.8924083;;24.794658
+5e9025e5c6db4afdd9251d90;;Dedrádszéplak;;Dedrádszéplak 547087, Románia;;46.852033;;24.6563567
+5e9025e5c6db4afdd9251d91;;Harasztkerék;;Harasztkerék 547011, Románia;;46.4589074;;24.6790825
+5e9025e5c6db4afdd9251d93;;Marosvécs;;Marosvécs, Románia;;46.88801489999999;;24.7521487
+5e9025e5c6db4afdd9251d98;;Sófalva;;Sófalva, Románia;;47.0756541;;24.4361239
+5e9025e5c6db4afdd9251d99;;Dombos;;Dombos 507114, Románia;;45.9609522;;24.9684215
+5e9025e5c6db4afdd9251d9a;;Medgyes;;Medgyes, Románia;;46.1572828;;24.3471665
+5e9025e5c6db4afdd9251d9d;;Nádudvar;;Nádudvar, 4181 Magyarország;;47.4259381;;21.1616779
+5e9025e5c6db4afdd9251d9e;;Magyarköblös;;Magyarköblös, Románia;;47.051603;;23.6256152
+5e9025e5c6db4afdd9251da4;;Nyárszó-Sárvásár;;Sárvásár, Románia;;46.8521432;;23.0728781
+5e9025e5c6db4afdd9251da5;;Tiszaug;;Tiszaug, 6064 Magyarország;;46.8537215;;20.052921
+5e9025e5c6db4afdd9251da7;;Nagyvárad;;Nagyvárad, Románia;;47.04650050000001;;21.9189438
+5e9025e5c6db4afdd9251da8;;Szőrcse;;Sorcse 527192, Románia;;45.8811247;;26.0791653
+5e9025e5c6db4afdd9251da9;;Szolokma;;Szolokma 547269, Románia;;46.4778836;;24.9952902
+5e9025e5c6db4afdd9251dad;;Dícsőszentmárton;;Dicsőszentmárton 545600, Románia;;46.3293137;;24.2935777
+5e9025e5c6db4afdd9251dae;;Bürkös;;Bürkös 557035, Románia;;45.985761;;24.5368215
+5e9025e5c6db4afdd9251daf;;Nyárádmagyarós;;Nyárádmagyarós 547385, Románia;;46.56426829999999;;24.9018318
+5e9025e5c6db4afdd9251db0;;Nádasdaróc;;Nádasdaróc, Románia;;46.8559837;;23.2941597
+5e9025e5c6db4afdd9251db1;;Alvinc;;Alvinc, Románia;;45.9920306;;23.4864679
+5e9025e5c6db4afdd9251db7;;Ördöngösfűzes;;Ördöngösfüzes 407275, Románia;;47.02517479999999;;23.988398
+5e9025e5c6db4afdd9251db8;;Utrecht;;Utrecht, Hollandia;;52.09073739999999;;5.1214201
+5e9025e5c6db4afdd9251db9;;Várlamás;;Váralmás, Románia;;46.966232;;23.0986992
+5e9025e5c6db4afdd9251dba;;Körösszegapáti;;Körösszegapáti, 4135 Magyarország;;47.0396539;;21.6317831
+5e9025e5c6db4afdd9251dc2;;Ploesti;;Ploiești, Románia;;44.936664;;26.0128616
+5e9025e5c6db4afdd9251dc4;;Gidófalva;;Gidófalva 527095, Románia;;45.9059002;;25.8441677
+5e9025e5c6db4afdd9251dc5;;Sepsibesenyő;;Sepsibesenyő 527122, Románia;;45.8839198;;25.9295602
+5e9025e5c6db4afdd9251dc6;;Sepsiszentkirály;;Sepsiszentkirály 527107, Románia;;45.8236895;;25.761623
+5e9025e5c6db4afdd9251dc7;;Magyarmacskás- Bodonkút;;Magyarmacskás 407208, Románia;;46.8895686;;23.5665793
+5e9025e5c6db4afdd9251dc8;;Kajántó;;Kajántó, Románia;;46.85;;23.538889
+5e9025e5c6db4afdd9251dc9;;Berlini és Marburgi Tud. Egyetem;;Unter den Linden 6, 10117 Berlin, Németország;;52.517883;;13.3936551
+5e9025e5c6db4afdd9251dcd;;Alsókálnok;;038 02 Alsókálnok, Szlovákia;;49.0405106;;18.9625047
+5e9025e5c6db4afdd9251dcf;;Bözöd;;Bözöd 547536, Románia;;46.4065615;;24.9197859
+5e9025e5c6db4afdd9251dd0;;Tasnádszántó;;Szántó 447270, Románia;;47.5083111;;22.511942
+5e9025e5c6db4afdd9251dd1;;Kolozs;;Kolozs 407240, Románia;;46.7490407;;23.8296659
+5e9025e5c6db4afdd9251dd3;;Basel, Svájc;;Bázel, Svájc;;47.5595986;;7.5885761
+5e9025e5c6db4afdd9251dd4;;Árapatak;;Árapatak 527176, Románia;;45.8060066;;25.6534454
+5e9025e5c6db4afdd9251dd5;;Komolló;;Komolló, Réty 527145, Románia;;45.8402421;;25.9119999
+5e9025e5c6db4afdd9251dd8;;Mezőfele;;Mezőfele 547142, Románia;;46.6521883;;24.4853219
+5e9025e5c6db4afdd9251dda;;Borbátvíz;;Borbátvíz, Románia;;45.486086;;23.0909306
+5e9025e5c6db4afdd9251ddb;;Csíkfalva;;Csíkfalva 547625, Románia;;46.5779759;;24.8009879
+5e9025e5c6db4afdd9251ddd;;Bede;;Bede 547248, Románia;;46.4659915;;24.781613
+5e9025e5c6db4afdd9251dde;;Üllő;;Üllő, 2225 Magyarország;;47.3846843;;19.344861
+5e9025e5c6db4afdd9251ddf;;Zámoly;;Zámoly, 8081 Magyarország;;47.3168103;;18.408371
+5e9025e5c6db4afdd9251de1;;Makárt;;Pécs, Makár, 7635 Magyarország;;46.0748639;;18.1954849
+5e9025e5c6db4afdd9251de2;;Szentmártonkáta;;Szentmártonkáta, 2254 Magyarország;;47.44524999999999;;19.6907916
+5e9025e5c6db4afdd9251de3;;Gomba;;Gomba, 2217 Magyarország;;47.3702652;;19.5287008
+5e9025e5c6db4afdd9251de4;;Szabadka;;Szabadka, Szerbia;;46.1005467;;19.6650593
+5e9025e5c6db4afdd9251de6;;Alsódetrehem;;Alsódetrehem, Románia;;46.58609999999999;;23.9965
+5e9025e5c6db4afdd9251de7;;Kolozsvár belváros;;Belváros, Kolozsvár, Románia;;46.7698428;;23.5888673
+5e9025e5c6db4afdd9251de9;;Nagyilonda- Semesnye;;Semesnye 457294, Románia;;47.2329296;;23.6211387
+5e9025e6c6db4afdd9251dea;;Kézdimárkosfalva;;Kézdimárkosfalva 527068, Románia;;45.9191382;;26.0537264
+5e9025e6c6db4afdd9251deb;;Kebeleszentiván;;Kebeleszentivány 547368, Románia;;46.5413578;;24.6679505
+5e9025e6c6db4afdd9251ded;;Bita;;Bita 527147, Románia;;45.834895;;25.9744868
+5e9025e6c6db4afdd9251dee;;Mezőkapus;;Mezőkapus, Románia;;46.5419016;;24.3142996
+5e9025e6c6db4afdd9251df0;;Mezőkölpény;;Mezőkölpény 547143, Románia;;46.6392383;;24.4295385
+5e9025e6c6db4afdd9251df2;;Kisgalambfalva;;Kisgalambfalva 537216, Románia;;46.2720339;;25.102736
+5e9025e6c6db4afdd9251df3;;Balázsfalva;;Balázsfalva 515400, Románia;;46.1802331;;23.9279175
+5e9025e6c6db4afdd9251df5;;Istvánháza;;Istvánháza, Románia;;46.3902088;;24.1044143
+5e9025e6c6db4afdd9251df6;;Magyarózd;;Magyarózd 547123, Románia;;46.35670469999999;;24.1177933
+5e9025e6c6db4afdd9251df7;;Fogaras;;Fogaras, Románia;;45.84164029999999;;24.9730954
+5e9025e6c6db4afdd9251df8;;Felsősófalva;;Felsősófalva 537244, Románia;;46.5242431;;25.1505348
+5e9025e6c6db4afdd9251dfa;;Mezőkapus-Nagyikland;;Nagyikland 547348, Románia;;46.5281005;;24.265056
+5e9025e6c6db4afdd9251dfb;;Makó;;Makó, Magyarország;;46.2219071;;20.4809265
+5e9025e6c6db4afdd9251dfc;;Cege;;Cege, Románia;;46.9457;;24.0594
+5e9025e6c6db4afdd9251dfd;;Cegőtelke;;Cegőtelke, Románia;;47.0684912;;24.3307087
+5e9025e6c6db4afdd9251dfe;;Kecsetkisfalud;;Kecsetkisfalud 537173, Románia;;46.3710931;;25.1948422
+5e9025e6c6db4afdd9251dff;;Petrila;;Petrilla, Románia;;45.4437689;;23.4093784
+5e9025e6c6db4afdd9251e00;;Gyergyószentmiklós;;Gyergyószentmiklós, Románia;;46.7212112;;25.5855275
+5e9025e6c6db4afdd9251e02;;Komlód;;Komlód, Románia;;46.8575592;;24.4429655
+5e9025e6c6db4afdd9251e07;;Szilágygörcs-Szilágyszeg;;Szilágyszeg, Románia;;47.3654266;;23.1379852
+5e9025e6c6db4afdd9251e08;;Szamosújlak;;Szamosújlak, 4734 Magyarország;;47.9181367;;22.5873771
+5e9025e6c6db4afdd9251e0b;;Barót;;Barót 525100, Románia;;46.0753937;;25.6050476
+5e9025e6c6db4afdd9251e0f;;Hegyközszentimre;;Hegyközszentimre 417452, Románia;;47.2470642;;22.0435581
+5e9025e6c6db4afdd9251e10;;Berettyószéplak;;Berettyószéplak, Románia;;47.2452552;;22.5016263
+5e9025e6c6db4afdd9251e11;;Havadtő;;Havadtő 547241, Románia;;46.4314972;;24.8037467
+5e9025e6c6db4afdd9251e12;;Vadasd;;Vadasd 547439, Románia;;46.4545794;;24.8186095
+5e9025e6c6db4afdd9251e14;;Berettyőszéplak;;Berettyószéplak, Románia;;47.2452552;;22.5016263
+5e9025e6c6db4afdd9251e15;;Hadrév;;Hadrév 547156, Románia;;46.4653472;;23.9870501
+5e9025e6c6db4afdd9251e18;;Magyarpalatka;;Magyarpalatka 407450, Románia;;46.8435898;;23.9871784
+5e9025e6c6db4afdd9251e1d;;Lőrincfalva;;Lõrincfalva 547262, Románia;;46.4702281;;24.4869982
+5e9025e6c6db4afdd9251e1e;;Hari;;Hari 517281, Románia;;46.3643772;;23.9778879
+5e9025e6c6db4afdd9251e20;;Radákszinye;;Radákszinye, Románia;;47.1479258;;23.7017894
+5e9025e6c6db4afdd9251e23;;Pókafalva;;Pókafalva 557175, Románia;;46.0094158;;23.8895477
+5e9025e6c6db4afdd9251e26;;Margitta;;Margitta 415300, Románia;;47.34791939999999;;22.3397566
+5e9025e6c6db4afdd9251e2a;;Mája;;Mája 547392, Románia;;46.5811775;;24.8481605
+5e9025e6c6db4afdd9251e2b;;Hadad;;Hadad 447155, Románia;;47.4020652;;23.0262395
+5e9025e6c6db4afdd9251e2c;;Krasznaczégény;;Krasznacégény 447109, Románia;;47.5867394;;22.7349215
+5e9025e6c6db4afdd9251e2e;;Miszla;;Miszla, 7065 Magyarország;;46.6325553;;18.480824
+5e9025e6c6db4afdd9251e2f;;Némedi;;Némedi-patak, Magyarország;;47.7162246;;19.3195218
+5e9025e6c6db4afdd9251e30;;Szászkisalmás;;Alma, Románia;;46.22981619999999;;24.4525138
+5e9025e6c6db4afdd9251e31;;Szárazajta;;Szárazajta 527016, Románia;;46.0387871;;25.6886498
+5e9025e6c6db4afdd9251e32;;Érmindszent;;Érmindszent 447086, Románia;;47.5814068;;22.6144426
+5e9025e6c6db4afdd9251e33;;Melegföldvár;;Melegföldvár 407172, Románia;;46.8840734;;24.1511812
+5e9025e6c6db4afdd9251e34;;Lukailencfalva;;Lukailencfalva 547261, Románia;;46.4633665;;24.5255529
+5e9025e6c6db4afdd9251e35;;Nyárádkarácsony;;Nyárádkarácson, Románia;;46.467049;;24.5737741
+5e9025e6c6db4afdd9251e36;;Magyarpécska;;Pécska 317235, Románia;;46.1689414;;21.0678377
+5e9025e6c6db4afdd9251e37;;Szöreg;;Szeged, Szőreg, 6771 Magyarország;;46.2118909;;20.192607
+5e9025e6c6db4afdd9251e38;;Mezőkovácsháza;;Mezőkovácsháza, 5800 Magyarország;;46.4093003;;20.9112692
+5e9025e6c6db4afdd9251e39;;Magyardécse;;Magyardécse 427011, Románia;;47.1419314;;24.0576507
+5e9025e6c6db4afdd9251e3a;;Válaszút;;Válaszút, Románia;;46.9042955;;23.7704217
+5e9025e6c6db4afdd9251e3b;;Várkudú;;Varkudu 425101, Románia;;47.18607249999999;;24.1435506
+5e9025e6c6db4afdd9251e3c;;Udvarfalva;;Udvarfalva 547568, Románia;;46.593986;;24.5721681
+5e9025e6c6db4afdd9251e3d;;Keresztvár;;Keresztvár 507225, Románia;;45.699261;;25.8546844
+5e9025e6c6db4afdd9251e3e;;Tür;;Tűr, Románia;;46.1585111;;23.8832265
+5e9025e6c6db4afdd9251e40;;Dombóvár;;Dombóvár, 7200 Magyarország;;46.3828653;;18.1452879
+5e9025e6c6db4afdd9251e41;;Budafok;;Budapest, Budafok, Magyarország;;47.4275302;;19.0240512
+5e9025e6c6db4afdd9251e43;;Pestszentlőrinc Erzsébet telep;;Budapest, Erzsébettelep, 1183 Magyarország;;47.4585909;;19.1827458
+5e9025e6c6db4afdd9251e46;;Légen - Gyeke;;Légen 407303, Románia;;46.8557772;;24.0449111
+5e9025e6c6db4afdd9251e47;;Mezőkeszű;;Mezőkeszü, Románia;;46.81761830000001;;24.008826
+5e9025e6c6db4afdd9251e48;;Katona;;Katona, Románia;;46.8659731;;24.1689097
+5e9025e6c6db4afdd9251e4a;;Magyarberkesz;;Magyarberkesz 437231, Románia;;47.5176603;;23.5015714
+5e9025e6c6db4afdd9251e4d;;Czófalva;;Cófalva 527044, Románia;;45.8355448;;26.0265064
+5e9025e6c6db4afdd9251e4e;;Aranyosegerbegy;;Aranyosegerbegy, Románia;;46.5579;;23.9098001
+5e9025e6c6db4afdd9251e4f;;Cserefalva;;Cserefalva 547012, Románia;;46.47968239999999;;24.6162854
+5e9025e6c6db4afdd9251e51;;Székelyabod;;Székelyabod 547266, Románia;;46.5248392;;24.9144211
+5e9025e6c6db4afdd9251e53;;Magyaró;;Magyaró, Románia;;46.8892606;;24.858579
+5e9025e6c6db4afdd9251e54;;Magyarfülpös;;Magyarfülpös, Románia;;46.7539877;;24.5874508
+5e9025e6c6db4afdd9251e56;;Franciaország, Montpellier;;Montpellier, Franciaország;;43.610769;;3.876716
+5e9025e6c6db4afdd9251e57;;Basel;;Bázel, Svájc;;47.5595986;;7.5885761
+5e9025e6c6db4afdd9251e59;;Nyárádszentsimon;;Nyárádszentsimon 547438, Románia;;46.4958068;;24.8352623
+5e9025e6c6db4afdd9251e5a;;Gyula;;Gyula, Magyarország;;46.6473027;;21.2784255
+5e9025e6c6db4afdd9251e5b;;Érhatvan;;Érhatvan 447089, Románia;;47.5561509;;22.4865837
+5e9025e6c6db4afdd9251e5c;;Sarmaság;;Sarmaság 457230, Románia;;47.3450936;;22.8253353
+5e9025e6c6db4afdd9251e5d;;Kolozskara;;Kolozskara, Románia;;46.7556859;;23.7820526
+5e9025e6c6db4afdd9251e5e;;Moreni;;Moreni 135300, Románia;;44.9820431;;25.6402111
+5e9025e6c6db4afdd9251e5f;;Patakfalva;;Patakfalva 537107, Románia;;46.2675857;;25.3304702
+5e9025e6c6db4afdd9251e60;;Kecskemét;;Kecskemét, Magyarország;;46.8963711;;19.6896861
+5e9025e6c6db4afdd9251e61;;Szabadszállás;;Szabadszállás, 6080 Magyarország;;46.8763076;;19.2232539
+5e9025e6c6db4afdd9251e62;;Algyógy;;Algyógy 335400, Románia;;45.9190123;;23.2020699
+5e9025e6c6db4afdd9251e64;;Mezőcsávas;;Mezőcsávás, Románia;;46.6511858;;24.4855318
+5e9025e6c6db4afdd9251e65;;Manesti;;Mănești, Románia;;44.8708852;;25.8486233
+5e9025e6c6db4afdd9251e66;;Ploiesti;;Ploiești, Románia;;44.936664;;26.0128616
+5e9025e6c6db4afdd9251e67;;Mezőszentmihály-Füzkút;;Fűzkút, Románia;;46.9179559;;24.300971
+5e9025e6c6db4afdd9251e68;;Alamor;;Alamor 557121, Románia;;45.9292337;;23.9954424
+5e9025e6c6db4afdd9251e69;;Héjjasfalva;;Héjjasfalva 547635, Románia;;46.24176509999999;;24.9264664
+5e9025e6c6db4afdd9251e6d;;Almásmálom;;Almásmálom 427204, Románia;;47.1204395;;24.1308771
+5e9025e6c6db4afdd9251e6e;;Tiszavid;;Tiszavid, 4832 Magyarország;;48.19512779999999;;22.2945875
+5e9025e6c6db4afdd9251e6f;;Munkács;;Munkács, Kárpátalja, Ukrajna, 89600;;48.4493055;;22.7117106
+5e9025e6c6db4afdd9251e71;;Manitoba College;;190 Extended Education Complex, University of Manitoba, 406 University Crescent, Winnipeg, MB R3T 2N2, Kanada;;49.8075221;;-97.1385236
+5e9025e6c6db4afdd9251e72;;Érkörös;;Érkőrös 447271, Románia;;47.4916489;;22.448806
+5e9025e6c6db4afdd9251e73;;Róma;;Róma, Olaszország;;41.9027835;;12.4963655
+5e9025e6c6db4afdd9251e74;;Retteg;;Retteg 427220, Románia;;47.1971228;;24.0185487
+5e9025e6c6db4afdd9251e76;;Magyarszentbenedek;;Magyarszentbenedek 517283, Románia;;46.3149463;;24.0459518
+5e9025e6c6db4afdd9251e78;;Magyarszék;;Magyarszék, 7396 Magyarország;;46.1966719;;18.1955889
+5e9025e6c6db4afdd9251e7a;;Ozara;;Ozora, 7086 Magyarország;;46.7525477;;18.3908146
+5e9025e6c6db4afdd9251e7b;;Szászvár;;Szászvár, 7349 Magyarország;;46.2739639;;18.3774781
+5e9025e6c6db4afdd9251e7c;;Törtel;;Törtel, 2747 Magyarország;;47.12047520000001;;19.9328971
+5e9025e6c6db4afdd9251e7d;;Tiszakálmánfalva;;Tiszakálmánfalva, Szerbia;;45.2834529;;19.9974011
+5e9025e6c6db4afdd9251e7e;;Székelytompa;;Székelytompa 547417, Románia;;46.53266929999999;;24.7656104
+5e9025e6c6db4afdd9251e7f;;Nyires;;Szásznyíres, Románia;;47.1142634;;23.9847266
+5e9025e6c6db4afdd9251e80;;Karcag;;Karcag, 5300 Magyarország;;47.3148629;;20.9196518
+5e9025e6c6db4afdd9251e81;;Hajdúböszörmény;;Hajdúböszörmény, Magyarország;;47.6718908;;21.5126637
+5e9025e6c6db4afdd9251e82;;Jéna;;Jéna, Németország;;50.927054;;11.5892372
+5e9025e6c6db4afdd9251e83;;Nagyrápolt;;Nagyrápolt 337365, Románia;;45.8664253;;23.0728772
+5e9025e6c6db4afdd9251e84;;Alsószentmihály;;Szentmihály 407405, Románia;;46.5405653;;23.756132
+5e9025e6c6db4afdd9251e85;;Pata;;Kolozspata, Románia;;46.7278791;;23.7456469
+5e9025e6c6db4afdd9251e87;;Tuson;;Tuson 547561, Románia;;46.73139339999999;;24.2255064
+5e9025e6c6db4afdd9251e89;;Siménfalva;;Siménfalva 537310, Románia;;46.3372208;;25.1077262
+5e9025e6c6db4afdd9251e8a;;Kispulyon;;Kispulyon 407304, Románia;;46.9095331;;24.0096234
+5e9025e6c6db4afdd9251e8e;;Monó;;Monó, Románia;;47.4812413;;23.261539
+5e9025e6c6db4afdd9251e8f;;Nagymon;;Nagymon, Románia;;47.3269026;;23.115896
+5e9025e6c6db4afdd9251e90;;Nyárádmagyaros;;Nyárádmagyarós, Románia;;46.587171;;24.9412618
+5e9025e6c6db4afdd9251e91;;Nagypestény;;Nagypestény 337208, Románia;;45.5479745;;22.8221222
+5e9025e6c6db4afdd9251e92;;Haró;;Haró, Románia;;45.9061041;;22.9862846
+5e9025e6c6db4afdd9251e93;;Marossárpatak;;Marossárpatak 547275, Románia;;46.6549681;;24.6080416
+5e9025e6c6db4afdd9251e96;;Kémer;;Kémer 457060, Románia;;47.30141649999999;;22.6151719
+5e9025e6c6db4afdd9251e99;;Petrilla-Lónya;;Petrilla, Románia;;45.4437689;;23.4093784
+5e9025e6c6db4afdd9251e9a;;Varsolc;;Varsolc 457355, Románia;;47.207932;;22.9145712
+5e9025e6c6db4afdd9251e9e;;Vízakna;;Vizakna 555600, Románia;;45.8746227;;24.0654513
+5e9025e6c6db4afdd9251ea0;;Márkod;;Márkod, Románia;;46.5962893;;24.8631884
+5e9025e6c6db4afdd9251ea2;;Őraljaboldogfalava;;Őraljaboldogfalva, Románia;;45.5747092;;22.9486111
+5e9025e6c6db4afdd9251ea3;;Bodonkut;;Bodonkút, Románia;;46.8962831;;23.5135795
+5e9025e6c6db4afdd9251ea4;;Kolozsvár, alsóváros;;Strada Crinului 3/24, Cluj-Napoca 400000, Románia;;46.777971;;23.608746
+5e9025e6c6db4afdd9251ea5;;Bálványosváralja;;Bálványosváralja, Románia;;47.1081;;24.0571
+5e9025e6c6db4afdd9251ea8;;Mátisfalva;;Mátisfalva 537213, Románia;;46.235078;;25.1652282
+5e9025e6c6db4afdd9251eaa;;Kosd;;Kosd, 2612 Magyarország;;47.8052708;;19.1779341
+5e9025e6c6db4afdd9251eab;;Budapest;;Budapest, Magyarország;;47.497912;;19.040235
+5e9025e6c6db4afdd9251eac;;Magyarlóna;;Magyarlóna, Románia;;46.7441717;;23.43052
+5e9025e6c6db4afdd9251ead;;Sárvásár;;Sárvásár, Románia;;46.8521432;;23.0728781
+5e9025e6c6db4afdd9251eae;;Teremiújfalu;;Teremiújfalu, Románia;;46.4567922;;24.509588
+5e9025e6c6db4afdd9251eaf;;Kolozsvár felső város;;Kolozsvár, Románia;;46.7712101;;23.6236353
+5e9025e6c6db4afdd9251eb0;;Nagyilonda;;Nagyilonda, Románia;;47.3271142;;23.6157131
+5e9025e6c6db4afdd9251eb3;;Nagypaládi;;Nagypalád, Kárpátalja, Ukrajna, 90370;;48.0013824;;22.8804573
+5e9025e6c6db4afdd9251eb4;;Zernesti;;Zernest, Románia;;45.5606505;;25.322019
+5e9025e6c6db4afdd9251eb5;;Nagykároly;;Nagykároly 445100, Románia;;47.6814513;;22.462143
+5e9025e6c6db4afdd9251eb6;;Szatmár;;Szatmárnémeti, Románia;;47.8016702;;22.8575926
+5e9025e6c6db4afdd9251eb7;;Kiskolcs;;Kiskolcs 447121, Románia;;47.7615311;;23.0357625
+5e9025e6c6db4afdd9251eb9;;Kolozsvár alsóváros;;Strada Crinului 3/24, Cluj-Napoca 400000, Románia;;46.777971;;23.608746
+5e9025e6c6db4afdd9251ebb;;Kolozsborsa;;Kolozsborsa 407110, Románia;;46.9305287;;23.6624335
+5e9025e6c6db4afdd9251ebc;;Kissármás;;Kissármás, Románia;;46.7615108;;24.1798091
+5e9025e6c6db4afdd9251ebe;;Magyarbükkös;;Magyarbükkös, Románia;;46.3522926;;24.0891953
+5e9025e6c6db4afdd9251ebf;;Piski;;Piski 335900, Románia;;45.8555725;;23.0120864
+5e9025e6c6db4afdd9251ec0;;Kakasd;;Kakasd, 7122 Magyarország;;46.3487322;;18.590752
+5e9025e6c6db4afdd9251ec3;;Oroszfája;;Oroszfája, Románia;;46.8505748;;24.4255557
+5e9025e6c6db4afdd9251ec4;;Biborcfalva;;Bibarcfalva 525101, Románia;;46.0933223;;25.6524703
+5e9025e6c6db4afdd9251ec5;;Magyarigen-Sárd;;Magyarigen 517360, Románia;;46.1438947;;23.5121564
+5e9025e6c6db4afdd9251ec7;;Meggyesfalva;;Meggyesfalva, Marosvásárhely, Románia;;46.524744;;24.5168257
+5e9025e6c6db4afdd9251ec8;;Pitesti;;Pitești, Románia;;44.8564798;;24.8691824
+5e9025e6c6db4afdd9251eca;;Nagyölyves;;Nagyölyves 547498, Románia;;46.73039139999999;;24.3324442
+5e9025e6c6db4afdd9251ecd;;Kispereg;;Kispereg, Románia;;46.249427;;20.9477925
+5e9025e6c6db4afdd9251ece;;Magyarberéte;;Magyarberéte, Románia;;47.1237857;;24.2456621
+5e9025e6c6db4afdd9251ecf;;Várkudu;;Varkudu 425101, Románia;;47.18607249999999;;24.1435506
+5e9025e6c6db4afdd9251ed0;;Turkeve;;Túrkeve, 5420 Magyarország;;47.10434050000001;;20.7417284
+5e9025e6c6db4afdd9251ed1;;Krasznahorvát;;Krasznahorvát 457185, Románia;;47.1275848;;22.8996605
+5e9025e6c6db4afdd9251ed2;;Bardócz;;Bardóc, Románia;;46.1861773;;25.6428551
+5e9025e6c6db4afdd9251ed3;;Gyulafehérvár;;Gyulafehérvár, Románia;;46.07327249999999;;23.5804886
+5e9025e6c6db4afdd9251ed4;;Galambod;;Galambod 547146, Románia;;46.6362269;;24.5456875
+5e9025e6c6db4afdd9251ed9;;Nagyborosnyó;;Nagyborosnyó 527040, Románia;;45.8200177;;26.0042901
+5e9025e6c6db4afdd9251eda;;Kolozsvár hídelve;;Biserica Reformată Horea, 400000,, Strada Câmpeni, Cluj-Napoca 400000, Románia;;46.7804408;;23.5869881
+5e9025e6c6db4afdd9251ede;;Kraszna;;Kraszna 457085, Románia;;47.1599576;;22.8739341
+5e9025e6c6db4afdd9251edf;;Ózd;;Ózd, Magyarország;;48.2241439;;20.2888698
+5e9025e6c6db4afdd9251ee3;;Illyafalva;;Illyefalva 527105, Románia;;45.7953615;;25.7713587
+5e9025e6c6db4afdd9251ee6;;Érszőllős;;Érszőllős, Románia;;47.4013819;;22.4428252
+5e9025e6c6db4afdd9251ee9;;Fűzesgyarmat;;Füzesgyarmat, 5525 Magyarország;;47.1051107;;21.2108329
+5e9025e6c6db4afdd9251eeb;;Nyirparasznya;;Nyírparasznya, 4822 Magyarország;;48.0243439;;22.2699385
+5e9025e6c6db4afdd9251eec;;Magyargoroszló;;Magyargoroszló 457169, Románia;;47.2777875;;22.9798304
+5e9025e6c6db4afdd9251eed;;Szilágynagyfalu;;Szilágynagyfalu 457260, Románia;;47.199336;;22.7104811
+5e9025e6c6db4afdd9251ef0;;Magyarbece;;Magyarbece, Románia;;46.2523073;;23.8137383
+5e9025e6c6db4afdd9251ef1;;Zalatna;;Zalatna, Románia;;46.10751279999999;;23.2311962
+5e9025e6c6db4afdd9251ef2;;Gyergyószárhegy;;Gyergyószárhegy 537135, Románia;;46.7441185;;25.5317885
+5e9025e6c6db4afdd9251ef3;;Bethlenszentmiklós;;Betlenszentmiklós 517761, Románia;;46.2475096;;24.0525472
+5e9025e6c6db4afdd9251ef4;;Nyárádszentbenedek;;Nyárádszentbenedek 547009, Románia;;46.48094690000001;;24.6553967
+5e9025e6c6db4afdd9251ef6;;Kiskend;;Nagykend 547102, Románia;;46.3867134;;24.7293981
+5e9025e6c6db4afdd9251ef7;;Kelementelke;;Kelementelke 547237, Románia;;46.4144213;;24.7309912
+5e9025e6c6db4afdd9251ef8;;Abod;;Abod, 3753 Magyarország;;48.3928646;;20.7923344
+5e9025e6c6db4afdd9251efa;;Felsőábrány;;Bükkábrány, 3422 Magyarország;;47.8884157;;20.6810544
+5e9025e6c6db4afdd9251efb;;Poroszló;;Poroszló, 3388 Magyarország;;47.647173;;20.650024
+5e9025e6c6db4afdd9251efc;;Hejőbába;;Hejőbába, 3593 Magyarország;;47.9059201;;20.9452436
+5e9025e6c6db4afdd9251efd;;Mezőház;;Bekecs, Béke utca 72, 3903 Magyarország;;48.14633;;21.1805648
+5e9025e6c6db4afdd9251f00;;Felsőcsernáton;;Csernáton 527070, Románia;;45.95709309999999;;26.0311933
+5e9025e6c6db4afdd9251f01;;Lózsád;;Lozsád 337318, Románia;;45.803168;;23.0762352
+5e9025e6c6db4afdd9251f02;;Petrilla;;Petrilla, Románia;;45.4437689;;23.4093784
+5e9025e6c6db4afdd9251f03;;Szentmáté;;Szentmáté, Románia;;46.9826779;;24.2651073
+5e9025e6c6db4afdd9251f0c;;Bodola;;Bodola 507030, Románia;;45.6732381;;25.8054686
+5e9025e6c6db4afdd9251f0e;;Kökös;;Kökös 527075, Románia;;45.7707805;;25.7997157
+5e9025e6c6db4afdd9251f0f;;Marosszentgyörgy;;Marosszentgyörgy 547530, Románia;;46.5792435;;24.608682
+5e9025e6c6db4afdd9251f10;;Egerbegy;;Egerbegy 407146, Románia;;46.7698398;;23.2788231
+5e9025e6c6db4afdd9251f12;;Aranyosgyéres;;Aranyosgyéres 405100, Románia;;46.5586485;;23.8706676
+5e9025e6c6db4afdd9251f13;;Franciaország;;Franciaország;;46.227638;;2.213749
+5e9025e6c6db4afdd9251f14;;Schweiz;;Svájc;;46.818188;;8.227511999999999
+5e9025e6c6db4afdd9251f15;;Pusztakamarás;;Pusztakamarás, Románia;;46.7975652;;24.1074741
+5e9025e6c6db4afdd9251f18;;Magyarzsombor;;Magyarzsombor, Románia;;47.0012388;;23.2587843
+5e9025e6c6db4afdd9251f19;;Brezoiu;;Brezoi 245500, Románia;;45.3370891;;24.2473143
+5e9025e6c6db4afdd9251f1a;;Aberden;;Aberdeen, Egyesült Királyság;;57.149717;;-2.094278
+5e9025e6c6db4afdd9251f1b;;Galacz;;Galac, Románia;;45.4353208;;28.0079945
+5e9025e6c6db4afdd9251f1c;;Bucuresti Belu;;Șoseaua Giurgiului 29, București 052034, Románia;;44.3998065;;26.0971198
+5e9025e6c6db4afdd9251f1d;;Bucuresti;;Bukarest, Románia;;44.4267674;;26.1025384
+5e9025e6c6db4afdd9251f1e;;Nagysolymos;;Nagysolymos 537256, Románia;;46.3471275;;24.9255688
+5e9025e6c6db4afdd9251f1f;;Basel Egyetem;;Petersplatz 1, 4001 Basel, Svájc;;47.56025349999999;;7.5826
+5e9025e6c6db4afdd9251f20;;Jénai Egyetem;;Fürstengraben 1, 07743 Jena, Németország;;50.9294302;;11.5896707
+5e9025e6c6db4afdd9251f21;;Körtvélyfája;;Körtvélyfája 547287, Románia;;46.6906827;;24.6649419
+5e9025e6c6db4afdd9251f26;;Lajosmizse;;Lajosmizse, 6050 Magyarország;;47.0248225;;19.5559232
+5e9025e6c6db4afdd9251f27;;Székelyudvarhely-Kecset;;Kecset 537171, Románia;;46.3863664;;25.1951403
+5e9025e6c6db4afdd9251f28;;Szörcse;;Sorcse 527192, Románia;;45.8811247;;26.0791653
+5e9025e6c6db4afdd9251f2a;;Néma;;Néma, Románia;;47.085231;;23.8887581
+5e9025e6c6db4afdd9251f2f;;aninósza;;Aninósza, Románia;;45.378611;;22.3100001
+5e9025e6c6db4afdd9251f31;;Pestszentlőrincz;;Budapest, XVIII. kerület, Magyarország;;47.4281229;;19.2098429
+5e9025e6c6db4afdd9251f32;;Budapest Kőbánya;;Budapest, X. kerület, Magyarország;;47.4820909;;19.1575028
+5e9025e6c6db4afdd9251f33;;Budapest Zugló;;Budapest, XIV. kerület, Magyarország;;47.52245689999999;;19.114709
+5e9025e6c6db4afdd9251f34;;Páprád;;Páprád, 7838 Magyarország;;45.8927275;;18.0103745
+5e9025e6c6db4afdd9251f35;;Kémes;;Kémes, 7843 Magyarország;;45.8241919;;18.1031607
+5e9025e6c6db4afdd9251f36;;Szigetmonostor;;Szigetmonostor, 2015 Magyarország;;47.687804;;19.1035803
+5e9025e6c6db4afdd9251f37;;Amsterdam;;Amszterdam, Hollandia;;52.3666969;;4.8945398
+5e9025e6c6db4afdd9251f38;;Magyarborzás;;Magyarborzás 427047, Románia;;47.0326949;;24.1886632
+5e9025e6c6db4afdd9251f39;;Mezőköbölkút;;Mezőköbölkút, Románia;;46.8321371;;24.3365749
+5e9025e6c6db4afdd9251f3a;;Krasznahorvát-Petenye;;Krasznahorvát 457185, Románia;;47.1275848;;22.8996605
+5e9025e6c6db4afdd9251f3b;;Hagymáslápos;;Hagymáslápos, Románia;;47.6160566;;23.4727827
+5e9025e6c6db4afdd9251f3c;;Brád;;Brád 335200, Románia;;46.1335267;;22.7884234
+5e9025e6c6db4afdd9251f3d;;Kampen;;Kampen, Hollandia;;52.5579645;;5.914461699999999
+5e9025e6c6db4afdd9251f3e;;Szilágyperecsen;;Szilágyperecsen 457265, Románia;;47.2279331;;22.8684111
+5e9025e6c6db4afdd9251f3f;;Magyarkirályfalva;;Magyarkirályfalva, Románia;;46.2975493;;24.1918792
+5e9025e6c6db4afdd9251f40;;Bikafalva;;Bikafalva 537104, Románia;;46.268319;;25.2597789
+5e9025e6c6db4afdd9251f41;;Alsóboldogfalva;;Alsóboldogfalva 537291, Románia;;46.2739142;;24.9963857
+5e9025e6c6db4afdd9251f42;;Fiadfalva;;Fiatfalva 535401, Románia;;46.26932069999999;;25.0161008
+5e9025e6c6db4afdd9251f43;;Halle;;Halle an der Saale, Németország;;51.4969802;;11.9688029
+5e9025e6c6db4afdd9251f45;;Szamosúvár;;Szamosújvár 405300, Románia;;47.0317645;;23.909253
+5e9025e6c6db4afdd9251f46;;Abrudbánya;;Abrudbanya 515100, Románia;;46.2726882;;23.0657906
+5e9025e6c6db4afdd9251f49;;Rákosd;;Rákozsd 331005, Románia;;45.7661823;;22.8735643
+5e9025e6c6db4afdd9251f4a;;Szeghalom;;Szeghalom, 5520 Magyarország;;47.0239347;;21.1666571
+5e9025e6c6db4afdd9251f4b;;Köröstarcsa;;Köröstarcsa, 5622 Magyarország;;46.8780314;;21.02402
+5e9025e6c6db4afdd9251f4c;;Nagybánya;;Nagybánya, Románia;;47.6567387;;23.5849881
+5e9025e6c6db4afdd9251f4d;;Páké;;Páké 527051, Románia;;45.8280215;;26.1169955
+5e9025e6c6db4afdd9251f4e;;Alsóilosva;;Alsóilosva, Románia;;47.2197458;;24.0911556
+5e9025e6c6db4afdd9251f4f;;Erdőfüle;;Erdőfüle 527057, Románia;;46.1421904;;25.6187743
+5e9025e6c6db4afdd9251f50;;Papolc;;Papolc 527186, Románia;;45.78864600000001;;26.1429446
+5e9025e6c6db4afdd9251f51;;Torja;;Torja, Románia;;46.0512486;;26.0422426
+5e9025e6c6db4afdd9251f53;;Karatna;;Koritna, Semeljci, Horvátország;;45.3871563;;18.5607147
+5e9025e6c6db4afdd9251f54;;Kackó;;Kackó 407180, Románia;;47.2157407;;23.7881377
+5e9025e6c6db4afdd9251f55;;Csomakörös;;Csomakőrös 525201, Románia;;45.8220859;;26.1515609
+5e9025e6c6db4afdd9251f56;;Szinye;;082 32 Szinye, Szlovákia;;49.01016329999999;;21.1254325
+5e9025e6c6db4afdd9251f5d;;Szászsbes;;Szászsebes, Románia;;45.9595588;;23.5663758
+5e9025e6c6db4afdd9251f5e;;Nyárádszentimre;;Nyárádszentimre 547391, Románia;;46.5351813;;24.869781
+5e9025e6c6db4afdd9251f5f;;Domos-Jákótelke;;Jákótelke, Románia;;46.8186069;;23.038397
+5e9025e6c6db4afdd9251f60;;Magyarfenes;;Magyarfenes 407513, Románia;;46.6969002;;23.4543394
+5e9025e6c6db4afdd9251f62;;Telekfalva;;Telekfalva 537106, Románia;;46.24478879999999;;25.3189299
+5e9025e6c6db4afdd9251f64;;Oláhújfalu;;Oláhújfalu 557017, Románia;;45.8030947;;24.5771164
+5e9025e6c6db4afdd9251f66;;Réty;;Réty, Románia;;45.8337983;;25.9633486
+5e9025e6c6db4afdd9251f6a;;Bögöz;;Bögöz 537205, Románia;;46.25703499999999;;25.2210098
+5e9025e6c6db4afdd9251f6b;;Magyarnemegye;;Magyarnemegye, Románia;;47.2512334;;24.2972946
+5e9025e6c6db4afdd9251f6e;;Kusaly;;Kusaj, Románia;;47.3155328;;22.9901819
+5e9025e6c6db4afdd9251f6f;;Sülelmed-Szamoscikó;;Szamoscikó 437362, Románia;;47.4438457;;23.3061805
+5e9025e6c6db4afdd9251f74;;Bardocz;;Bardóc, Románia;;46.1861773;;25.6428551
+5e9025e6c6db4afdd9251f77;;Gyala;;Gyála, Szerbia;;46.1397947;;20.1625082
+5e9025e6c6db4afdd9251f78;;Nagyernye;;Nagyernye 547215, Románia;;46.6073568;;24.6425059
+5e9025e6c6db4afdd9251f79;;Busteni, Prahova;;Bușteni, Románia;;45.4101378;;25.5346529
+5e9025e6c6db4afdd9251f7a;;Borgóprund;;Borgóprund 427230, Románia;;47.2228631;;24.7244191
+5e9025e6c6db4afdd9251f7c;;Dipse;;Dipse 427087, Románia;;46.966173;;24.4352549
+5e9025e6c6db4afdd9251f7d;;Berlád;;Berlád, Románia;;47.0129497;;24.5572053
+5e9025e6c6db4afdd9251f84;;Békés-Gyula;;Gyula, Magyarország;;46.6473027;;21.2784255
+5e9025e6c6db4afdd9251f85;;Ágya;;Ágya 317301, Románia;;46.5551089;;21.577703
+5e9025e6c6db4afdd9251f86;;Feketetó;;Körösfeketetó 407440, Románia;;46.9542924;;22.7612251
+5e9025e6c6db4afdd9251f88;;Piskitelep;;Piski 335900, Románia;;45.8555725;;23.0120864
+5e9025e7c6db4afdd9251f8b;;Gyoma;;Gyomaendrőd, Magyarország;;46.93177970000001;;20.8113125
+5e9025e7c6db4afdd9251f8c;;Szilágybagos;;Szilágybagos 457262, Románia;;47.1546688;;22.7338407
+5e9025e7c6db4afdd9251f8e;;Fráta;;Magyarfráta, Románia;;46.7;;24.05
+5e9025e7c6db4afdd9251f8f;;Szilágysámson;;Szilágysámson, Románia;;47.3443632;;22.9513279
+5e9025e7c6db4afdd9251f91;;Havad;;Havad, Románia;;46.47843290000001;;24.8301881
+5e9025e7c6db4afdd9251f94;;Büssü;;Büssü, 7273 Magyarország;;46.4577379;;17.962195
+5e9025e7c6db4afdd9251f99;;Seprőd;;Seprőd 547389, Románia;;46.5471526;;24.8567863
+5e9025e7c6db4afdd9251f9a;;Puj-Borbátvíz;;Borbátvíz, Románia;;45.486086;;23.0909306
+5e9025e7c6db4afdd9251f9b;;Pókakeresztur;;Pókakeresztúr 547278, Románia;;46.6624238;;24.5557417
+5e9025e7c6db4afdd9251f9c;;Pánczélcseh;;Páncélcseh, Románia;;47.04163699999999;;23.5592266
+5e9025e7c6db4afdd9251fa2;;Baczkamadaras;;DN13A, Odorheiu Secuiesc 535600, Románia;;46.302938;;25.2952417
+5e9025e7c6db4afdd9251fa3;;Dunaföldvár;;Dunaföldvár, 7020 Magyarország;;46.806202;;18.9167877
+5e9025e7c6db4afdd9251fa5;;Rádfalva;;Rádfalva, 7817 Magyarország;;45.8598624;;18.1252323
+5e9025e7c6db4afdd9251fa7;;Szava;;Szava, 7813 Magyarország;;45.9024581;;18.1738569
+5e9025e7c6db4afdd9251faa;;Szőkefalva;;Szőkefalva, Románia;;46.3296916;;24.3285328
+5e9025e7c6db4afdd9251fab;;Maros sárpatak;;Sárpatak 547029, Románia;;46.1710171;;24.8557725
+5e9025e7c6db4afdd9251fad;;Mihályfalva;;Mihályfalva, Románia;;46.0110219;;24.1935706
+5e9025e7c6db4afdd9251fb0;;Nagygalambfalva;;Nagygalambfalva 537214, Románia;;46.2750102;;25.1335936
+5e9025e7c6db4afdd9251fb1;;Perecsen;;Perecse, 3821 Magyarország;;48.5027869;;20.9845634
+5e9025e7c6db4afdd9251fb4;;Egrespatak;;Egrespatak 457246, Románia;;47.1621162;;23.0097819
+5e9025e7c6db4afdd9251fb5;;Lele;;Lele 447157, Románia;;47.3753541;;23.0669923
+5e9025e7c6db4afdd9251fb8;;Egrestő;;Egrestő 547101, Románia;;46.3915838;;24.6859964
+5e9025e7c6db4afdd9251fb9;;Franciaország, Strassburg;;Strasbourg, Franciaország;;48.5734053;;7.752111299999999
+5e9025e7c6db4afdd9251fbc;;Lőrincréve;;Lőrincréve 517586, Románia;;46.2536773;;23.7240608
+5e9025e7c6db4afdd9251fbd;;Petrilla-Lónyaytelep;;Lónya Telep, Petrilla, Románia;;45.4465669;;23.4194108
+5e9025e7c6db4afdd9251fbe;;Gerendkeresztúr;;Gerendkeresztúr, Románia;;46.4987713;;23.9971011
+5e9025e7c6db4afdd9251fc1;;Paks;;Paks, Magyarország;;46.6060722;;18.8546832
+5e9025e7c6db4afdd9251fc2;;Désháza;;Désháza, Románia;;47.35464460000001;;23.1764602
+5e9025e7c6db4afdd9251fc3;;Buza;;Buza 407115, Románia;;46.9092506;;24.1477964
+5e9025e7c6db4afdd9251fc5;;Alsóvalkó;;Alsóvalkó 457345, Románia;;47.1214632;;22.7392924
+5e9025e7c6db4afdd9251fc7;;Kolozsvár - hidelve;;Biserica Reformată Horea, 400000,, Strada Câmpeni, Cluj-Napoca 400000, Románia;;46.7804408;;23.5869881
+5e9025e7c6db4afdd9251fc9;;Szekszárd;;Szekszárd, 7100 Magyarország;;46.3474326;;18.7062293
+5e9025e7c6db4afdd9251fcd;;Alvincz;;Alvinc, Románia;;45.9920306;;23.4864679
+5e9025e7c6db4afdd9251fce;;Montpellier;;Montpellier, Franciaország;;43.610769;;3.876716
+5e9025e7c6db4afdd9251fd1;;Körösbánya;;Körösbánya 337005, Románia;;46.1732769;;22.7127167
+5e9025e7c6db4afdd9251fd2;;Segesvár;;Segesvár, Románia;;46.2197025;;24.7963878
+5e9025e7c6db4afdd9251fd3;;Resicabánya;;Resicabánya, Románia;;45.3049703;;21.8821033
+5e9025e7c6db4afdd9251fd4;;Szalárd;;Szalárd 417450, Románia;;47.2204482;;22.0326279
+5e9025e7c6db4afdd9251fd5;;Árpáston;;Árpástó, Románia;;47.1548057;;24.0752152
+5e9025e7c6db4afdd9251fd7;;Székelyszáldobos;;Székelyszáldobos 527056, Románia;;46.1272421;;25.5933492
+5e9025e7c6db4afdd9251fd9;;Sajóudvarhely;;Sajóudvarhely, Románia;;47.1511606;;24.2905908
+5e9025e7c6db4afdd9251fdb;;Sepsibodok;;Sepsibodok 527035, Románia;;45.9533973;;25.8579893
+5e9025e7c6db4afdd9251fe0;;Nagyercse;;Nagyercse 547096, Románia;;46.7320378;;24.509143
+5e9025e7c6db4afdd9251fe4;;Hodgya;;Hodgya 537101, Románia;;46.2855545;;25.2489237
+5e9025e7c6db4afdd9251fe6;;Ajtony;;Ajton, Románia;;46.6734871;;23.7431611
+5e9025e7c6db4afdd9251fe7;;Sződemeter;;Sződemeter 447280, Románia;;47.467341;;22.4916729
+5e9025e7c6db4afdd9251fe8;;Nagyszalonta;;Nagyszalonta, Románia;;46.8052877;;21.6489828
+5e9025e7c6db4afdd9251fe9;;Marosoroszfalu;;Marosoroszfalu 547505, Románia;;46.9161866;;24.8369544
+5e9025e7c6db4afdd9251fea;;Csüdőtelke;;Csüdőtelke, Dicsőszentmárton, Románia;;46.3391073;;24.3093541
+5e9025e7c6db4afdd9251feb;;Váralmás;;Váralmás, Románia;;46.9454645;;23.1300925
+5e9025e7c6db4afdd9251fec;;Magyarbikal;;Magyarbikal, Románia;;45.881111;;23.0525
+5e9025e7c6db4afdd9251fed;;Kisujszállás;;Kisújszállás, 5310 Magyarország;;47.215504;;20.7571333
+5e9025e7c6db4afdd9251fee;;Dévaványa;;Dévaványa, 5510 Magyarország;;47.0313217;;20.9595443
+5e9025e7c6db4afdd9251fef;;Nyíregyháza;;Nyíregyháza, Magyarország;;47.9495324;;21.7244053
+5e9025e7c6db4afdd9251ff0;;Ördögkút;;Ördögkút, Románia;;47.1061352;;23.1040886
+5e9025e7c6db4afdd9251ff3;;Abafája;;Abafája, Románia;;46.7521;;24.6945
+5e9025e7c6db4afdd9251ff4;;Marosfelfalu;;Marosfelfalu 547585, Románia;;46.8143986;;24.730624
+5e9025e7c6db4afdd9251ff5;;Maroscsapó;;Maroscsapó 545101, Románia;;46.4456511;;24.2828705
+5e9025e7c6db4afdd9251ff7;;Mezősámsond;;Mezősámsond 547595, Románia;;46.655366;;24.392263
+5e9025e7c6db4afdd9251ff9;;Hosszúmező;;Hosszúmező, Románia;;47.98417329999999;;23.7658465
+5e9025e7c6db4afdd9251ffb;;Felsőtök;;Felsőtők, Románia;;47.0775119;;23.6483527
+5e9025e7c6db4afdd9251ffc;;Berekeresztúr;;Berekeresztúr 547386, Románia;;46.5718864;;24.8717058
+5e9025e7c6db4afdd9251ffd;;Olasztelek;;Olasztelek 527058, Románia;;46.1029832;;25.5882218
+5e9025e7c6db4afdd9251ffe;;Bethel bei Bielefeld;;Bethel, Bielefeld, Németország;;52.006663;;8.5205656
+5e9025e7c6db4afdd9251fff;;Nagyajta;;Nagyajta 527005, Románia;;45.96705720000001;;25.5635224
+5e9025e7c6db4afdd9252000;;Nagyrez;;Récefalva, Románia;;46.905162;;25.731974
+5e9025e7c6db4afdd9252001;;Ludvég;;Szászludvég 547378, Románia;;46.8793307;;24.5735492
+5e9025e7c6db4afdd9252003;;Vingárd;;Vingárd 517771, Románia;;46.0127951;;23.7428318
+5e9025e7c6db4afdd9252004;;Sepsi-Árkos;;Árkos 527166, Románia;;45.9006159;;25.7766981
+5e9025e7c6db4afdd9252005;;Marosnagylak;;Marosnagylak 517515, Románia;;46.40658819999999;;23.9308219
+5e9025e7c6db4afdd9252006;;Mezőcsán;;Mezőcsán, Románia;;46.6632087;;23.9576122
+5e9025e7c6db4afdd925200a;;Edinburgh United Free Church Theol.;;N Bank St, Edinburgh EH1 2LS, Egyesült Királyság;;55.9497833;;-3.1942977
+5e9025e7c6db4afdd925200b;;Strassbourg;;Strasbourg, Franciaország;;48.5734053;;7.752111299999999
+5e9025e7c6db4afdd925200d;;Székelykocsárd;;Székelykocsárd 517405, Románia;;46.4273502;;23.9059627
+5e9025e7c6db4afdd925200e;;Sárospatak;;Sárospatak, 3950 Magyarország;;48.3196929;;21.5687308
+5e9025e7c6db4afdd925200f;;Fehérvíz;;Fehérvíz 337428, Románia;;45.5191509;;23.0055402
+5e9025e7c6db4afdd9252011;;Homonna;;066 01 Homonna, Szlovákia;;48.932454;;21.9078917
+5e9025e7c6db4afdd9252012;;Fotos- Martonos;;Fotosmartonos 527097, Románia;;45.8989489;;25.8676237
+5e9025e7c6db4afdd9252013;;Szamosardó;;Szamosardó 437356, Románia;;47.4485261;;23.2692676
+5e9025e7c6db4afdd9252016;;Marburgi Egyetem - mint tanár;;Biegenstraße 10, 35037 Marburg, Németország;;50.8106859;;8.7741641
+5e9025e7c6db4afdd925201b;;Busteni;;Bușteni, Románia;;45.4101378;;25.5346529
+5e9025e7c6db4afdd925201e;;Kórogy;;Kórógy, Horvátország;;45.4065113;;18.7446355
+5e9025e7c6db4afdd925201f;;Szalkszentmárton;;Szalkszentmárton, 6086 Magyarország;;46.9754928;;19.0171018
+5e9025e7c6db4afdd9252028;;Berlini T.E.;;Forckenbeckstraße 9-13, 14199 Berlin, Németország;;52.4802496;;13.3042893
+5e9025e7c6db4afdd925202c;;Nagyborosnyó.;;Nagyborosnyó 527040, Románia;;45.8200177;;26.0042901
+5e9025e7c6db4afdd925202f;;Sába;;Győr, Mérföldkő út 11, 9012 Magyarország;;47.6427163;;17.6115882
+5e9025e7c6db4afdd9252032;;Kézdivásáhely;;Kézdivásárhely 525400, Románia;;46.0006001;;26.1345785
+5e9025e7c6db4afdd9252036;;Székelyudvarhelyi ref. Koll.;;Piața Márton Áron, Odorheiu Secuiesc 535600, Románia;;46.30303319999999;;25.2957822
+5e9025e7c6db4afdd9252038;;Körösfő;;Körösfő 407340, Románia;;46.8382604;;23.1051171
+5e9025e7c6db4afdd925203c;;Nagybacon;;Nagybacon 527020, Románia;;46.0900927;;25.6977467
+5e9025e7c6db4afdd925203e;;Enyedi Bethlen Koll.;;Strada Bethlen Gábor 1, Aiud 515200, Románia;;46.3105224;;23.7170293
+5e9025e7c6db4afdd925203f;;Középlak;;Középlak, Románia;;46.9665097;;23.187501
+5e9025e7c6db4afdd9252041;;Ref. Segédlelkész Berettyóújfaluba;;Berettyóújfalu, Kálvin tér, 4100 Magyarország;;47.2275709;;21.5406981
+5e9025e7c6db4afdd9252042;;Székelyvaja;;Székelyvaja 547014, Románia;;46.4469083;;24.6450848
+5e9025e7c6db4afdd9252043;;Glasgow;;Glasgow, Egyesült Királyság;;55.864237;;-4.251806
+5e9025e7c6db4afdd925204b;;Szihalom;;Szihalom, 3377 Magyarország;;47.773252;;20.4845704
+5e9025e7c6db4afdd925204d;;Marosillye;;Marosillye 337270, Románia;;45.9374985;;22.6584494
+5e9025e7c6db4afdd9252050;;Hidvég;;Hidvég 527100, Románia;;45.8391349;;25.5892157
+5e9025e7c6db4afdd9252051;;Tordatúr;;Tordatúr 407560, Románia;;46.6231;;23.7034
+5e9025e7c6db4afdd925205a;;Berlini Friedricsh Willhelm egyetem;;Unter den Linden 6, 10117 Berlin, Németország;;52.517883;;13.3936551
+5e9025e7c6db4afdd925205c;;Brad;;Brád 335200, Románia;;46.1335267;;22.7884234
+5e9025e7c6db4afdd925205d;;Csikfalva;;Csíkfalva 547625, Románia;;46.5779759;;24.8009879
+5e9025e7c6db4afdd925205e;;Hajdóbőszörmény;;Hajdúböszörmény, Magyarország;;47.6718908;;21.5126637
+5e9025e7c6db4afdd925205f;;Biharpüspöki;;Strada Vămii, Oradea, Románia;;47.0997507;;21.8769605
+5e9025e7c6db4afdd9252060;;Asszonynépe;;Asszonynépe, Románia;;46.2966738;;23.888261
+5e9025e7c6db4afdd9252061;;Székelykakasd;;Székelykakasd 547186, Románia;;46.5009447;;24.5399646
+5e9025e7c6db4afdd9252064;;Ó-Torda;;Torda, Románia;;46.564676;;23.7971063
+5e9025e7c6db4afdd9252065;;Marosugra;;Marosugra 547440, Románia;;46.4463465;;24.3221771
+5e9025e7c6db4afdd9252066;;Ikland;;Ikland 547218, Románia;;46.6123792;;24.6932449
+5e9025e7c6db4afdd9252068;;Ákos;;Ákos 447005, Románia;;47.5353027;;22.7799161
+5e9025e7c6db4afdd925206a;;Diósd;;Diósd, 2049 Magyarország;;47.4082916;;18.9434797
+5e9025e7c6db4afdd925206c;;Bürgezd;;Bürgezd 457261, Románia;;47.2290104;;22.7098456
+5e9025e7c6db4afdd925206e;;Magyarcsahaly;;Magyarcsaholy 447096, Románia;;47.4244369;;22.5682782
+5e9025e7c6db4afdd9252070;;Héjasfalva;;Héjjasfalva, Románia;;46.2156884;;25.0439576
+5e9025e7c6db4afdd9252071;;Agyagfalva;;Agyagfalva 537212, Románia;;46.2449647;;25.1855586
+5e9025e7c6db4afdd9252072;;Ujszékely;;Újszékely 537290, Románia;;46.2608366;;24.9731894
+5e9025e7c6db4afdd9252074;;Noszoly;;Noszoly 407566, Románia;;46.9415436;;24.1097386
+5e9025e7c6db4afdd9252075;;Szilágypanit;;Szilágypanit 457171, Románia;;47.2083254;;22.9918767
+5e9025e7c6db4afdd9252076;;Bonchída;;Bonchida 407105, Románia;;46.9148948;;23.8155833
+5e9025e7c6db4afdd9252077;;Nagy Devecser;;Devecser, Nagy László u., 8460 Magyarország;;47.097419;;17.444533
+5e9025e7c6db4afdd9252078;;Kozárvár;;Kozárvár 407260, Románia;;47.1681166;;23.9163447
+5e9025e7c6db4afdd9252079;;Ungvár;;Ungvár, Kárpátalja, Ukrajna;;48.6208;;22.287883
+5e9025e7c6db4afdd925207c;;Újszentes;;Újszentes, Románia;;45.7974796;;21.2390768
+5e9025e7c6db4afdd925207d;;Nyáradkarácson;;Nyárádkarácson 547175, Románia;;46.4778318;;24.5656959
+5e9025e7c6db4afdd9252082;;Udvarhely;;Székelyudvarhely 535600, Románia;;46.3049996;;25.2926479
+5e9025e7c6db4afdd9252083;;Kis-Solymos;;Kissolymos 537257, Románia;;46.338384;;24.9604621
+5e9025e7c6db4afdd9252084;;Szederjes;;Szederjes 547638, Románia;;46.231118;;24.9914277
+5e9025e7c6db4afdd9252087;;Magyarlápos;;Magyarlápos 435600, Románia;;47.45323399999999;;23.8617888
+5e9025e7c6db4afdd9252089;;Bánffyhunyad-Magyarvalkó;;Magyarvalkó 407139, Románia;;46.7812726;;23.0339654
+5e9025e7c6db4afdd925208a;;Magyarléta;;Magyarléta 407509, Románia;;46.620365;;23.4516367
+5e9025e7c6db4afdd925208b;;Makkfalva;;Makfalva, Románia;;46.4729946;;24.9475272
+5e9025e7c6db4afdd925208e;;Orbaitelek;;Orbaitelek 527052, Románia;;45.8581878;;26.0456134
+5e9025e7c6db4afdd925208f;;Szotyor;;Szotyor 520002, Románia;;45.8122858;;25.795738
+5e9025e7c6db4afdd9252090;;Berettyóújfalu;;Berettyóújfalu, Magyarország;;47.2196438;;21.5362812
+5e9025e7c6db4afdd9252092;;Józsefháza;;Józsefháza, Románia;;47.8182712;;23.1546931
+5e9025e7c6db4afdd9252094;;Marosszenkirály;;Marosszentkirály 547525, Románia;;46.5532218;;24.5208852
+5e9025e7c6db4afdd9252095;;Bibarcfalva;;Bibarcfalva 525101, Románia;;46.0933223;;25.6524703
+5e9025e7c6db4afdd9252096;;Krasznacégény;;Krasznacégény 447109, Románia;;47.5867394;;22.7349215
+5e9025e7c6db4afdd9252098;;Somlyóujlak;;Somlyóújlak 457241, Románia;;47.2792734;;22.7461812
+5e9025e7c6db4afdd9252099;;Oczfalva;;Ocfalva 537102, Románia;;46.2592539;;25.2522222
+5e9025e7c6db4afdd925209a;;Szilágykövesd;;Szilágykövesd 457070, Románia;;47.3846465;;22.8825272
+5e9025e7c6db4afdd925209b;;Komlód-Oroszfája;;Oroszfája, Románia;;46.8505748;;24.4255557
+5e9025e8c6db4afdd925209d;;Várkuduban;;Varkudu 425101, Románia;;47.18607249999999;;24.1435506
+5e9025e8c6db4afdd925209f;;Tapjoszele;;Tápiószele, 2766 Magyarország;;47.3330651;;19.8734993
+5e9025e8c6db4afdd92520a0;;Strasburg;;Strasburg, Németország;;53.51029699999999;;13.7450956
+5e9025e8c6db4afdd92520a1;;Marosgombás;;Marosgombás 515203, Románia;;46.3452449;;23.7225044
+5e9025e8c6db4afdd92520a2;;Marosszentimre;;Marosszentimre, Románia;;46.1217628;;23.6656608
+5e9025e8c6db4afdd92520a3;;Zsobok;;Zsobok 457013, Románia;;46.8840604;;23.1045615
+5e9025e8c6db4afdd92520a4;;Sárpatak;;Sárpatak 547029, Románia;;46.1710171;;24.8557725
+5e9025e8c6db4afdd92520a5;;Felvincz;;Felvinc, Románia;;46.402835;;23.8213327
+5e9025e8c6db4afdd92520a6;;Szamosfalva;;Szamosfalva, Kolozsvár, Románia;;46.785425;;23.6756435
+5e9025e8c6db4afdd92520a9;;Szentmárton;;Szentmárton 317211, Románia;;46.4167551;;21.3465682
+5e9025e8c6db4afdd92520ab;;Esztár;;Esztár, 4124 Magyarország;;47.2837051;;21.7744117
+5e9025e8c6db4afdd92520ac;;Hencida;;Hencida, 4123 Magyarország;;47.2507004;;21.6989732
+5e9025e8c6db4afdd92520ad;;Nagyrábé;;Nagyrábé, 4173 Magyarország;;47.2043078;;21.3306582
+5e9025e8c6db4afdd92520ae;;Egerhát;;Égerhát, Románia;;47.5022794;;23.2237172
+5e9025e8c6db4afdd92520b0;;Légen;;Légen 407303, Románia;;46.8557772;;24.0449111
+5e9025e8c6db4afdd92520b1;;Ege;;Ége 537343, Románia;;46.2044054;;25.2847315
+5e9025e8c6db4afdd92520b6;;Backamadaras;;Backamadaras 547455, Románia;;46.4918128;;24.6943814
+5e9025e8c6db4afdd92520b9;;Szentgericze;;Szentgerice 547457, Románia;;46.47384659999999;;24.70583
+5e9025e8c6db4afdd92520ba;;Szenterzsébet;;Szenterszebet, Nagyszeben, Románia;;45.8077163;;24.1846028
+5e9025e8c6db4afdd92520bd;;Kisláng;;Kisláng, 8156 Magyarország;;46.9598173;;18.3860884
+5e9025e8c6db4afdd92520be;;Kálnok- Köröspatak;;Kálnok 527167, Románia;;45.9297551;;25.7927996
+5e9025e8c6db4afdd92520c0;;Koronka;;Koronka 547367, Románia;;46.5206203;;24.618893
+5e9025e8c6db4afdd92520c4;;Magyarfodorháza;;Magyarfodorháza 407051, Románia;;46.9782849;;23.5227437
+5e9025e8c6db4afdd92520c5;;Páncélcseh;;Páncélcseh, Románia;;47.04163699999999;;23.5592266
+5e9025e8c6db4afdd92520c7;;Aninosza;;Aninósza, Románia;;45.378611;;22.3100001
+5e9025e8c6db4afdd92520c8;;Krasznamihályfalva;;Krasznamihályfalva 447007, Románia;;47.5597341;;22.7310531
+5e9025e8c6db4afdd92520c9;;Kendilóna;;Kendilóna 407266, Románia;;46.9378102;;23.7493028
+5e9025e8c6db4afdd92520ca;;Csittszentiván;;Csittszentiván 547454, Románia;;46.5136858;;24.4558949
+5e9025e8c6db4afdd92520cd;;Bécs;;Bécs, Ausztria;;48.2081743;;16.3738189
+5e9025e8c6db4afdd92520cf;;Érmihályfalva;;Érmihályfalva 415700, Románia;;47.5226462;;22.1264628
+5e9025e8c6db4afdd92520d1;;Maroskeresztur;;Maroskeresztúr 547185, Románia;;46.5036569;;24.4915925
+5e9025e8c6db4afdd92520d5;;Erdőszentgyörgy;;Erdőszentgyörgy 547535, Románia;;46.4291872;;24.8386374
+5e9025e8c6db4afdd92520e6;;Balmazujváros;;Balmazújváros, 4060 Magyarország;;47.6145296;;21.3417333
+5e9025e8c6db4afdd92520e7;;Tiszanagyfalu;;Tiszanagyfalu, 4463 Magyarország;;48.0920604;;21.4730428
+5e9025e8c6db4afdd92520e8;;Tiszacsege;;Tiszacsege, 4066 Magyarország;;47.6997085;;20.9917041
+5e9025e8c6db4afdd92520f0;;Koltó-Katalin;;Koltókatalin, Románia;;47.603562;;23.5454654
+5e9025e8c6db4afdd92520f4;;Gogán;;Gógán, Románia;;46.3047939;;24.5154207
+5e9025e8c6db4afdd92520f6;;Bazeli egyetem;;Petersplatz 1, 4001 Basel, Svájc;;47.56025349999999;;7.5826
+5e9025e8c6db4afdd92520f8;;Edinburg (Skócia);;Edinburgh, Egyesült Királyság;;55.953252;;-3.188267
+5e9025e8c6db4afdd92520f9;;Székleyudvarhely;;Székelyudvarhely 535600, Románia;;46.3049996;;25.2926479
+5e9025e8c6db4afdd92520fd;;Nagyecsed;;Nagyecsed, 4355 Magyarország;;47.8650809;;22.3883812
+5e9025e8c6db4afdd92520fe;;Fábiánháza;;Fábiánháza, 4354 Magyarország;;47.8439484;;22.3567615
+5e9025e8c6db4afdd92520ff;;Gernyeszeg;;Gernyeszeg, Románia;;46.6822255;;24.7073972
+5e9025e8c6db4afdd9252100;;Bábony;;Bábony, Románia;;46.9466517;;23.061337
+5e9025e8c6db4afdd9252101;;Gyulakuta;;Gyulakuta 547235, Románia;;46.421745;;24.7657281
+5e9025e8c6db4afdd9252103;;Beresztelke;;Beresztelke, Románia;;46.7662233;;24.6378931
+5e9025e8c6db4afdd9252105;;Székelymagyarós;;Székelymagyaros 537206, Románia;;46.2637734;;25.1842071
+5e9025e8c6db4afdd9252106;;Kányád;;Kányád 537340, Románia;;46.2112783;;25.2420621
+5e9025e8c6db4afdd9252109;;Nyüved;;Nyüved 417052, Románia;;47.2323381;;21.8938728
+5e9025e8c6db4afdd925210a;;Nagyvárad Össi;;Strada Ștefan Octavian Iosif, Oradea, Románia;;47.0587218;;21.9146521
+5e9025e8c6db4afdd925210b;;Nagyvárad Újváros;;Strada Primăriei 36, Oradea, Románia;;47.0565588;;21.9233782
+5e9025e8c6db4afdd925210d;;Hídalmás;;Hídalmás 457175, Románia;;47.0633146;;23.3103709
+5e9025e8c6db4afdd925210e;;Maroscsúcs;;Maroscsúcs 517519, Románia;;46.4264781;;23.9987543
+5e9025e8c6db4afdd925210f;;Ördögkeresztur;;Ördögkeresztúr 407048, Románia;;46.9650139;;23.4596785
+5e9025e8c6db4afdd9252110;;Doboka;;Doboka, Románia;;46.9592479;;23.6837011
+5e9025e8c6db4afdd9252119;;Küküllőpócsfalva;;Küküllőpócsfalva, Románia;;46.34975439999999;;24.3467017
+5e9025e8c6db4afdd925211f;;Csepe;;Csepe, Kárpátalja, Ukrajna, 90361;;48.0711753;;23.0205587
+5e9025e8c6db4afdd9252122;;Lippa;;Lippa 315400, Románia;;46.0887169;;21.6950507
+5e9025e8c6db4afdd9252124;;Piskolt;;Piskolt 447250, Románia;;47.5830829;;22.2860267
+5e9025e8c6db4afdd9252127;;Menyő;;Menyő, Románia;;47.3464171;;23.0938827
+5e9025e8c6db4afdd9252129;;Bala;;Bala 547095, Románia;;46.7121253;;24.4979747
+5e9025e8c6db4afdd925212b;;Torockószentgyörgy;;Torockószentgyörgy 517611, Románia;;46.4223779;;23.5612016
+5e9025e8c6db4afdd925212e;;Magyarkapud;;Magyarkapud 515902, Románia;;46.2061825;;23.727166
+5e9025e8c6db4afdd925212f;;Buzásbocsárd;;Buzásbocsárd, Románia;;46.1912715;;23.8379835
+5e9025e8c6db4afdd9252131;;Hódmezővásárhely;;Hódmezővásárhely, Magyarország;;46.4181262;;20.3300315
+5e9025e8c6db4afdd9252132;;Fugyivásárhely;;Fugyivásárhely, Románia;;47.04114149999999;;22.0343164
+5e9025e8c6db4afdd9252134;;Szilágy Vérvölgy;;Vérvölgy, Románia;;47.3123741;;23.1084168
+5e9025e8c6db4afdd9252135;;Kánya;;Kánya, 8667 Magyarország;;46.70133670000001;;18.0652987
+5e9025e8c6db4afdd9252136;;Vajdaszentivány;;Vajdaszentivány, Románia;;46.7065552;;24.6011956
+5e9025e8c6db4afdd9252137;;Maroshévíz;;Maroshévíz 535700, Románia;;46.9260303;;25.3534041
+5e9025e8c6db4afdd9252138;;Kajdacs;;Kajdacs, 7051 Magyarország;;46.5627338;;18.6235951
+5e9025e8c6db4afdd9252139;;Nagydorog;;Nagydorog, 7044 Magyarország;;46.6223848;;18.6582474
+5e9025e8c6db4afdd925213a;;Fadd;;Fadd, 7133 Magyarország;;46.4647628;;18.821837
+5e9025e8c6db4afdd925213b;;Kölesd;;Kölesd, 7052 Magyarország;;46.5071238;;18.5862709
+5e9025e8c6db4afdd925213c;;Paris (Faculté libre de theologie protestante);;83 Boulevard Arago, 75014 Paris, Franciaország;;48.8342272;;2.3375085
+5e9025e8c6db4afdd925213d;;Bűrkös;;Bürkös 557035, Románia;;45.985761;;24.5368215
+5e9025e8c6db4afdd925213e;;Hajdúhadház;;Hajdúhadház, 4242 Magyarország;;47.6802292;;21.6675179
+5e9025e8c6db4afdd925213f;;Ombod;;Ombod 447232, Románia;;47.7713599;;22.9399483
+5e9025e8c6db4afdd9252140;;Kisvárda;;Kisvárda, 4600 Magyarország;;48.2181151;;22.0823557
+5e9025e8c6db4afdd9252143;;Ördögkut;;Ördögkút, Románia;;47.1061352;;23.1040886
+5e9025e8c6db4afdd9252144;;Érkávás;;Érkávás 447085, Románia;;47.5697904;;22.5394344
+5e9025e8c6db4afdd9252149;;Fekete;;Fekete 547067, Románia;;46.647588;;24.3133635
+5e9025e8c6db4afdd925214b;;Komárom- szentpéter;;946 57 Komáromszentpéter, Szlovákia;;47.8458438;;18.2629718
+5e9025e8c6db4afdd925214c;;Nagymegyer;;932 01 Nagymegyer, Szlovákia;;47.8563614;;17.7703875
+5e9025e8c6db4afdd925214e;;Madar;;946 33 Madar, Szlovákia;;47.8220704;;18.3535631
+5e9025e8c6db4afdd925214f;;Búcs;;946 35 Búcs, Szlovákia;;47.8082101;;18.4467973
+5e9025e8c6db4afdd9252151;;Tóthszentgyörgy;;Tótszentgyörgy, 7981 Magyarország;;46.0521798;;17.7178541
+5e9025e8c6db4afdd9252154;;Csucsa;;Csucsa, Románia;;46.9706543;;22.8356363
+5e9025e8c6db4afdd9252156;;Edinburgh - Skócia;;Edinburgh, Egyesült Királyság;;55.953252;;-3.188267
+5e9025e8c6db4afdd9252157;;Aberdeen - Skócia;;Aberdeen, Egyesült Királyság;;57.149717;;-2.094278
+5e9025e8c6db4afdd9252159;;Étfalvazoltán;;Étfalvazoltán 527098, Románia;;45.9225991;;25.8512951
+5e9025e8c6db4afdd925215a;;Székelyudvarhley;;Székelyudvarhely 535600, Románia;;46.3049996;;25.2926479
+5e9025e8c6db4afdd925215b;;Küsmőd;;Küsmöd 537007, Románia;;46.4770023;;25.0457564
+5e9025e8c6db4afdd925215c;;Kányád-Jásfalva;;Jásfalva 537342, Románia;;46.2093916;;25.2568322
+5e9025e8c6db4afdd925215d;;Ibrány;;Ibrány, 4484 Magyarország;;48.1267353;;21.7111382
+5e9025e8c6db4afdd9252167;;Nyárádselye;;Nyárádselye 547394, Románia;;46.5982089;;24.92133
+5e9025e8c6db4afdd9252169;;Olcsvaapáti;;Olcsvaapáti, 4914 Magyarország;;48.0881233;;22.3525726
+5e9025e8c6db4afdd925216c;;Berlini egyetem egy év;;Unter den Linden 6, 10117 Berlin, Németország;;52.517883;;13.3936551
+5e9025e8c6db4afdd925216e;;Várasfenes;;Várasfenes, Románia;;46.6468538;;22.3127194
+5e9025e8c6db4afdd925216f;;Kalotaszentkirály;;Kalotaszentkirály 407515, Románia;;46.8298606;;22.9883105
+5e9025e8c6db4afdd9252170;;Óvári;;Óvári 447357, Románia;;47.8081049;;22.7211281
+5e9025e8c6db4afdd9252171;;Biharnagybajom;;Biharnagybajom, 4172 Magyarország;;47.2108104;;21.2302309
+5e9025e8c6db4afdd9252172;;Balázstelke;;Balázstelke 557050, Románia;;46.2120153;;24.3237705
+5e9025e8c6db4afdd9252173;;Kisnyégerfalva;;Kisnyégerfalva, Románia;;46.6391886;;22.3732509
+5e9025e8c6db4afdd9252177;;Glasgow (Skócia);;217-221 St Vincent St, Glasgow G2 5QY, Egyesült Királyság;;55.862005;;-4.2632008
+5e9025e8c6db4afdd9252178;;Brassó-szeretetház;;Strada 13 Decembrie 56, Brașov 500199, Románia;;45.6569476;;25.6065215
+5e9025e9c6db4afdd925217a;;Uzon;;Uzon 527130, Románia;;45.7974926;;25.8516594
+5e9025e9c6db4afdd925217b;;Apanagyfalu;;Apanagyfalu, Románia;;47.1004265;;24.1943712
+5e9025e9c6db4afdd925217c;;Erdőszengyel;;Erdőszengyel 547221, Románia;;46.6406699;;24.6621033
+5e9025e9c6db4afdd925217e;;Küküllőalmás;;Küküllőalmás, Románia;;46.2125271;;24.4783054
+5e9025e9c6db4afdd925217f;;Sövényfalva;;Sövényfalva, Románia;;46.2924167;;24.2119132
+5e9025e9c6db4afdd9252180;;Nagymoha;;Nagymoha 507112, Románia;;46.0380869;;24.9718116
+5e9025e9c6db4afdd9252181;;Székelydobó;;Székelydobó 537211, Románia;;46.286883;;25.1808723
+5e9025e9c6db4afdd9252184;;Marburg - Németo.;;Marburg, Németország;;50.8021728;;8.7667933
+5e9025e9c6db4afdd9252185;;Utrecht - Hollandia;;Utrecht, Hollandia;;52.09073739999999;;5.1214201
+5e9025e9c6db4afdd925218a;;Buzásbesenyő;;Búzásbesenyő, Románia;;46.4354601;;24.3788068
+5e9025e9c6db4afdd925218b;;Kőrispatak;;Kőrispatak 537006, Románia;;46.4178123;;24.9703704
+5e9025e9c6db4afdd925218c;;Kalotadámos-jákótelke;;Jákótelke, Románia;;46.8186069;;23.038397
+5e9025e9c6db4afdd925218d;;Csejd;;Csejd 547531, Románia;;46.5748639;;24.6697371
+5e9025e9c6db4afdd925218e;;Tiszasalamon;;Tiszasalamon, Kárpátalja, Ukrajna, 89460;;48.4319471;;22.1621546
+5e9025e9c6db4afdd925218f;;Bacska;;076 84 Bacska, Szlovákia;;48.443715;;22.0512507
+5e9025e9c6db4afdd9252190;;Királyhelmec;;077 01 Királyhelmec, Szlovákia;;48.4249637;;21.9780619
+5e9025e9c6db4afdd9252191;;Tiszakarád;;Tiszakarád, 3971 Magyarország;;48.2061184;;21.7213149
+5e9025e9c6db4afdd9252192;;Szerencs;;Szerencs, 3900 Magyarország;;48.1590429;;21.2048872
+5e9025e9c6db4afdd9252193;;Bodrogszentes;;076 83 Bodrogszentes, Szlovákia;;48.4291753;;21.9194207
+5e9025e9c6db4afdd925219f;;Palotailva;;Palotailva 547380, Románia;;46.9589754;;25.1086962
+5e9025e9c6db4afdd92521a2;;Inaktelke;;Inaktelke, Románia;;46.8465601;;23.2457186
+5e9025e9c6db4afdd92521a3;;Ócfalva;;Ocfalva 537102, Románia;;46.2592539;;25.2522222
+5e9025e9c6db4afdd92521a5;;Bazel;;Bázel, Svájc;;47.5595986;;7.5885761
+5e9025e9c6db4afdd92521aa;;Ikland-Székelykál;;Ikland 547218, Románia;;46.6123792;;24.6932449
+5e9025e9c6db4afdd92521ad;;Sajó-Ivánka;;Sajóivánka, 3720 Magyarország;;48.2654174;;20.5799268
+5e9025e9c6db4afdd92521ae;;Borsod;;Borsod-Abaúj-Zemplén, Magyarország;;48.2939401;;20.6934112
+5e9025e9c6db4afdd92521b4;;Székelyszenterzsébet;;Székelyszenterzsébet 537292, Románia;;46.2905308;;24.9358959
+5e9025e9c6db4afdd92521b6;;Désakna;;Désakna, Románia;;47.1157082;;23.8557696
+5e9025e9c6db4afdd92521b8;;Berlini Tudományegyetem - tanulmány;;Unter den Linden 6, 10117 Berlin, Németország;;52.517883;;13.3936551
+5e9025e9c6db4afdd92521bd;;Borosjenő;;Borosjenő 315300, Románia;;46.4310262;;21.840539
+5e9025e9c6db4afdd92521c0;;Kőrösfő;;Körösfő 407340, Románia;;46.8382604;;23.1051171
+5e9025e9c6db4afdd92521c1;;Magyarmacskás Bodonkut;;Magyarmacskás 407208, Románia;;46.8895686;;23.5665793
+5e9025e9c6db4afdd92521c3;;Bereck;;Bereck 527060, Románia;;46.04342459999999;;26.3028187
+5e9025e9c6db4afdd92521c5;;Mocsolya;;Mocsolya 457326, Románia;;47.3197011;;22.9521498
+5e9025e9c6db4afdd92521c8;;Konstanca;;Konstanca, Románia;;44.1598013;;28.6348138
+5e9025e9c6db4afdd92521ca;;Szentgerice;;Szentgerice 547457, Románia;;46.47384659999999;;24.70583
+5e9025e9c6db4afdd92521d2;;Dobra;;Dobra 447291, Románia;;47.4955631;;22.8277174
+5e9025e9c6db4afdd92521db;;Beregszász;;Beregszász, Kárpátalja, Ukrajna, 90201;;48.1971868;;22.6370954
+5e9025e9c6db4afdd92521dd;;Tiszaújlak;;Tiszaújlak, Kárpátalja, Ukrajna;;48.1100924;;22.8417209
+5e9025e9c6db4afdd92521de;;Szatmárhegy;;Szatmárhegy 447360, Románia;;47.6617717;;22.9547128
+5e9025e9c6db4afdd92521df;;Kiskapus;;Kiskapus 555400, Románia;;46.1172183;;24.2440648
+5e9025e9c6db4afdd92521e0;;Fehéregyháza;;Fehéregyháza, Románia;;46.2584144;;24.860133
+5e9025e9c6db4afdd92521e3;;Fedoboly;;Feldoboly 527042, Románia;;45.7819341;;26.0355734
+5e9025e9c6db4afdd92521e4;;Székelyudvarhelyi Főiskola;;Piaţa Kőkereszt 7, Odorheiu Secuiesc 535600, Románia;;46.3034009;;25.2966854
+5e9025e9c6db4afdd92521e6;;Koozsvár - Alsóváros;;Strada Corneliu Coposu 72, Cluj-Napoca, Románia;;46.7869104;;23.5720654
+5e9025e9c6db4afdd92521e7;;Kóródszentmárton;;Kóródszentmárton, Románia;;46.4043492;;24.5801249
+5e9025e9c6db4afdd92521eb;;Battonya;;Battonya, 5830 Magyarország;;46.2902462;;21.0199215
+5e9025e9c6db4afdd92521ec;;Szászmáthé;;Szentmáté, Románia;;46.9826779;;24.2651073
+5e9025e9c6db4afdd92521ee;;Edelény;;Edelény, Magyarország;;48.2934391;;20.7385817
+5e9025e9c6db4afdd92521ef;;Sajószentpéter;;Sajószentpéter, 3770 Magyarország;;48.21887719999999;;20.7092248
+5e9025e9c6db4afdd92521f3;;Fiatfalva;;Fiatfalva 535401, Románia;;46.26932069999999;;25.0161008
+5e9025e9c6db4afdd92521f5;;Vulkán;;Vulkán 336200, Románia;;45.3780908;;23.288129
+5e9025e9c6db4afdd92521fd;;Dánya;;Dányán, Románia;;46.3052642;;24.4588365
+5e9025e9c6db4afdd92521fe;;Küküllővár;;Küküllővár 517235, Románia;;46.24666209999999;;24.1697793
+5e9025e9c6db4afdd92521ff;;Mezőszentmárton;;Mezőszentmárton 547497, Románia;;46.7267735;;24.4051705
+5e9025e9c6db4afdd9252205;;Marosvásrhely-Udvarfalva;;Udvarfalva 547568, Románia;;46.593986;;24.5721681
+5e9025e9c6db4afdd9252206;;Kebeleszentivány;;Kebeleszentivány 547368, Románia;;46.5413578;;24.6679505
+5e9025e9c6db4afdd9252207;;Székelydálya;;Székelydálya 537341, Románia;;46.1937126;;25.3057298
+5e9025e9c6db4afdd9252208;;Kilyén;;Kilyén 520001, Románia;;45.835985;;25.8026034
+5e9025e9c6db4afdd9252212;;Dálnok;;Dálnok, Románia;;45.9350044;;25.965182
+5e9025e9c6db4afdd9252213;;Genéve (Genf);;Genf, Svájc;;46.2043907;;6.1431577
+5e9025e9c6db4afdd9252217;;Maroskeresztúr;;Maroskeresztúr 547185, Románia;;46.5036569;;24.4915925
+5e9025e9c6db4afdd9252218;;Azuga- Busteni;;Azuga 105100, Románia;;45.4450965;;25.5700368
+5e9025e9c6db4afdd9252219;;Csomakőrös;;Csomakőrös 525201, Románia;;45.8220859;;26.1515609
+5e9025e9c6db4afdd925221e;;Ilyefalva;;Illyefalva 527105, Románia;;45.7953615;;25.7713587
+5e9025e9c6db4afdd925221f;;Pócsfalva - tanító;;Küküllőpócsfalva, Románia;;46.34975439999999;;24.3467017
+5e9025e9c6db4afdd925222a;;Gencs;;Gencs 447087, Románia;;47.6331505;;22.5269256
+5e9025e9c6db4afdd9252231;;Kolozsvár- Hidelve;;Biserica Reformată Horea, 400000,, Strada Câmpeni, Cluj-Napoca 400000, Románia;;46.7804408;;23.5869881
+5e9025e9c6db4afdd9252232;;Domos- Jákótelke;;Jákótelke, Románia;;46.8186069;;23.038397
+5e9025e9c6db4afdd9252234;;Lukafalva;;Lukafalva, Románia;;46.4621795;;24.5055441
+5e9025e9c6db4afdd9252235;;Verespatak;;Verespatak 517615, Románia;;46.307025;;23.129894
+5e9025e9c6db4afdd9252237;;Kobor;;Kóbor 507231, Románia;;45.9454545;;25.0511905
+5e9025e9c6db4afdd9252238;;Simánfalva;;Siménfalva 537310, Románia;;46.3372208;;25.1077262
+5e9025e9c6db4afdd9252239;;Bécsi egyetem;;Universitätsring 1, 1010 Wien, Ausztria;;48.21318549999999;;16.3600504
+5e9025e9c6db4afdd925223a;;Nagyölyve;;Nagyölyves 547498, Románia;;46.73039139999999;;24.3324442
+5e9025e9c6db4afdd925223c;;Gheorgheni;;Gyergyószentmiklós, Románia;;46.7212112;;25.5855275
+5e9025eac6db4afdd9252242;;Szilágyfőkeresztúr;;Szilágyfőkeresztúr 457106, Románia;;47.258697;;23.0942036
+5e9025eac6db4afdd9252244;;Gyulavári;;Gyula, Gyulavári, 5711 Magyarország;;46.6405799;;21.33163
+5e9025eac6db4afdd9252245;;Nyírgelse;;Nyírgelse, 4362 Magyarország;;47.7580202;;21.9822061
+5e9025eac6db4afdd9252247;;Bagamér;;Bagamér, 4286 Magyarország;;47.4498231;;21.9942012
+5e9025eac6db4afdd9252248;;Mikóújfalu;;Mikóújfalu 527115, Románia;;46.0537529;;25.8352125
+5e9025eac6db4afdd9252249;;Uszka;;Uszka, 4952 Magyarország;;48.07206069999999;;22.8565053
+5e9025eac6db4afdd925224a;;Hegyközpályi;;Hegyközpályi 417166, Románia;;47.1143061;;21.9563255
+5e9025eac6db4afdd925224b;;Nagyszöllős;;Nagyszőlős, Kárpátalja, Ukrajna;;48.14634909999999;;23.0302123
+5e9025eac6db4afdd9252250;;Székelyudvarhely -;;Székelyudvarhely 535600, Románia;;46.3049996;;25.2926479
+5e9025eac6db4afdd9252251;;Kisilye;;Kisillye 547282, Románia;;46.6455748;;24.7454443
+5e9025eac6db4afdd9252252;;Siménfalva-Nagykede;;Nagykede 537316, Románia;;46.3354767;;25.046907
+5e9025eac6db4afdd9252253;;Csitszentiván;;Csittszentiván 547454, Románia;;46.5136858;;24.4558949
+5e9025eac6db4afdd9252256;;Lecsmér;;Lecsmér 457231, Románia;;47.2575367;;22.5726427
+5e9025eac6db4afdd9252259;;Székelytamásfalva:;;Székelytamásfalva 527193, Románia;;45.8842826;;26.1156096
+5e9025eac6db4afdd9252260;;Aberdeen, Edinburgh;;Guild St, Aberdeen AB11 6FD, Egyesült Királyság;;57.1436377;;-2.0987651
+5e9025eac6db4afdd9252261;;Leipzig;;Lipcse, Németország;;51.3396955;;12.3730747
+5e9025eac6db4afdd9252262;;Nagenyed, Bethlen Koll.;;Strada Bethlen Gábor 1, Aiud 515200, Románia;;46.3105224;;23.7170293
+5e9025eac6db4afdd9252263;;Jedd;;Jedd 547365, Románia;;46.5490114;;24.6289584
+5e9025eac6db4afdd9252269;;Szamosújvár:;;Szamosújvár 405300, Románia;;47.0317645;;23.909253
+5e9025eac6db4afdd9252273;;Nádasdaróc-Bogártelke;;Nádasdaróc, Románia;;46.8559837;;23.2941597
+5e9025eac6db4afdd9252274;;Alvinc-Borberek;;Borberek, Románia;;46.0004942;;23.4677509
+5e9025eac6db4afdd9252276;;Borberek;;Borberek, Románia;;46.0004942;;23.4677509
+5e9025eac6db4afdd925227f;;Párizs;;Párizs, Franciaország;;48.856614;;2.3522219
+5e9025eac6db4afdd9252285;;Nagymon- Szilágyszentkirály;;Nagymon, Románia;;47.3269026;;23.115896
+5e9025eac6db4afdd9252288;;Nagykede;;Nagykede 537316, Románia;;46.3354767;;25.046907
+5e9025eac6db4afdd9252289;;Székelymagyaros;;Székelymagyaros 537206, Románia;;46.2637734;;25.1842071
+5e9025eac6db4afdd925228c;;Békés;;Békés, 5630 Magyarország;;46.7711185;;21.1289753
+5e9025eac6db4afdd925228d;;Újcsanálos;;Újcsanálos, 3716 Magyarország;;48.1380468;;21.0036907
+5e9025eac6db4afdd925228f;;Szentgerlice;;Szentgerice 547457, Románia;;46.47384659999999;;24.70583
+5e9025eac6db4afdd9252290;;Kolozsvár - Monostor;;Aleea Grădini Mănăștur, Cluj-Napoca, Románia;;46.7612361;;23.5578793
+5e9025eac6db4afdd9252291;;Iasi;;Jászvásár, Románia;;47.1584549;;27.6014418
+5e9025eac6db4afdd9252293;;Diósad;;Diósad 457168, Románia;;47.293911;;23.0192923
+5e9025eac6db4afdd9252294;;Szatmárnémeti;;Szatmárnémeti, Románia;;47.8016702;;22.8575926
+5e9025eac6db4afdd9252295;;Sülelmed;;Sülelmed 437355, Románia;;47.466018;;23.3023648
+5e9025eac6db4afdd9252296;;Debrecen - főiskola;;Debrecen, Egyetem tér 1, 4032 Magyarország;;47.5536257;;21.6215102
+5e9025eac6db4afdd9252297;;Mezőtur;;Mezőtúr, 5400 Magyarország;;47.0041296;;20.6161809
+5e9025eac6db4afdd9252298;;Nyárádkarácson;;Nyárádkarácson 547175, Románia;;46.4778318;;24.5656959
+5e9025eac6db4afdd9252299;;Lőrinczfalva;;Lõrincfalva 547262, Románia;;46.4702281;;24.4869982
+5e9025eac6db4afdd925229e;;Detrehem;;Detrehem 457163, Románia;;47.1663165;;22.6533607
+5e9025eac6db4afdd92522a0;;Klopódia;;Klopódia, Románia;;45.2831202;;21.4665284
+5e9025eac6db4afdd92522a1;;Vedresábrány;;Vedresábrány 417015, Románia;;47.32291439999999;;22.2546058
+5e9025eac6db4afdd92522a2;;Alsó-Felsőtők;;Felsőtők, Románia;;47.0775119;;23.6483527
+5e9025eac6db4afdd92522ab;;Hagymásbodon;;Hagymásbodon 547176, Románia;;46.5093378;;24.5815767
+5e9025eac6db4afdd92522ad;;Cambridge, Westminster College, Anglia;;Madingley Rd, Cambridge CB3 0AA, Egyesült Királyság;;52.2105556;;0.1122222
+5e9025eac6db4afdd92522ae;;Paptamási;;Paptamási 417056, Románia;;47.2223937;;21.9275104
+5e9025eac6db4afdd92522b0;;Kolosborsa;;Kolozsborsa 407110, Románia;;46.9305287;;23.6624335
+5e9025eac6db4afdd92522b2;;Szilágygörcsön;;Szilágygörcsön 457107, Románia;;47.2535166;;23.0640274
+5e9025eac6db4afdd92522b3;;Szolnokháza;;Szolnokháza 417626, Románia;;47.4023739;;22.4004251
+5e9025eac6db4afdd92522b4;;Szentjobb;;Szentjobb 417192, Románia;;47.2638987;;22.128266
+5e9025eac6db4afdd92522b5;;Bihardiószeg;;Diószeg, Románia;;47.3097963;;21.9962806
+5e9025eac6db4afdd92522b6;;Berlini egyetem;;Straße des 17. Juni 135, 10623 Berlin, Németország;;52.5125322;;13.3269446
+5e9025eac6db4afdd92522b7;;Bonni egyetem;;Regina-Pacis-Weg 3, 53113 Bonn, Németország;;50.7267715;;7.0865227
+5e9025eac6db4afdd92522b8;;Strassburg;;Strasbourg, Franciaország;;48.5734053;;7.752111299999999
+5e9025eac6db4afdd92522b9;;Szemerja;;Szemerja, Sepsiszentgyörgy, Románia;;45.8577594;;25.775467
+5e9025eac6db4afdd92522bd;;Mákó;;Makó, Magyarország;;46.2219071;;20.4809265
+5e9025eac6db4afdd92522be;;Kalotadámos Jákótelke;;Jákótelke, Románia;;46.8186069;;23.038397
+5e9025eac6db4afdd92522bf;;Ujös;;Újős, Románia;;46.9372836;;24.2722816
+5e9025eac6db4afdd92522c7;;Gagy;;Gagy 537014, Románia;;46.3627919;;25.0283334
+5e9025eac6db4afdd92522c9;;Szépkenyerűszentmárton;;Szépkenyerűszentmárton, Románia;;47.0098204;;24.0748095
+5e9025eac6db4afdd92522ca;;Hosszuaszó;;Hosszúaszó 537267, Románia;;46.3435415;;25.9055277
+5e9025eac6db4afdd92522cb;;Koltó;;Koltó, Románia;;47.5963088;;23.5219958
+5e9025eac6db4afdd92522cd;;Naszód;;Naszód, Románia;;47.2921849;;24.3973258
+5e9025eac6db4afdd92522d6;;Magyarpéterlak;;Magyarpéterlaka 547288, Románia;;46.6894644;;24.7512859
+5e9025eac6db4afdd92522d7;;Philadelphia. Westminster Theol. Seminary;;2960 Church Rd, Glenside, PA 19038, Egyesült Államok;;40.0988494;;-75.17594199999999
+5e9025eac6db4afdd92522d9;;New York;;New York, Egyesült Államok;;40.7127753;;-74.0059728
+5e9025eac6db4afdd92522db;;Tűr;;Túr, Magyarország;;48.0201441;;22.7697796
+5e9025eac6db4afdd92522dd;;Aranyosgerend;;Aranyosgerend 407362, Románia;;46.468408;;23.9503263
+5e9025eac6db4afdd92522de;;Nyíres;;Szásznyíres, Románia;;47.1142634;;23.9847266
+5e9025eac6db4afdd92522ed;;Sáromberke;;Sáromberke 547217, Románia;;46.63815229999999;;24.6367203
+5e9025eac6db4afdd92522f0;;Zilah - isk. ig.;;Strada Crișan 15A, Zalău, Románia;;47.1871632;;23.0545904
+5e9025ebc6db4afdd92522f6;;Sepsiszentgyörgy- Szemerja;;Szemerja, Sepsiszentgyörgy, Románia;;45.8577594;;25.775467
+5e9025ebc6db4afdd92522f7;;Lázári;;Lázári 447170, Románia;;47.8530474;;22.8731018
+5e9025ebc6db4afdd92522f8;;Batiz;;Batiz 335301, Románia;;45.7795991;;22.999007
+5e9025ebc6db4afdd92522f9;;Erdőhegy-Kisjenő;;Erdőhegy, Kisjenő 315100, Románia;;46.51575860000001;;21.5087792
+5e9025ebc6db4afdd92522fd;;Mezőkeszü;;Mezőkeszü, Románia;;46.81761830000001;;24.008826
+5e9025ebc6db4afdd92522fe;;Szentkeresztbánya;;Szentkeresztbánya 535802, Románia;;46.3063087;;25.5064427
+5e9025ebc6db4afdd92522ff;;Teológiai Intézet Könyvtára;;Strada Iuliu Maniu 39, Cluj-Napoca 400095, Románia;;46.77143419999999;;23.5950744
+5e9025ebc6db4afdd9252300;;Cófalva;;Cófalva 527044, Románia;;45.8355448;;26.0265064
+5e9025ebc6db4afdd9252301;;Fickó;;Fickópataka 547036, Románia;;46.8982624;;24.8684605
+5e9025ebc6db4afdd9252304;;Szalonta;;Nagyszalonta, Románia;;46.8052877;;21.6489828
+5e9025ebc6db4afdd9252305;;Biharszentjános;;Biharszentjános, Románia;;47.0977861;;21.8348696
+5e9025ebc6db4afdd9252307;;Bákó;;Bákó, Románia;;46.5670437;;26.9145748
+5e9025ebc6db4afdd925230c;;Szilágyzovány;;Szilágyzovány 457213, Románia;;47.2249986;;22.6612852
+5e9025ebc6db4afdd925230f;;Kölcse (Magyaro.);;Kölcse, 4965 Magyarország;;48.0528737;;22.7167332
+5e9025ebc6db4afdd9252317;;Bardóc;;Bardóc, Románia;;46.1861773;;25.6428551

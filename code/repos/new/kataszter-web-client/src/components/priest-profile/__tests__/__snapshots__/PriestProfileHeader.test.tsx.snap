@@ -1,0 +1,261 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PriestProfileHeader element should render a priest name when editMode=true and isAdmin=true 1`] = `
+<div
+  className="ui stackable twelve column grid"
+>
+  <div
+    className="center aligned middle aligned row"
+  >
+    <div
+      className="column"
+    />
+    <div
+      className="ten wide column"
+    >
+      <h1
+        className="ui header"
+      >
+        Janos
+        <span
+          style={
+            Object {
+              "float": "right",
+            }
+          }
+        >
+          <div
+            className="field"
+          >
+            <div
+              className="ui toggle checkbox"
+              onChange={[Function]}
+              onClick={[Function]}
+              onMouseDown={[Function]}
+              onMouseUp={[Function]}
+            >
+              <input
+                checked={false}
+                className="hidden"
+                name="verified"
+                readOnly={true}
+                tabIndex={0}
+                type="checkbox"
+              />
+              <label>
+                Verified
+              </label>
+            </div>
+          </div>
+          <i
+            aria-hidden="true"
+            className="grey question circle outline fitted icon"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          />
+        </span>
+      </h1>
+    </div>
+    <div
+      className="column"
+    />
+  </div>
+</div>
+`;
+
+exports[`PriestProfileHeader element should render a priestName and editButton  when editMode=false and isAdmin=true 1`] = `
+<div
+  className="ui stackable twelve column grid"
+>
+  <div
+    className="center aligned middle aligned row"
+  >
+    <div
+      className="column"
+    />
+    <div
+      className="seven wide column"
+    >
+      <h1
+        className="ui header"
+      >
+        Janos
+        <span
+          style={
+            Object {
+              "float": "right",
+            }
+          }
+        >
+          <i
+            aria-hidden="true"
+            className="grey question circle outline fitted icon"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          />
+        </span>
+      </h1>
+    </div>
+    <div
+      className="column"
+    />
+    <div
+      className="three wide column"
+    >
+      <button
+        className="ui violet large icon inverted left labeled button"
+        id="editModeButton"
+        onClick={[Function]}
+        style={
+          Object {
+            "fontFamily": "monospace",
+            "marginBottom": "1em",
+          }
+        }
+        value={true}
+      >
+        <i
+          aria-hidden="true"
+          className="edit icon"
+          onClick={[Function]}
+        />
+        Modify
+      </button>
+      <br />
+      <button
+        className="ui red large icon inverted left labeled button"
+        id="removeButton"
+        onClick={[Function]}
+        style={
+          Object {
+            "fontFamily": "monospace",
+          }
+        }
+        value={true}
+      >
+        <i
+          aria-hidden="true"
+          className="trash icon"
+          onClick={[Function]}
+        />
+        Remove
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`PriestProfileHeader element should render a priestName when editMode=false and isAdmin=false 1`] = `
+<div
+  className="ui stackable twelve column grid"
+>
+  <div
+    className="center aligned middle aligned row"
+  >
+    <div
+      className="column"
+    />
+    <div
+      className="seven wide column"
+    >
+      <h1
+        className="ui header"
+      >
+        Janos
+        <span
+          style={
+            Object {
+              "float": "right",
+            }
+          }
+        >
+          <i
+            aria-hidden="true"
+            className="grey question circle outline fitted icon"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          />
+        </span>
+      </h1>
+    </div>
+    <div
+      className="column"
+    />
+  </div>
+</div>
+`;
+
+exports[`PriestProfileHeader element should render a priestName when editMode=true and isAdmin=false 1`] = `
+<div
+  className="ui stackable twelve column grid"
+>
+  <div
+    className="center aligned middle aligned row"
+  >
+    <div
+      className="column"
+    />
+    <div
+      className="ten wide column"
+    >
+      <h1
+        className="ui header"
+      >
+        Janos
+        <span
+          style={
+            Object {
+              "float": "right",
+            }
+          }
+        >
+          <div
+            className="field"
+          >
+            <div
+              className="ui toggle checkbox"
+              onChange={[Function]}
+              onClick={[Function]}
+              onMouseDown={[Function]}
+              onMouseUp={[Function]}
+            >
+              <input
+                checked={false}
+                className="hidden"
+                name="verified"
+                readOnly={true}
+                tabIndex={0}
+                type="checkbox"
+              />
+              <label>
+                Verified
+              </label>
+            </div>
+          </div>
+          <i
+            aria-hidden="true"
+            className="grey question circle outline fitted icon"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          />
+        </span>
+      </h1>
+    </div>
+    <div
+      className="column"
+    />
+  </div>
+</div>
+`;

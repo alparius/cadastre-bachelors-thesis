@@ -1,0 +1,409 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PriestCard element should render a card with the priest data 1`] = `
+<a
+  aria-current={null}
+  className="ui fluid card"
+  href="/priests/profile/1"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="header"
+    >
+      <h2
+        className="ui header"
+      >
+        name
+        <span
+          style={
+            Object {
+              "float": "right",
+            }
+          }
+        >
+          <i
+            aria-hidden="true"
+            className="grey question circle outline fitted icon"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          />
+        </span>
+      </h2>
+    </div>
+    <div
+      className="meta"
+    >
+      born
+      : 
+      birthTown
+      ,
+       
+      <span
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        2000.06.06
+      </span>
+       - 
+      died
+      : 
+      <span
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        2000.06.06
+      </span>
+    </div>
+    <div
+      className="meta"
+    >
+      subscribed
+      : 
+      <span
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        2000.06.06
+      </span>
+      , 
+      and
+       
+      graduated
+      : 
+      <span
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        2000.06.06
+      </span>
+    </div>
+    <div
+      className="meta"
+    >
+      country
+      : 
+      birthCountry
+      , 
+      county
+      : 
+      birthCounty
+      , 
+      diocese
+      : 
+      diocese
+    </div>
+    <div
+      className="description"
+      style={
+        Object {
+          "marginTop": "1em",
+        }
+      }
+    >
+      <div
+        className="ui list"
+        role="list"
+      >
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <div
+            className="header"
+          >
+            Assistant priest placements
+          </div>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <a
+            aria-current={null}
+            className="hoverLink"
+            href="/parishes/profile/0"
+            onClick={[Function]}
+          >
+             
+            place
+             
+          </a>
+          : 
+          <span
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          >
+            2000.06.06
+          </span>
+           - 
+          <span
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          >
+            2000.06.06
+          </span>
+        </div>
+      </div>
+      <div
+        className="ui list"
+        role="list"
+      >
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <div
+            className="header"
+          >
+            Main priest placements
+          </div>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <a
+            aria-current={null}
+            className="hoverLink"
+            href="/parishes/profile/0"
+            onClick={[Function]}
+          >
+             
+            place
+             
+          </a>
+          : 
+          <span
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          >
+            2000.06.06
+          </span>
+           - 
+          <span
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          >
+            2000.06.06
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</a>
+`;
+
+exports[`PriestCard element should render a card with with the priest data and 'no data' labels for missing fields 1`] = `
+<a
+  aria-current={null}
+  className="ui fluid card"
+  href="/priests/profile/undefined"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="header"
+    >
+      <h2
+        className="ui header"
+      >
+        name
+        <span
+          style={
+            Object {
+              "float": "right",
+            }
+          }
+        >
+          <i
+            aria-hidden="true"
+            className="grey question circle outline fitted icon"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          />
+        </span>
+      </h2>
+    </div>
+    <div
+      className="meta"
+    >
+      born
+      : 
+      <i>
+        No data
+      </i>
+      ,
+       
+      <span
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        2000.06.06
+      </span>
+       - 
+      died
+      : 
+      <span
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        2000.06.06
+      </span>
+    </div>
+    <div
+      className="meta"
+    >
+      subscribed
+      : 
+      <span
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        2000.06.06
+      </span>
+      , 
+      and
+       
+      graduated
+      : 
+      <span
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        2000.06.06
+      </span>
+    </div>
+    <div
+      className="meta"
+    >
+      country
+      : 
+      <i>
+        No data
+      </i>
+      , 
+      county
+      : 
+      <i>
+        No data
+      </i>
+      , 
+      diocese
+      : 
+      <i>
+        No data
+      </i>
+    </div>
+    <div
+      className="description"
+      style={
+        Object {
+          "marginTop": "1em",
+        }
+      }
+    >
+      <div
+        className="ui list"
+        role="list"
+      >
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <div
+            className="header"
+          >
+            Assistant priest placements
+          </div>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <i>
+            No data
+          </i>
+        </div>
+      </div>
+      <div
+        className="ui list"
+        role="list"
+      >
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <div
+            className="header"
+          >
+            Main priest placements
+          </div>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <i>
+            No data
+          </i>
+        </div>
+      </div>
+    </div>
+  </div>
+</a>
+`;

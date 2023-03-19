@@ -1,0 +1,43 @@
+imagePullSecrets:
+  backend: backend-regcred
+  frontend: frontend-regcred
+
+ingress:
+  hostname: kataszter.codespring.ro
+  ingressClass: nginx-kataszter
+
+servicePort: 9000
+
+backend:
+  name: kataszter-backend
+  image:
+    repository: r.edu.codespring.ro/kataszter/kataszter-backend
+    tag: v1.0.0
+    containerPort: 8080
+  persistence:
+    mountPath: /kataszter/uploaded
+    existingClaimName: kataszter-file-storage
+  config:
+    dbImportType: dev
+    smtp:
+      host: smtp.gmail.com
+      port: 587
+    email:
+      address:
+      password:
+    recaptchaSecretkey:
+
+frontend:
+  name: kataszter-frontend
+  image:
+    repository: r.edu.codespring.ro/kataszter/kataszter-web-client
+    tag: v1.0.0
+    containerPort: 80
+
+mongodb:
+  architecture: replicaset
+  persistence:
+    storageClass: nfs-client
+    size: 2Gi
+  auth:
+    database: kataszter

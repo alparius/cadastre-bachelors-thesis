@@ -1,0 +1,298 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AdminContainer element should also render a message when response exists 1`] = `
+<div
+  className="ui fluid card"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="header"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="header"
+        >
+          <div
+            className="line"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AdminContainer element should also render an error message when deleteShowError is true 1`] = `
+<div
+  className="ui negative message"
+>
+  Could not estabilish server connection.
+</div>
+`;
+
+exports[`AdminContainer element should also render an error message when postShowError is true 1`] = `
+<div
+  className="ui negative message"
+>
+  Could not estabilish server connection.
+</div>
+`;
+
+exports[`AdminContainer element should also render an error when a bad response exists 1`] = `
+<div
+  className="ui fluid card"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="header"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="header"
+        >
+          <div
+            className="line"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AdminContainer element should render a placeholder card and a message when the users array is empty 1`] = `
+Array [
+  <div
+    className="ui fluid card"
+    onClick={[Function]}
+  >
+    <div
+      className="content"
+    >
+      <div
+        className="header"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="header"
+          >
+            <div
+              className="line"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        className="description"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line"
+          />
+          <div
+            className="line"
+          />
+          <div
+            className="line"
+          />
+          <div
+            className="line"
+          />
+          <div
+            className="line"
+          />
+          <div
+            className="line"
+          />
+        </div>
+      </div>
+    </div>
+  </div>,
+  <h2
+    className="ui header"
+  >
+    No results were found for your search. Try widening the search criterias.
+  </h2>,
+]
+`;
+
+exports[`AdminContainer element should render a placeholder card when only loading is true 1`] = `
+<div
+  className="ui fluid card"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="header"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="header"
+        >
+          <div
+            className="line"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AdminContainer element should render a segment group when the users array is not empty 1`] = `null`;
+
+exports[`AdminContainer element should render an error message when fetchShowError is true 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "marginTop": "7em",
+    }
+  }
+>
+  <h2
+    className="ui header red"
+  >
+    Could not estabilish server connection.
+  </h2>
+  <h3
+    className="ui header"
+  >
+    <a
+      aria-current="page"
+      className="hoverLink active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      Back to the Home Page
+    </a>
+  </h3>
+</div>
+`;
+
+exports[`AdminContainer element should render an error message when showError and loading are both true 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "marginTop": "7em",
+    }
+  }
+>
+  <h2
+    className="ui header red"
+  >
+    Could not estabilish server connection.
+  </h2>
+  <h3
+    className="ui header"
+  >
+    <a
+      aria-current="page"
+      className="hoverLink active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      Back to the Home Page
+    </a>
+  </h3>
+</div>
+`;

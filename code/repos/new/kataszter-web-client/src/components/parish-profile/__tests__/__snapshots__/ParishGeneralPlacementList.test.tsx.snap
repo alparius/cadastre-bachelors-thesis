@@ -1,0 +1,265 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ParishGeneralPlacementList element should render a parish placement list 1`] = `
+Array [
+  <h2
+    className="ui header"
+  >
+    <i>
+      test
+    </i>
+  </h2>,
+  <div
+    className="ui container"
+    style={
+      Object {
+        "marginBottom": "2em",
+      }
+    }
+  >
+    <div
+      className="ui grid"
+    >
+      <div
+        className="four column row"
+        style={
+          Object {
+            "marginBottom": "-1em",
+          }
+        }
+      >
+        <div
+          className="column"
+        >
+          <b>
+            Name
+          </b>
+        </div>
+        <div
+          className="column"
+        >
+          <b>
+            Interval
+          </b>
+        </div>
+        <div
+          className="column"
+        >
+          <b>
+            Number of people
+          </b>
+        </div>
+      </div>
+      <div
+        className="four column row"
+        style={
+          Object {
+            "marginBottom": "-1em",
+          }
+        }
+      >
+        <div
+          className="column"
+        >
+          <a
+            aria-current={null}
+            className="hoverLink"
+            href="/priests/profile/22222222222"
+            onClick={[Function]}
+          >
+            Janos
+          </a>
+        </div>
+        <div
+          className="column"
+        >
+          <span
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          >
+            2000.06.06
+          </span>
+           - 
+          <span
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          >
+            2000.06.06
+          </span>
+        </div>
+        <div
+          className="column"
+        >
+          <i>
+            12
+          </i>
+        </div>
+        <div
+          className="column"
+        />
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`ParishGeneralPlacementList element should render a parish placement list with 'no data' and '-' labels for missing fields 1`] = `
+Array [
+  <h2
+    className="ui header"
+  >
+    <i>
+      test
+    </i>
+  </h2>,
+  <div
+    className="ui container"
+    style={
+      Object {
+        "marginBottom": "2em",
+      }
+    }
+  >
+    <div
+      className="ui grid"
+    >
+      <div
+        className="four column row"
+        style={
+          Object {
+            "marginBottom": "-1em",
+          }
+        }
+      >
+        <div
+          className="column"
+        >
+          <b>
+            Name
+          </b>
+        </div>
+        <div
+          className="column"
+        >
+          <b>
+            Interval
+          </b>
+        </div>
+        <div
+          className="column"
+        >
+          <b>
+            Number of people
+          </b>
+        </div>
+      </div>
+      <div
+        className="four column row"
+        style={
+          Object {
+            "marginBottom": "-1em",
+          }
+        }
+      >
+        <div
+          className="column"
+        >
+          <i>
+            No data
+          </i>
+        </div>
+        <div
+          className="column"
+        >
+          <span
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          >
+            2000.06.06
+          </span>
+           - 
+          <span
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          >
+            2000.06.06
+          </span>
+        </div>
+        <div
+          className="column"
+        />
+        <div
+          className="column"
+        />
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`ParishGeneralPlacementList element should render an empty list 1`] = `
+Array [
+  <h2
+    className="ui header"
+  >
+    <i>
+      test
+    </i>
+  </h2>,
+  <div
+    className="ui container"
+    style={
+      Object {
+        "marginBottom": "2em",
+      }
+    }
+  >
+    <div
+      className="ui grid"
+    >
+      <div
+        className="four column row"
+        style={
+          Object {
+            "marginBottom": "-1em",
+          }
+        }
+      >
+        <div
+          className="column"
+        >
+          <b>
+            Name
+          </b>
+        </div>
+        <div
+          className="column"
+        >
+          <b>
+            Interval
+          </b>
+        </div>
+        <div
+          className="column"
+        >
+          <b>
+            Number of people
+          </b>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;

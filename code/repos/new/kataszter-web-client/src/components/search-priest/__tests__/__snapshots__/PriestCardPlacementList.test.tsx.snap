@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PriestCardPlacementList element should render a priest placement list 1`] = `
+<div
+  className="ui list"
+  role="list"
+>
+  <div
+    className="item"
+    onClick={[Function]}
+    role="listitem"
+  >
+    <div
+      className="header"
+    >
+      test
+    </div>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}
+    role="listitem"
+  >
+    <a
+      aria-current={null}
+      className="hoverLink"
+      href="/parishes/profile/0"
+      onClick={[Function]}
+    >
+       
+      place
+       
+    </a>
+    : 
+    <span
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+    >
+      2000.06.06
+    </span>
+     - 
+    <span
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+    >
+      2000.06.06
+    </span>
+  </div>
+</div>
+`;
+
+exports[`PriestCardPlacementList element should render a priest placement list with 'no data' labels for missing fields 1`] = `
+<div
+  className="ui list"
+  role="list"
+>
+  <div
+    className="item"
+    onClick={[Function]}
+    role="listitem"
+  >
+    <div
+      className="header"
+    >
+      test
+    </div>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}
+    role="listitem"
+  >
+    <a
+      aria-current={null}
+      className="hoverLink"
+      href="/parishes/profile/undefined"
+      onClick={[Function]}
+    >
+       
+      place
+       
+    </a>
+    : 
+    <span
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+    >
+      2000.06.06
+    </span>
+     - 
+    <span
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+    >
+      2000.06.06
+    </span>
+  </div>
+</div>
+`;
+
+exports[`PriestCardPlacementList element should render an empty list 1`] = `
+<div
+  className="ui list"
+  role="list"
+>
+  <div
+    className="item"
+    onClick={[Function]}
+    role="listitem"
+  >
+    <div
+      className="header"
+    >
+      test
+    </div>
+  </div>
+</div>
+`;

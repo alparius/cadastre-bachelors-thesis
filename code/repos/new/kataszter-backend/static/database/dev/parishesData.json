@@ -1,0 +1,755 @@
+[
+    {
+        "ID": "5d6385f3f250a816135d1100",
+        "name": "Marosvásárhely Gyülekezet",
+        "cityName": "Marosvásárhely",
+        "verified": true,
+        "description": "Központban található, Főutca 23. házszám alatt.",
+        "history": "1971-ben átköltözött a Mellékutca 24. házszám alól a Főutca 23. házszám alá.",
+        "pastNames": [
+            {
+                "name": "Marosvásárhely Gyülekezet",
+                "startDate": {
+                    "year": 1860,
+                    "month": 6,
+                    "day": 6,
+                    "comment": "1860"
+                },
+                "endDate": {
+                    "year": 1900,
+                    "month": 7,
+                    "day": 7,
+                    "comment": "40 évig"
+                }
+            },
+            {
+                "name": "Marosvásárhely Központi Gyülekezet",
+                "startDate": {
+                    "year": 1900,
+                    "month": 6,
+                    "day": 6
+                },
+                "endDate": {
+                    "year": 1930,
+                    "month": 7,
+                    "day": 7,
+                    "comment": "30 évig"
+                }
+            },
+            {
+                "name": "Marosvásárhely Gyülekezet",
+                "startDate": {
+                    "year": 1930,
+                    "month": 6,
+                    "day": 6,
+                    "comment": "'930"
+                }
+            }
+        ],
+        "coordinates": {
+            "lat": "46.54",
+            "lng": "24.558"
+        },
+        "assistantPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8000",
+                "priestID": "5d6385f3f250a816135d1000",
+                "priestName": "Lelkész János",
+                "startDate": {
+                    "year": 1970,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1970.01.01"
+                },
+                "endDate": {
+                    "year": 1970,
+                    "month": 1,
+                    "day": 2,
+                    "comment": "1970.01.02"
+                }
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1101",
+        "name": "Csodaország",
+        "cityName": "Üveghegy",
+        "verified": true,
+        "description": "Túl az Óperenciás tengeren.",
+        "history": "Mindig is volt, mindig is lesz, mindig is van.",
+        "pastNames": [
+            {
+                "name": "Egy varázslatos hely",
+                "endDate": {
+                    "year": 1000,
+                    "comment": "elején"
+                }
+            },
+            {
+                "name": "Csodaország",
+                "startDate": {
+                    "year": 1000,
+                    "comment": "utána"
+                }
+            }
+        ],
+        "mainPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8001",
+                "priestID": "5d6385f3f250a816135d1000",
+                "priestName": "Lelkész János",
+                "startDate": {
+                    "year": 1977,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1977.01.01"
+                },
+                "endDate": {
+                    "year": 1980,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1980.01.01"
+                },
+                "numberOfPeople": "500"
+            },
+            {
+                "ID": "5d6385f3f250a816135d8002",
+                "priestID": "5d6385f3f250a816135d1000",
+                "priestName": "Lelkész János",
+                "startDate": {
+                    "year": 1980,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1980.01.01"
+                },
+                "endDate": {
+                    "year": 1995,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1995.01.01"
+                },
+                "numberOfPeople": "500"
+            },
+            {
+                "ID": "5d6385f3f250a816135d8003",
+                "priestID": "5d6385f3f250a816135d1000",
+                "priestName": "Lelkész János",
+                "startDate": {
+                    "year": 1995,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1995.01.01"
+                },
+                "endDate": {
+                    "year": 2015,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "2015.01.01"
+                },
+                "numberOfPeople": "500"
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1102",
+        "name": "Kézdivásárhely",
+        "verified": false,
+        "coordinates": {
+            "lat": "45.998",
+            "lng": "26.135"
+        },
+        "assistantPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8004",
+                "priestID": "5d6385f3f250a816135d1001",
+                "priestName": "Papp Bela",
+                "startDate": {
+                    "year": 1930,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1930.01.01"
+                },
+                "endDate": {
+                    "year": 1940,
+                    "month": 4,
+                    "day": 2,
+                    "comment": "1940.04.02"
+                }
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1103",
+        "name": "Csobotfalva",
+        "verified": false,
+        "coordinates": {
+            "lat": "46.383",
+            "lng": "25.83"
+        },
+        "mainPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8005",
+                "priestID": "5d6385f3f250a816135d1001",
+                "priestName": "Papp Bela",
+                "startDate": {
+                    "year": 1937,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1937.01.01"
+                },
+                "endDate": {
+                    "year": 1950,
+                    "month": 11,
+                    "day": 1,
+                    "comment": "1950.11.01"
+                },
+                "numberOfPeople": "5"
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1104",
+        "name": "Csernáton",
+        "verified": false,
+        "coordinates": {
+            "lat": "45.9528",
+            "lng": "26.03"
+        },
+        "mainPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8006",
+                "priestID": "5d6385f3f250a816135d1001",
+                "priestName": "Papp Bela",
+                "startDate": {
+                    "year": 1950,
+                    "month": 11,
+                    "day": 2,
+                    "comment": "1950.11.02"
+                },
+                "endDate": {
+                    "year": 1995,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1995.01.01"
+                },
+                "numberOfPeople": "1002"
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1105",
+        "name": "Csíkszereda",
+        "verified": false,
+        "coordinates": {
+            "lat": "46.364",
+            "lng": "25.793"
+        },
+        "mainPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8007",
+                "priestID": "5d6385f3f250a816135d1001",
+                "priestName": "Papp Bela",
+                "startDate": {
+                    "year": 1995,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1995.01.01"
+                },
+                "endDate": {
+                    "year": 2015,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "2015.01.01"
+                },
+                "numberOfPeople": "három"
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1106",
+        "name": "Kisbátor",
+        "verified": false,
+        "coordinates": {
+            "lat": "48.003735",
+            "lng": "20.270067"
+        },
+        "mainPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8008",
+                "priestID": "5d6385f3f250a816135d1002",
+                "priestName": "Kerekes István",
+                "startDate": {
+                    "year": 1037,
+                    "month": 2,
+                    "day": 13,
+                    "comment": "1037.02.13"
+                },
+                "endDate": {
+                    "year": 1050,
+                    "month": 1,
+                    "day": 31,
+                    "comment": "1050.01.31"
+                },
+                "numberOfPeople": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1107",
+        "name": "Kolozsvárottan",
+        "verified": false,
+        "coordinates": {
+            "lat": "46.769881",
+            "lng": "23.589534"
+        },
+        "assistantPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8009",
+                "priestID": "5d6385f3f250a816135d1003",
+                "priestName": "Harangozó Hektor",
+                "startDate": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 17,
+                    "comment": "2019.09.17"
+                },
+                "endDate": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 18,
+                    "comment": "2019.09.18"
+                }
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1108",
+        "name": "Kolozsvár",
+        "verified": false,
+        "coordinates": {
+            "lat": "46.777448",
+            "lng": "23.614207"
+        },
+        "assistantPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8010",
+                "priestID": "5d6385f3f250a816135d1005",
+                "priestName": "Bene Bandi",
+                "startDate": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 1,
+                    "comment": "2018.10.01"
+                },
+                "endDate": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0,
+                    "comment": ""
+                }
+            }
+        ],
+        "mainPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8011",
+                "priestID": "5d6385f3f250a816135d1003",
+                "priestName": "Harangozó Hektor",
+                "startDate": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 18,
+                    "comment": "2019.09.18"
+                },
+                "endDate": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0,
+                    "comment": ""
+                },
+                "numberOfPeople": "4200"
+            },
+            {
+                "ID": "5d6385f3f250a816135d8012",
+                "priestID": "5d6385f3f250a816135d1005",
+                "priestName": "Bene Bandi",
+                "startDate": {
+                    "year": 2018,
+                    "month": 10,
+                    "day": 1,
+                    "comment": "2018.10.01"
+                },
+                "endDate": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0,
+                    "comment": ""
+                },
+                "numberOfPeople": "1"
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1109",
+        "name": "Zarajevó",
+        "verified": false,
+        "coordinates": {
+            "lat": "43.859",
+            "lng": "18.433"
+        },
+        "assistantPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8013",
+                "priestID": "5d6385f3f250a816135d1004",
+                "priestName": "Karvai János",
+                "startDate": {
+                    "year": 1770,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1770.01.01"
+                },
+                "endDate": {
+                    "year": 1770,
+                    "month": 11,
+                    "day": 2,
+                    "comment": "1770.11.02"
+                }
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1110",
+        "name": "Zolnok",
+        "verified": false,
+        "coordinates": {
+            "lat": "47.167",
+            "lng": "20.1823"
+        },
+        "mainPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8014",
+                "priestID": "5d6385f3f250a816135d1004",
+                "priestName": "Karvai János",
+                "startDate": {
+                    "year": 1777,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1777.01.01"
+                },
+                "endDate": {
+                    "year": 1780,
+                    "month": 11,
+                    "day": 5,
+                    "comment": "1780.11.05"
+                },
+                "numberOfPeople": "500"
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1111",
+        "name": "Debrecen",
+        "verified": false,
+        "coordinates": {
+            "lat": "47.4959",
+            "lng": "21.6132"
+        },
+        "mainPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8015",
+                "priestID": "5d6385f3f250a816135d1004",
+                "priestName": "Karvai János",
+                "startDate": {
+                    "year": 1780,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1780.01.01"
+                },
+                "endDate": {
+                    "year": 1795,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1795.01.01"
+                },
+                "numberOfPeople": "100"
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1112",
+        "name": "Paptesztfalu",
+        "verified": false,
+        "coordinates": {
+            "lat": "47.2367",
+            "lng": "22.416"
+        },
+        "assistantPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8016",
+                "priestID": "5d6385f3f250a816135d1006",
+                "priestName": "Kuruc Áron",
+                "startDate": {
+                    "year": 1940,
+                    "month": 8,
+                    "day": 1,
+                    "comment": "1940.08.01"
+                },
+                "endDate": {
+                    "year": 1945,
+                    "month": 1,
+                    "day": 15,
+                    "comment": "1945.01.15"
+                }
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1113",
+        "name": "Vasút Állomás",
+        "verified": false,
+        "coordinates": {
+            "lat": "47.9268",
+            "lng": "23.892"
+        },
+        "mainPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8017",
+                "priestID": "5d6385f3f250a816135d1006",
+                "priestName": "Kuruc Áron",
+                "startDate": {
+                    "year": 1945,
+                    "month": 9,
+                    "day": 8,
+                    "comment": "1945.09.08"
+                },
+                "endDate": {
+                    "year": 1950,
+                    "month": 2,
+                    "day": 19,
+                    "comment": "1950.02.19"
+                },
+                "numberOfPeople": "193"
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1114",
+        "name": "Mariann Papság",
+        "coordinates": {
+            "lat": "46.4795"
+        },
+        "mainPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8018",
+                "priestID": "5d6385f3f250a816135d1006",
+                "priestName": "Kuruc Áron",
+                "startDate": {
+                    "year": 1940,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1940.01.01"
+                },
+                "endDate": {
+                    "year": 1960,
+                    "month": 12,
+                    "day": 12,
+                    "comment": "1960.12.12"
+                },
+                "numberOfPeople": "700"
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1115",
+        "name": "Honolulu",
+        "coordinates": {
+            "lat": "21.31548",
+            "lng": "-157.9275"
+        },
+        "assistantPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8019",
+                "priestID": "5d6385f3f250a816135d1007",
+                "priestName": "Semmisemigaz Attila",
+                "startDate": {
+                    "year": 2000,
+                    "month": 6,
+                    "day": 2,
+                    "comment": "2000.06.02"
+                },
+                "endDate": {
+                    "year": 2012,
+                    "month": 1,
+                    "day": 2,
+                    "comment": "2012.01.02"
+                }
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1116",
+        "name": "Atlantisz",
+        "coordinates": {
+            "lat": "47.497978",
+            "lng": "19.05529"
+        },
+        "mainPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8020",
+                "priestID": "5d6385f3f250a816135d1007",
+                "priestName": "Semmisemigaz Attila",
+                "startDate": {
+                    "year": 1956,
+                    "month": 5,
+                    "day": 30,
+                    "comment": "1956.05.30"
+                },
+                "endDate": {
+                    "year": 2063,
+                    "month": 3,
+                    "day": 11,
+                    "comment": "2063.03.11"
+                },
+                "numberOfPeople": "3000"
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1117",
+        "name": "Zilah",
+        "coordinates": {
+            "lat": "47.179495",
+            "lng": "23.0547"
+        },
+        "assistantPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8021",
+                "priestID": "5d6385f3f250a816135d1008",
+                "priestName": "Cseke Csaba",
+                "startDate": {
+                    "year": 1955,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1955.01.01"
+                },
+                "endDate": {
+                    "year": 1965,
+                    "month": 1,
+                    "day": 2,
+                    "comment": "1965.01.02"
+                }
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1118",
+        "name": "Egrespatak",
+        "coordinates": {
+            "lat": "47.161",
+            "lng": "23.0126"
+        },
+        "mainPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8022",
+                "priestID": "5d6385f3f250a816135d1008",
+                "priestName": "Cseke Csaba",
+                "startDate": {
+                    "year": 1935,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1935.01.01"
+                },
+                "endDate": {
+                    "year": 1940,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1940.01.01"
+                },
+                "numberOfPeople": "70"
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1119",
+        "name": "Kraszna",
+        "coordinates": {
+            "lat": "47.15818",
+            "lng": "22.873"
+        },
+        "mainPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8023",
+                "priestID": "5d6385f3f250a816135d1008",
+                "priestName": "Cseke Csaba",
+                "startDate": {
+                    "year": 1940,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1940.01.01"
+                },
+                "endDate": {
+                    "year": 1945,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1945.01.01"
+                },
+                "numberOfPeople": "400"
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1120",
+        "name": "Békés",
+        "coordinates": {
+            "lat": "46.697",
+            "lng": "21.20386"
+        },
+        "mainPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8024",
+                "priestID": "5d6385f3f250a816135d1009",
+                "priestName": "Hegyesi Botond",
+                "startDate": {
+                    "year": 1970,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1970.01.01"
+                },
+                "endDate": {
+                    "year": 1995,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1995.01.01"
+                },
+                "numberOfPeople": "23"
+            }
+        ]
+    },
+    {
+        "ID": "5d6385f3f250a816135d1121",
+        "name": "Békéscsaba",
+        "coordinates": {
+            "lat": "46.6777",
+            "lng": "21.088"
+        },
+        "mainPriests": [
+            {
+                "ID": "5d6385f3f250a816135d8025",
+                "priestID": "5d6385f3f250a816135d1009",
+                "priestName": "Hegyesi Botond",
+                "startDate": {
+                    "year": 1965,
+                    "month": 1,
+                    "day": 2,
+                    "comment": "1965.01.02"
+                },
+                "endDate": {
+                    "year": 1970,
+                    "month": 1,
+                    "day": 1,
+                    "comment": "1970.01.01"
+                },
+                "numberOfPeople": "462"
+            }
+        ]
+    }
+]

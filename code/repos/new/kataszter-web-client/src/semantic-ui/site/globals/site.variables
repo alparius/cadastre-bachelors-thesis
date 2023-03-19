@@ -1,0 +1,28 @@
+/*******************************
+     User Global Variables
+*******************************/
+/*Colors*/
+@soulmind-purple: #6435c9;
+@soulmind-black: #1d1d1d;
+@soulmind-berry: #7e316b;
+@soulmind-red: #bd2102;
+@soulmind-blue: #3666a6;
+@soulmind-powderwhite: #fffdf7;
+@soulmind-white: #fafafa;
+@soulmind-lightpurple: #8789C0;
+@soulmind-darkblue: #23416A;
+
+/*changing default colors*/
+
+/*@white: @soulmind-powderwhite;*/
+@black: @soulmind-black;
+@violet: @soulmind-purple;
+@purple: @soulmind-lightpurple;
+@blue: @soulmind-blue;
+@primaryColor: @soulmind-purple;
+@secondaryColor: @soulmind-lightpurple;
+@pageBackground: @soulmind-white;
+
+/*changing fonts*/
+
+@fontName: 'Source Sans Pro';

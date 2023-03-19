@@ -1,0 +1,161 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardRowPlacementDropDown element should render a dropdown list if there is no error and data is available 1`] = `
+<form
+  className="ui form"
+  onSubmit={[Function]}
+>
+  <div
+    className="inline field"
+  >
+    <b>
+      Parish
+      :
+    </b>
+     
+    <div
+      aria-expanded={false}
+      className="ui fluid search selection scrolling dropdown"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onMouseDown={[Function]}
+      role="combobox"
+    >
+      <input
+        aria-autocomplete="list"
+        autoComplete="off"
+        className="search"
+        onChange={[Function]}
+        style={
+          Object {
+            "width": undefined,
+          }
+        }
+        tabIndex={0}
+        type="text"
+        value=""
+      />
+      <div
+        aria-atomic={true}
+        aria-live="polite"
+        className="default text"
+        role="alert"
+      >
+        Select from the list
+      </div>
+      <i
+        aria-hidden="true"
+        className="dropdown icon"
+        onClick={[Function]}
+      />
+      <div
+        className="menu transition"
+        role="listbox"
+      >
+        <div
+          aria-checked={false}
+          aria-selected={true}
+          className="selected item"
+          onClick={[Function]}
+          role="option"
+          style={
+            Object {
+              "pointerEvents": "all",
+            }
+          }
+        >
+          <span
+            className="text"
+          >
+            name
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</form>
+`;
+
+exports[`CardRowPlacementDropDown element should render a label if its not in editmode 1`] = `
+<form
+  className="ui form"
+  onSubmit={[Function]}
+>
+  <div
+    className="inline field"
+  >
+    <b>
+      Parish
+      :
+    </b>
+     
+    test
+  </div>
+</form>
+`;
+
+exports[`CardRowPlacementDropDown element should render a label if the data is loading 1`] = `
+<form
+  className="ui form"
+  onSubmit={[Function]}
+>
+  <div
+    className="inline field"
+  >
+    <b>
+      Parish
+      :
+    </b>
+     
+    <div
+      className="ui active inline loader"
+    />
+  </div>
+</form>
+`;
+
+exports[`CardRowPlacementDropDown element should render a label if the response is empty 1`] = `
+<form
+  className="ui form"
+  onSubmit={[Function]}
+>
+  <div
+    className="inline field"
+  >
+    <b>
+      Parish
+      :
+    </b>
+     
+    <div
+      className="ui negative message"
+    >
+      Could not estabilish server connection.
+    </div>
+  </div>
+</form>
+`;
+
+exports[`CardRowPlacementDropDown element should render a label if there is a (connection) error 1`] = `
+<form
+  className="ui form"
+  onSubmit={[Function]}
+>
+  <div
+    className="inline field"
+  >
+    <b>
+      Parish
+      :
+    </b>
+     
+    <div
+      className="ui negative message"
+    >
+      Could not estabilish server connection.
+    </div>
+  </div>
+</form>
+`;

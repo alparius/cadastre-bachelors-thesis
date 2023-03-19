@@ -1,0 +1,434 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchParishesContainer element should render a card group when the parishes array is not empty 1`] = `
+Array [
+  <h2
+    className="ui header"
+  >
+    1
+     
+    Parishes found matching your search
+  </h2>,
+  <div
+    className="ui doubling stackable two cards"
+  >
+    <a
+      aria-current={null}
+      className="ui fluid card"
+      href="/parishes/profile/1"
+      onClick={[Function]}
+    >
+      <div
+        className="content"
+      >
+        <div
+          className="header"
+        >
+          <h2
+            className="ui header"
+          >
+            name
+            <span
+              style={
+                Object {
+                  "float": "right",
+                }
+              }
+            >
+              <i
+                aria-hidden="true"
+                className="green check circle outline fitted icon"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+              />
+            </span>
+          </h2>
+        </div>
+        <div
+          className="description"
+        >
+          <div
+            className="content"
+          >
+            Number of priests
+            : 
+            12
+            <br />
+            Town
+            : 
+            Test city
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>,
+  <div
+    className="ui center aligned container"
+    style={
+      Object {
+        "marginTop": "3em",
+      }
+    }
+  >
+    <div
+      aria-label="Pagination Navigation"
+      className="ui pagination menu"
+      role="navigation"
+    >
+      <a
+        aria-current={false}
+        aria-disabled={false}
+        aria-label="First item"
+        className="item"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        tabIndex={0}
+        type="firstItem"
+        value={1}
+      >
+        «
+      </a>
+      <a
+        aria-current={false}
+        aria-disabled={false}
+        aria-label="Previous item"
+        className="item"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        tabIndex={0}
+        type="prevItem"
+        value={1}
+      >
+        ⟨
+      </a>
+      <a
+        aria-current={true}
+        aria-disabled={false}
+        className="active item"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        tabIndex={0}
+        type="pageItem"
+        value={1}
+      >
+        1
+      </a>
+      <a
+        aria-current={false}
+        aria-disabled={false}
+        aria-label="Next item"
+        className="item"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        tabIndex={0}
+        type="nextItem"
+        value={1}
+      >
+        ⟩
+      </a>
+      <a
+        aria-current={false}
+        aria-disabled={false}
+        aria-label="Last item"
+        className="item"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        tabIndex={0}
+        type="lastItem"
+        value={1}
+      >
+        »
+      </a>
+    </div>
+  </div>,
+]
+`;
+
+exports[`SearchParishesContainer element should render a placeholder card and a message when the parishes array is empty 1`] = `
+Array [
+  <div
+    className="ui fluid card"
+    onClick={[Function]}
+  >
+    <div
+      className="content"
+    >
+      <div
+        className="header"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="header"
+          >
+            <div
+              className="line"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        className="description"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line"
+          />
+          <div
+            className="line"
+          />
+          <div
+            className="line"
+          />
+          <div
+            className="line"
+          />
+          <div
+            className="line"
+          />
+          <div
+            className="line"
+          />
+        </div>
+      </div>
+    </div>
+  </div>,
+  <h2
+    className="ui header"
+  >
+    No results were found for your search. Try widening the search criterias.
+  </h2>,
+]
+`;
+
+exports[`SearchParishesContainer element should render a placeholder card when only loading is true 1`] = `
+<div
+  className="ui fluid card"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="header"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="header"
+        >
+          <div
+            className="line"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`SearchParishesContainer element should render a placeholder card when only loading is true, for map view 1`] = `
+<div
+  className="ui fluid card"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="header"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="header"
+        >
+          <div
+            className="line"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`SearchParishesContainer element should render an error message when showError and loading are both true 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "marginTop": "7em",
+    }
+  }
+>
+  <h2
+    className="ui header red"
+  >
+    Could not estabilish server connection.
+  </h2>
+  <h3
+    className="ui header"
+  >
+    <a
+      aria-current="page"
+      className="hoverLink active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      Back to the Home Page
+    </a>
+  </h3>
+</div>
+`;
+
+exports[`SearchParishesContainer element should render an error message when showError and loading are both true, for map view 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "marginTop": "7em",
+    }
+  }
+>
+  <h2
+    className="ui header red"
+  >
+    Could not estabilish server connection.
+  </h2>
+  <h3
+    className="ui header"
+  >
+    <a
+      aria-current="page"
+      className="hoverLink active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      Back to the Home Page
+    </a>
+  </h3>
+</div>
+`;
+
+exports[`SearchParishesContainer element should render an error message when showError is true 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "marginTop": "7em",
+    }
+  }
+>
+  <h2
+    className="ui header red"
+  >
+    Could not estabilish server connection.
+  </h2>
+  <h3
+    className="ui header"
+  >
+    <a
+      aria-current="page"
+      className="hoverLink active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      Back to the Home Page
+    </a>
+  </h3>
+</div>
+`;
+
+exports[`SearchParishesContainer element should render an error message when showError is true, for map view 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "marginTop": "7em",
+    }
+  }
+>
+  <h2
+    className="ui header red"
+  >
+    Could not estabilish server connection.
+  </h2>
+  <h3
+    className="ui header"
+  >
+    <a
+      aria-current="page"
+      className="hoverLink active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      Back to the Home Page
+    </a>
+  </h3>
+</div>
+`;

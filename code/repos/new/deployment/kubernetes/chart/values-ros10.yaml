@@ -1,0 +1,20 @@
+backend:
+  config:
+    dbImportType: dev
+    email:
+      address: lelkesz.kataszter@gmail.com
+      password:
+    recaptchaSecretkey:
+  image:
+    tag: v1.0.0-beta
+
+frontend:
+  image:
+    tag: v1.0.0-beta
+
+mongodb:
+  auth:
+    rootPassword:
+    username: kataszter-user
+    password:
+    replicaSetKey:

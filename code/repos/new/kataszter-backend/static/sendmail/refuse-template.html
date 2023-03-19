@@ -1,0 +1,17 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+</head>
+
+<body>
+    <h3>Üdv, {{.User.Name}}!</h3>
+    <p>Az ön hozzáférési kérése a <b>Lelkész Kataszter</b> oldalhoz sajnos visszautasításra került.</p>
+
+    <p>{{if ne .Message ""}}A döntéshozó adminisztrátor válasza: "<i>{{.Message}}</i>".{{end}}</p>
+
+    <p>További minden jót,<br />a Lelkész Kataszter csapata</p>
+
+</body>
+
+</html>

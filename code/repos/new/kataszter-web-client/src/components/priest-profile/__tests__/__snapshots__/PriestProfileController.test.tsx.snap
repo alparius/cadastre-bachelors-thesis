@@ -1,0 +1,211 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PriestProfileController element should render the form with menu with upper shifting when editMode=ture 1`] = `
+<form
+  className="ui form"
+  onSubmit={[Function]}
+>
+  <h1
+    className="ui header controllerHeader"
+  >
+    Priest profile
+  </h1>
+  <div
+    className="ui violet huge fluid secondary vertical menu"
+  >
+    <a
+      className="active item"
+      id="general"
+      onClick={[Function]}
+      value="general"
+    >
+      General data
+    </a>
+    <a
+      className="item"
+      id="family"
+      onClick={[Function]}
+      value="family"
+    >
+      Family
+    </a>
+    <a
+      className="item"
+      id="qualification"
+      onClick={[Function]}
+      value="qualification"
+    >
+      Qualifications
+    </a>
+    <a
+      className="item"
+      id="placements"
+      onClick={[Function]}
+      value="placements"
+    >
+      Placements
+    </a>
+    <a
+      className="item"
+      id="occupations"
+      onClick={[Function]}
+      value="occupations"
+    >
+      Occupations
+    </a>
+    <a
+      className="item"
+      id="disciplinaryMatters"
+      onClick={[Function]}
+      value="disciplinaryMatters"
+    >
+      Disciplinary matters
+    </a>
+    <a
+      className="item"
+      id="pathOfLife"
+      onClick={[Function]}
+      value="pathOfLife"
+    >
+      Path of life
+    </a>
+    <a
+      className="item"
+      id="references"
+      onClick={[Function]}
+      value="references"
+    >
+      References
+    </a>
+    <div
+      className="disabled item"
+      id="pictures"
+      onClick={[Function]}
+      value="pictures"
+    >
+      Pictures
+    </div>
+    <div
+      className="disabled item"
+      id="files"
+      onClick={[Function]}
+      value="files"
+    >
+      Files
+    </div>
+    <a
+      className="item"
+      id="notes"
+      onClick={[Function]}
+      value="notes"
+    >
+      Notes
+    </a>
+  </div>
+</form>
+`;
+
+exports[`PriestProfileController element should render the form with menu without upper shifting when editMode=false 1`] = `
+<form
+  className="ui form"
+  onSubmit={[Function]}
+>
+  <h1
+    className="ui header controllerHeader"
+  >
+    Priest profile
+  </h1>
+  <div
+    className="ui violet huge fluid secondary vertical menu"
+  >
+    <a
+      className="active item"
+      id="general"
+      onClick={[Function]}
+      value="general"
+    >
+      General data
+    </a>
+    <a
+      className="item"
+      id="family"
+      onClick={[Function]}
+      value="family"
+    >
+      Family
+    </a>
+    <a
+      className="item"
+      id="qualification"
+      onClick={[Function]}
+      value="qualification"
+    >
+      Qualifications
+    </a>
+    <a
+      className="item"
+      id="placements"
+      onClick={[Function]}
+      value="placements"
+    >
+      Placements
+    </a>
+    <a
+      className="item"
+      id="occupations"
+      onClick={[Function]}
+      value="occupations"
+    >
+      Occupations
+    </a>
+    <a
+      className="item"
+      id="disciplinaryMatters"
+      onClick={[Function]}
+      value="disciplinaryMatters"
+    >
+      Disciplinary matters
+    </a>
+    <a
+      className="item"
+      id="pathOfLife"
+      onClick={[Function]}
+      value="pathOfLife"
+    >
+      Path of life
+    </a>
+    <a
+      className="item"
+      id="references"
+      onClick={[Function]}
+      value="references"
+    >
+      References
+    </a>
+    <div
+      className="disabled item"
+      id="pictures"
+      onClick={[Function]}
+      value="pictures"
+    >
+      Pictures
+    </div>
+    <div
+      className="disabled item"
+      id="files"
+      onClick={[Function]}
+      value="files"
+    >
+      Files
+    </div>
+    <a
+      className="item"
+      id="notes"
+      onClick={[Function]}
+      value="notes"
+    >
+      Notes
+    </a>
+  </div>
+</form>
+`;

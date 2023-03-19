@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DateInput element should render a form 1`] = `
+<form
+  className="ui form"
+  onSubmit={[Function]}
+>
+  <div
+    className="inline unstackable fields"
+    style={
+      Object {
+        "marginBottom": "-2px",
+      }
+    }
+  >
+    <div
+      className="field"
+    >
+      <b
+        style={Object {}}
+      >
+        year
+      </b>
+      <div
+        className="ui fluid input"
+        style={
+          Object {
+            "width": "6em",
+          }
+        }
+      >
+        <input
+          id=""
+          name="year"
+          onChange={[Function]}
+          type="number"
+          value={2000}
+        />
+      </div>
+    </div>
+    <div
+      className="field"
+    >
+      <b
+        style={Object {}}
+      >
+        month
+      </b>
+      <div
+        className="ui fluid input"
+        style={
+          Object {
+            "width": "5em",
+          }
+        }
+      >
+        <input
+          id=""
+          name="month"
+          onChange={[Function]}
+          type="number"
+          value={6}
+        />
+      </div>
+    </div>
+    <div
+      className="field"
+    >
+      <b
+        style={Object {}}
+      >
+        day
+      </b>
+      <div
+        className="ui fluid input"
+        style={
+          Object {
+            "width": "5em",
+          }
+        }
+      >
+        <input
+          id=""
+          name="day"
+          onChange={[Function]}
+          type="number"
+          value={6}
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <i
+      style={
+        Object {
+          "color": "gray",
+        }
+      }
+    >
+      comment about date (optional)
+    </i>
+    <div
+      className="ui fluid input"
+    >
+      <input
+        id="grey"
+        name="comment"
+        onChange={[Function]}
+        type="text"
+        value="2000.06.06"
+      />
+    </div>
+  </div>
+</form>
+`;
+
+exports[`DateInput element should render an error message too on bad input 1`] = `ReactWrapper {}`;

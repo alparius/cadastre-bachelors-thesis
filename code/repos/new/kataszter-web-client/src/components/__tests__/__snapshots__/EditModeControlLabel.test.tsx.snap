@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EditModeControlLabel element should render a EditModeControlLabel container 1`] = `
+<div
+  className="ui tertiary segment"
+  id="editControlLabelComputer"
+>
+  <div
+    className="ui stackable two column grid"
+  >
+    <div
+      className="middle aligned column"
+      id="editModeText"
+    >
+      You are in edit mode.
+    </div>
+    <div
+      className="column"
+    >
+      <div
+        className="ui two column grid"
+      >
+        <div
+          className="column"
+        >
+          <button
+            className="ui violet fluid button"
+            id="saveChanges"
+            onClick={[Function]}
+          >
+            Save Changes
+          </button>
+        </div>
+        <div
+          className="column"
+        >
+          <button
+            className="ui grey fluid button"
+            id="revertChanges"
+            onClick={[Function]}
+            value={false}
+          >
+            Cancel
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

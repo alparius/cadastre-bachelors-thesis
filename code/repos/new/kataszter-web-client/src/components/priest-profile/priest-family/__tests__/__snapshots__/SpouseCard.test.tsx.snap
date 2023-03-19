@@ -1,0 +1,1151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SpouseCard element should render a card with the spouse data 1`] = `
+<div
+  className="ui fluid card"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="content"
+    >
+      <div
+        className="header"
+        id="header"
+      >
+        <h2
+          className="ui header"
+        >
+          Házastárs
+        </h2>
+      </div>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="ui list"
+        role="list"
+      >
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Date of birth
+                :
+              </b>
+               
+              <span
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+              >
+                2000.06.06
+              </span>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Date of marriage
+                :
+              </b>
+               
+              <span
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+              >
+                2000.06.06
+              </span>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Job
+                :
+              </b>
+               
+              Szavazati joggal rendelkező
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Father
+                :
+              </b>
+               
+              Lajos
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Mother
+                :
+              </b>
+               
+              Laci
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`SpouseCard element should render a card with the spouse data editable 1`] = `
+<div
+  className="ui fluid card"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="content"
+    >
+      <button
+        className="ui red icon inverted right floated button"
+        id="deleteButton"
+        onClick={[Function]}
+      >
+        <i
+          aria-hidden="true"
+          className="trash icon"
+          onClick={[Function]}
+        />
+      </button>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="ui list"
+        role="list"
+      >
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Full name
+                :
+              </b>
+               
+              <div
+                className="ui small fluid input"
+              >
+                <input
+                  onChange={[Function]}
+                  type="text"
+                  value="Házastárs"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Date of birth
+                :
+              </b>
+               
+              <form
+                className="ui form"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="inline unstackable fields"
+                  style={
+                    Object {
+                      "marginBottom": "-2px",
+                    }
+                  }
+                >
+                  <div
+                    className="field"
+                  >
+                    <b
+                      style={Object {}}
+                    >
+                      year
+                    </b>
+                    <div
+                      className="ui fluid input"
+                      style={
+                        Object {
+                          "width": "6em",
+                        }
+                      }
+                    >
+                      <input
+                        id=""
+                        name="year"
+                        onChange={[Function]}
+                        type="number"
+                        value={2000}
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="field"
+                  >
+                    <b
+                      style={Object {}}
+                    >
+                      month
+                    </b>
+                    <div
+                      className="ui fluid input"
+                      style={
+                        Object {
+                          "width": "5em",
+                        }
+                      }
+                    >
+                      <input
+                        id=""
+                        name="month"
+                        onChange={[Function]}
+                        type="number"
+                        value={6}
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="field"
+                  >
+                    <b
+                      style={Object {}}
+                    >
+                      day
+                    </b>
+                    <div
+                      className="ui fluid input"
+                      style={
+                        Object {
+                          "width": "5em",
+                        }
+                      }
+                    >
+                      <input
+                        id=""
+                        name="day"
+                        onChange={[Function]}
+                        type="number"
+                        value={6}
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="field"
+                >
+                  <i
+                    style={
+                      Object {
+                        "color": "gray",
+                      }
+                    }
+                  >
+                    comment about date (optional)
+                  </i>
+                  <div
+                    className="ui fluid input"
+                  >
+                    <input
+                      id="grey"
+                      name="comment"
+                      onChange={[Function]}
+                      type="text"
+                      value="2000.06.06"
+                    />
+                  </div>
+                </div>
+              </form>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Date of marriage
+                :
+              </b>
+               
+              <form
+                className="ui form"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="inline unstackable fields"
+                  style={
+                    Object {
+                      "marginBottom": "-2px",
+                    }
+                  }
+                >
+                  <div
+                    className="field"
+                  >
+                    <b
+                      style={Object {}}
+                    >
+                      year
+                    </b>
+                    <div
+                      className="ui fluid input"
+                      style={
+                        Object {
+                          "width": "6em",
+                        }
+                      }
+                    >
+                      <input
+                        id=""
+                        name="year"
+                        onChange={[Function]}
+                        type="number"
+                        value={2000}
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="field"
+                  >
+                    <b
+                      style={Object {}}
+                    >
+                      month
+                    </b>
+                    <div
+                      className="ui fluid input"
+                      style={
+                        Object {
+                          "width": "5em",
+                        }
+                      }
+                    >
+                      <input
+                        id=""
+                        name="month"
+                        onChange={[Function]}
+                        type="number"
+                        value={6}
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="field"
+                  >
+                    <b
+                      style={Object {}}
+                    >
+                      day
+                    </b>
+                    <div
+                      className="ui fluid input"
+                      style={
+                        Object {
+                          "width": "5em",
+                        }
+                      }
+                    >
+                      <input
+                        id=""
+                        name="day"
+                        onChange={[Function]}
+                        type="number"
+                        value={6}
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="field"
+                >
+                  <i
+                    style={
+                      Object {
+                        "color": "gray",
+                      }
+                    }
+                  >
+                    comment about date (optional)
+                  </i>
+                  <div
+                    className="ui fluid input"
+                  >
+                    <input
+                      id="grey"
+                      name="comment"
+                      onChange={[Function]}
+                      type="text"
+                      value="2000.06.06"
+                    />
+                  </div>
+                </div>
+              </form>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Job
+                :
+              </b>
+               
+              <div
+                className="ui small fluid input"
+              >
+                <input
+                  onChange={[Function]}
+                  type="text"
+                  value="Szavazati joggal rendelkező"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Father
+                :
+              </b>
+               
+              <div
+                className="ui small fluid input"
+              >
+                <input
+                  onChange={[Function]}
+                  type="text"
+                  value="Lajos"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Mother
+                :
+              </b>
+               
+              <div
+                className="ui small fluid input"
+              >
+                <input
+                  onChange={[Function]}
+                  type="text"
+                  value="Laci"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`SpouseCard element should render a card with with the spouse data and \`empty edit field\` for missing fields 1`] = `
+<div
+  className="ui fluid card"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="content"
+    >
+      <button
+        className="ui red icon inverted right floated button"
+        id="deleteButton"
+        onClick={[Function]}
+      >
+        <i
+          aria-hidden="true"
+          className="trash icon"
+          onClick={[Function]}
+        />
+      </button>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="ui list"
+        role="list"
+      >
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Full name
+                :
+              </b>
+               
+              <div
+                className="ui small fluid input"
+              >
+                <input
+                  onChange={[Function]}
+                  type="text"
+                  value="Házastárs"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Date of birth
+                :
+              </b>
+               
+              <form
+                className="ui form"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="inline unstackable fields"
+                  style={
+                    Object {
+                      "marginBottom": "-2px",
+                    }
+                  }
+                >
+                  <div
+                    className="field"
+                  >
+                    <b
+                      style={Object {}}
+                    >
+                      year
+                    </b>
+                    <div
+                      className="ui fluid input"
+                      style={
+                        Object {
+                          "width": "6em",
+                        }
+                      }
+                    >
+                      <input
+                        id=""
+                        name="year"
+                        onChange={[Function]}
+                        type="number"
+                        value={2000}
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="field"
+                  >
+                    <b
+                      style={Object {}}
+                    >
+                      month
+                    </b>
+                    <div
+                      className="ui fluid input"
+                      style={
+                        Object {
+                          "width": "5em",
+                        }
+                      }
+                    >
+                      <input
+                        id=""
+                        name="month"
+                        onChange={[Function]}
+                        type="number"
+                        value={6}
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="field"
+                  >
+                    <b
+                      style={Object {}}
+                    >
+                      day
+                    </b>
+                    <div
+                      className="ui fluid input"
+                      style={
+                        Object {
+                          "width": "5em",
+                        }
+                      }
+                    >
+                      <input
+                        id=""
+                        name="day"
+                        onChange={[Function]}
+                        type="number"
+                        value={6}
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="field"
+                >
+                  <i
+                    style={
+                      Object {
+                        "color": "gray",
+                      }
+                    }
+                  >
+                    comment about date (optional)
+                  </i>
+                  <div
+                    className="ui fluid input"
+                  >
+                    <input
+                      id="grey"
+                      name="comment"
+                      onChange={[Function]}
+                      type="text"
+                      value="2000.06.06"
+                    />
+                  </div>
+                </div>
+              </form>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Date of marriage
+                :
+              </b>
+               
+              <form
+                className="ui form"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="inline unstackable fields"
+                  style={
+                    Object {
+                      "marginBottom": "-2px",
+                    }
+                  }
+                >
+                  <div
+                    className="field"
+                  >
+                    <b
+                      style={Object {}}
+                    >
+                      year
+                    </b>
+                    <div
+                      className="ui fluid input"
+                      style={
+                        Object {
+                          "width": "6em",
+                        }
+                      }
+                    >
+                      <input
+                        id=""
+                        name="year"
+                        onChange={[Function]}
+                        type="number"
+                        value={2000}
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="field"
+                  >
+                    <b
+                      style={Object {}}
+                    >
+                      month
+                    </b>
+                    <div
+                      className="ui fluid input"
+                      style={
+                        Object {
+                          "width": "5em",
+                        }
+                      }
+                    >
+                      <input
+                        id=""
+                        name="month"
+                        onChange={[Function]}
+                        type="number"
+                        value={6}
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="field"
+                  >
+                    <b
+                      style={Object {}}
+                    >
+                      day
+                    </b>
+                    <div
+                      className="ui fluid input"
+                      style={
+                        Object {
+                          "width": "5em",
+                        }
+                      }
+                    >
+                      <input
+                        id=""
+                        name="day"
+                        onChange={[Function]}
+                        type="number"
+                        value={6}
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="field"
+                >
+                  <i
+                    style={
+                      Object {
+                        "color": "gray",
+                      }
+                    }
+                  >
+                    comment about date (optional)
+                  </i>
+                  <div
+                    className="ui fluid input"
+                  >
+                    <input
+                      id="grey"
+                      name="comment"
+                      onChange={[Function]}
+                      type="text"
+                      value="2000.06.06"
+                    />
+                  </div>
+                </div>
+              </form>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Job
+                :
+              </b>
+               
+              <div
+                className="ui small fluid input"
+              >
+                <input
+                  onChange={[Function]}
+                  type="text"
+                  value=""
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Father
+                :
+              </b>
+               
+              <div
+                className="ui small fluid input"
+              >
+                <input
+                  onChange={[Function]}
+                  type="text"
+                  value="Lajos"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Mother
+                :
+              </b>
+               
+              <div
+                className="ui small fluid input"
+              >
+                <input
+                  onChange={[Function]}
+                  type="text"
+                  value="Laci"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`SpouseCard element should render a card with with the spouse data and NO labels for missing fields 1`] = `
+<div
+  className="ui fluid card"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="content"
+    >
+      <div
+        className="header"
+        id="header"
+      >
+        <h2
+          className="ui header"
+        >
+          Házastárs
+        </h2>
+      </div>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="ui list"
+        role="list"
+      >
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Date of birth
+                :
+              </b>
+               
+              <span
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+              >
+                2000.06.06
+              </span>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Date of marriage
+                :
+              </b>
+               
+              <span
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+              >
+                2000.06.06
+              </span>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Job
+                :
+              </b>
+               
+              <i>
+                No data
+              </i>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Father
+                :
+              </b>
+               
+              Lajos
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Mother
+                :
+              </b>
+               
+              Laci
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

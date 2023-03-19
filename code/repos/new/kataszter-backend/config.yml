@@ -1,0 +1,17 @@
+database_url: "mongodb://localhost:27017"
+database_name: "kataszter"
+
+web_access_port: ":8080"
+
+smtp_host: "smtp.gmail.com"
+smtp_port: "587"
+email_address: "lelkesz.kataszter@gmail.com"
+email_password: "[secret]"
+
+recaptcha_secretkey: "[secret]"
+
+# dev - demo data
+# prod - production data
+# mysql_prod - generate MongoDB collections from MySQL
+# <other> - no import, using current database state
+database_import_type: "dev"

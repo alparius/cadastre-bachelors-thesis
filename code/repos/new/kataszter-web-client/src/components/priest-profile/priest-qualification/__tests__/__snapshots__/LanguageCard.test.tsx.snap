@@ -1,0 +1,251 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PriestCard element should render a card with noData label when the language is empty 1`] = `
+<div
+  className="ui fluid card"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="content"
+    >
+      <div
+        className="header"
+        id="header"
+      >
+        <h2
+          className="ui header"
+        >
+          Writing skills
+        </h2>
+      </div>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="ui list"
+        role="list"
+      >
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Well
+                :
+              </b>
+               
+              <div
+                className="ui small fluid input"
+              >
+                <input
+                  name="well"
+                  onChange={[Function]}
+                  type="text"
+                  value=""
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Medium
+                :
+              </b>
+               
+              <div
+                className="ui small fluid input"
+              >
+                <input
+                  name="medium"
+                  onChange={[Function]}
+                  type="text"
+                  value=""
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Less
+                :
+              </b>
+               
+              <div
+                className="ui small fluid input"
+              >
+                <input
+                  name="less"
+                  onChange={[Function]}
+                  type="text"
+                  value=""
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`PriestCard element should render a card with the language data 1`] = `
+<div
+  className="ui fluid card"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <div
+      className="content"
+    >
+      <div
+        className="header"
+        id="header"
+      >
+        <h2
+          className="ui header"
+        >
+          Writing skills
+        </h2>
+      </div>
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="ui list"
+        role="list"
+      >
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Well
+                :
+              </b>
+               
+              <div
+                className="ui small fluid input"
+              >
+                <input
+                  name="well"
+                  onChange={[Function]}
+                  type="text"
+                  value="magyar"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Medium
+                :
+              </b>
+               
+              <div
+                className="ui small fluid input"
+              >
+                <input
+                  name="medium"
+                  onChange={[Function]}
+                  type="text"
+                  value="román"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+        <div
+          className="item"
+          onClick={[Function]}
+          role="listitem"
+        >
+          <form
+            className="ui form"
+            onSubmit={[Function]}
+          >
+            <div
+              className="inline field"
+            >
+              <b>
+                Less
+                :
+              </b>
+               
+              <div
+                className="ui small fluid input"
+              >
+                <input
+                  name="less"
+                  onChange={[Function]}
+                  type="text"
+                  value="német"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,120 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchParishesController element should render the form with search input fields 1`] = `
+<form
+  className="ui form"
+  onSubmit={[Function]}
+>
+  <h1
+    className="ui header controllerHeader"
+  >
+    Search parishes
+  </h1>
+  <div
+    className="ui grid"
+  >
+    <div
+      className="two column row"
+      style={
+        Object {
+          "marginBottom": "1.5em",
+          "marginTop": "1.5em",
+        }
+      }
+      unstackable={true}
+    >
+      <div
+        className="right aligned column"
+      >
+        <b>
+          List view
+        </b>
+      </div>
+      <div
+        className="left aligned column"
+      >
+        <div
+          className="field"
+        >
+          <div
+            className="ui checked fitted toggle checkbox"
+            onChange={[Function]}
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onMouseUp={[Function]}
+          >
+            <input
+              checked={true}
+              className="hidden"
+              id="listView"
+              name="toggleListView"
+              readOnly={true}
+              tabIndex={0}
+              type="checkbox"
+            />
+            <label
+              htmlFor="listView"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <label
+      htmlFor="name"
+    >
+      Name
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        id="name"
+        name="parishName"
+        onChange={[Function]}
+        type="text"
+        value=""
+      />
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <label
+      htmlFor="city"
+    >
+      Town
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        id="city"
+        name="cityName"
+        onChange={[Function]}
+        type="text"
+        value=""
+      />
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <label>
+      Minimum number of priests
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        name="minSize"
+        onChange={[Function]}
+        type="number"
+      />
+    </div>
+  </div>
+</form>
+`;

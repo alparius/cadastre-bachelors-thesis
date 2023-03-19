@@ -1,0 +1,18 @@
+[
+    {
+        "ID": {
+            "$oid": "5d68db03723a699fc018b1f9"
+        },
+        "title": "A fejlődésről (március)",
+        "content": "A fejlesztés nagy ütemben halad. Bekerült a gyülekezetek térképe és több más apróság is.",
+        "date": "2020-03-15T14:50:36+03:00"
+    },
+    {
+        "ID": {
+            "$oid": "5d68db03723a699fc018b200"
+        },
+        "title": "A fejlődésről (április)",
+        "content": "Mostantól elérhetőek a híroldal és az ábrakészítő funkcionalitások.",
+        "date": "2020-04-15T14:50:36+03:00"
+    }
+]

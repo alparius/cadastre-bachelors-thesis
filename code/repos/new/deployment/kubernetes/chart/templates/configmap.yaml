@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: {{ .Values.backend.name }}
+data:
+  DATABASE_URL: "mongodb://\
+    {{ .Values.mongodb.auth.username }}:{{ .Values.mongodb.auth.password }}@\
+    kataszter-mongodb-0.kataszter-mongodb-headless:27017,\
+    kataszter-mongodb-1.kataszter-mongodb-headless:27017/\
+    {{ .Values.mongodb.auth.database }}"
+  DATABASE_NAME: {{ .Values.mongodb.auth.database | quote }}
+  DATABASE_IMPORT_TYPE: {{ .Values.backend.config.dbImportType | quote }}
+  WEB_ACCESS_PORT: ":{{ .Values.backend.image.containerPort }}"
+  SMTP_HOST: {{ .Values.backend.config.smtp.host | quote }}
+  SMTP_PORT: {{ .Values.backend.config.smtp.port | quote }}
+  EMAIL_ADDRESS: {{ .Values.backend.config.email.address | quote }}
+  EMAIL_PASSWORD: {{ .Values.backend.config.email.password | quote }}
+  RECAPTCHA_SECRETKEY: {{ .Values.backend.config.recaptchaSecretkey | quote }}
+  GIN_MODE: "release"

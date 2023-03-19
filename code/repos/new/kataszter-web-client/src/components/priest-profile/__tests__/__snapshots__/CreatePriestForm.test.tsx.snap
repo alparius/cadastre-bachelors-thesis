@@ -1,0 +1,456 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CreatePriestForm element should render a form 1`] = `
+<form
+  className="ui form"
+  onSubmit={[Function]}
+>
+  <div
+    className="field"
+  >
+    <label>
+      Full name *
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        name="name"
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <b>
+      Date of birth
+    </b>
+    <b>
+       *
+    </b>
+    <form
+      className="ui form"
+      onSubmit={[Function]}
+    >
+      <div
+        className="inline unstackable fields"
+        style={
+          Object {
+            "marginBottom": "-2px",
+          }
+        }
+      >
+        <div
+          className="field"
+        >
+          <b
+            style={Object {}}
+          >
+            year
+          </b>
+          <div
+            className="ui fluid input"
+            style={
+              Object {
+                "width": "6em",
+              }
+            }
+          >
+            <input
+              id=""
+              name="year"
+              onChange={[Function]}
+              type="number"
+              value={2000}
+            />
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <b
+            style={Object {}}
+          >
+            month
+          </b>
+          <div
+            className="ui fluid input"
+            style={
+              Object {
+                "width": "5em",
+              }
+            }
+          >
+            <input
+              id=""
+              name="month"
+              onChange={[Function]}
+              type="number"
+              value={6}
+            />
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <b
+            style={Object {}}
+          >
+            day
+          </b>
+          <div
+            className="ui fluid input"
+            style={
+              Object {
+                "width": "5em",
+              }
+            }
+          >
+            <input
+              id=""
+              name="day"
+              onChange={[Function]}
+              type="number"
+              value={6}
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        className="field"
+      >
+        <i
+          style={
+            Object {
+              "color": "gray",
+            }
+          }
+        >
+          comment about date (optional)
+        </i>
+        <div
+          className="ui fluid input"
+        >
+          <input
+            id="grey"
+            name="comment"
+            onChange={[Function]}
+            type="text"
+            value="2000.06.06"
+          />
+        </div>
+      </div>
+    </form>
+  </div>
+  <div
+    className="field"
+  >
+    <label>
+      Town of birth *
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        name="birthTown"
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <label>
+      County of birth
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        name="birthCounty"
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <label>
+      Diocese
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        name="diocese"
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <label>
+      Country of birth
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        name="birthCountry"
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+  </div>
+  <button
+    className="ui button ui violet button"
+    onClick={[Function]}
+    type="submit"
+  >
+    Add new priest
+  </button>
+  <button
+    className="ui button ui button"
+    onClick={[Function]}
+    type="reset"
+  >
+    Reset
+  </button>
+</form>
+`;
+
+exports[`CreatePriestForm element should render a message too when there is a response 1`] = `
+<form
+  className="ui form"
+  onSubmit={[Function]}
+>
+  <div
+    className="ui negative message"
+  >
+    info.test
+  </div>
+  <div
+    className="field"
+  >
+    <label>
+      Full name *
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        name="name"
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <b>
+      Date of birth
+    </b>
+    <b>
+       *
+    </b>
+    <form
+      className="ui form"
+      onSubmit={[Function]}
+    >
+      <div
+        className="inline unstackable fields"
+        style={
+          Object {
+            "marginBottom": "-2px",
+          }
+        }
+      >
+        <div
+          className="field"
+        >
+          <b
+            style={Object {}}
+          >
+            year
+          </b>
+          <div
+            className="ui fluid input"
+            style={
+              Object {
+                "width": "6em",
+              }
+            }
+          >
+            <input
+              id=""
+              name="year"
+              onChange={[Function]}
+              type="number"
+              value={2000}
+            />
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <b
+            style={Object {}}
+          >
+            month
+          </b>
+          <div
+            className="ui fluid input"
+            style={
+              Object {
+                "width": "5em",
+              }
+            }
+          >
+            <input
+              id=""
+              name="month"
+              onChange={[Function]}
+              type="number"
+              value={6}
+            />
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <b
+            style={Object {}}
+          >
+            day
+          </b>
+          <div
+            className="ui fluid input"
+            style={
+              Object {
+                "width": "5em",
+              }
+            }
+          >
+            <input
+              id=""
+              name="day"
+              onChange={[Function]}
+              type="number"
+              value={6}
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        className="field"
+      >
+        <i
+          style={
+            Object {
+              "color": "gray",
+            }
+          }
+        >
+          comment about date (optional)
+        </i>
+        <div
+          className="ui fluid input"
+        >
+          <input
+            id="grey"
+            name="comment"
+            onChange={[Function]}
+            type="text"
+            value="2000.06.06"
+          />
+        </div>
+      </div>
+    </form>
+  </div>
+  <div
+    className="field"
+  >
+    <label>
+      Town of birth *
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        name="birthTown"
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <label>
+      County of birth
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        name="birthCounty"
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <label>
+      Diocese
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        name="diocese"
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <label>
+      Country of birth
+    </label>
+    <div
+      className="ui input"
+    >
+      <input
+        name="birthCountry"
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+  </div>
+  <button
+    className="ui button ui violet button"
+    onClick={[Function]}
+    type="submit"
+  >
+    Add new priest
+  </button>
+  <button
+    className="ui button ui button"
+    onClick={[Function]}
+    type="reset"
+  >
+    Reset
+  </button>
+</form>
+`;

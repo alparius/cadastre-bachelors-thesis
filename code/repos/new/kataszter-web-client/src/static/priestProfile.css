@@ -1,0 +1,36 @@
+.text {
+    font-size: 16px;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+#grey {
+    color: grey;
+}
+
+#editModeText {
+    font-size: large;
+}
+
+#editControlLabelComputer {
+    z-index: 100;
+    width: 70%;
+    position: fixed;
+    left: 27%;
+    right: 3%;
+    top: 5%;
+}
+
+#editControlLabelMobile {
+    z-index: 100;
+    width: 100%;
+    right: 0%;
+    position: fixed;
+    top: 5%;
+}

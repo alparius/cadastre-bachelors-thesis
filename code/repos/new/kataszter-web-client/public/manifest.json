@@ -1,0 +1,16 @@
+{
+    "short_name": "Lelkész Kataszter",
+    "name": "Lelkész Kataszter",
+    "description": "Protestáns lelkészek és gyülekezetek interaktív adatbázisa",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "192x192",
+            "type": "image/x-icon"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}

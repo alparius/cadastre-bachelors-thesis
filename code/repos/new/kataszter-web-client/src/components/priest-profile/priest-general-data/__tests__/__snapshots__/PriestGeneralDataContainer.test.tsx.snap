@@ -1,0 +1,2161 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PriestGeneralDataContainer element should render an error message when the showError is true 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "marginTop": "7em",
+    }
+  }
+>
+  <h2
+    className="ui header red"
+  >
+    Could not estabilish server connection.
+  </h2>
+  <h3
+    className="ui header"
+  >
+    <a
+      aria-current="page"
+      className="hoverLink active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      Back to the Home Page
+    </a>
+  </h3>
+</div>
+`;
+
+exports[`PriestGeneralDataContainer element should render an error message when the showError is true 2`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "marginTop": "7em",
+    }
+  }
+>
+  <h2
+    className="ui header red"
+  >
+    Could not estabilish server connection.
+  </h2>
+  <h3
+    className="ui header"
+  >
+    <a
+      aria-current="page"
+      className="hoverLink active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      Back to the Home Page
+    </a>
+  </h3>
+</div>
+`;
+
+exports[`PriestGeneralDataContainer element should render the grid with placeholders when the loading is true 1`] = `
+Array [
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="column"
+    />
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="rectangular image"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    />
+  </div>,
+  <div
+    className="ui divider"
+  />,
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+  </div>,
+]
+`;
+
+exports[`PriestGeneralDataContainer element should render the grid with placeholders when the loading is true 2`] = `
+Array [
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="column"
+    />
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="rectangular image"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    >
+      <div
+        className="ui placeholder"
+      >
+        <div
+          className="line"
+        />
+      </div>
+    </div>
+    <div
+      className="column"
+    />
+  </div>,
+  <div
+    className="ui divider"
+  />,
+  <div
+    className="ui four column grid"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      />
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ui placeholder"
+        >
+          <div
+            className="line medium"
+          />
+        </div>
+      </div>
+      <div
+        className="column"
+      />
+    </div>
+  </div>,
+]
+`;
+
+exports[`PriestGeneralDataContainer element should render the grid with priest profile data when priest is provided with aviability to change 1`] = `
+<div
+  className="ui two column grid"
+>
+  <div
+    className="row"
+    id=""
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Full name
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="name"
+    >
+      <div
+        className="field"
+      >
+        <div
+          className="ui input"
+        >
+          <input
+            id=""
+            onChange={[Function]}
+            type="text"
+            value="Janos"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="row"
+    id="grey"
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Date of birth
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="birthDate"
+    >
+      <form
+        className="ui form"
+        onSubmit={[Function]}
+      >
+        <div
+          className="inline unstackable fields"
+          style={
+            Object {
+              "marginBottom": "-2px",
+            }
+          }
+        >
+          <div
+            className="field"
+          >
+            <b
+              style={
+                Object {
+                  "color": "gray",
+                }
+              }
+            >
+              year
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "6em",
+                }
+              }
+            >
+              <input
+                id="grey"
+                name="year"
+                onChange={[Function]}
+                type="number"
+                value={2000}
+              />
+            </div>
+          </div>
+          <div
+            className="field"
+          >
+            <b
+              style={
+                Object {
+                  "color": "gray",
+                }
+              }
+            >
+              month
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "5em",
+                }
+              }
+            >
+              <input
+                id="grey"
+                name="month"
+                onChange={[Function]}
+                type="number"
+                value={6}
+              />
+            </div>
+          </div>
+          <div
+            className="field"
+          >
+            <b
+              style={
+                Object {
+                  "color": "gray",
+                }
+              }
+            >
+              day
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "5em",
+                }
+              }
+            >
+              <input
+                id="grey"
+                name="day"
+                onChange={[Function]}
+                type="number"
+                value={6}
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <i
+            style={
+              Object {
+                "color": "gray",
+              }
+            }
+          >
+            comment about date (optional)
+          </i>
+          <div
+            className="ui fluid input"
+          >
+            <input
+              id="grey"
+              name="comment"
+              onChange={[Function]}
+              type="text"
+              value="2000.06.06"
+            />
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div
+    className="row"
+    id=""
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Country of birth
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="birthCountry"
+    >
+      <div
+        className="field"
+      >
+        <div
+          className="ui input"
+        >
+          <input
+            id=""
+            onChange={[Function]}
+            type="text"
+            value="Románia"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="row"
+    id="grey"
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        County of birth
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="birthCounty"
+    >
+      <div
+        className="field"
+      >
+        <div
+          className="ui input"
+        >
+          <input
+            id="grey"
+            onChange={[Function]}
+            type="text"
+            value="Erdély"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="row"
+    id=""
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Town of birth
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="birthTown"
+    >
+      <div
+        className="field"
+      >
+        <div
+          className="ui input"
+        >
+          <input
+            id=""
+            onChange={[Function]}
+            type="text"
+            value="Zilah"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="row"
+    id="grey"
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Subscribed to theology
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="subscriptionDate"
+    >
+      <form
+        className="ui form"
+        onSubmit={[Function]}
+      >
+        <div
+          className="inline unstackable fields"
+          style={
+            Object {
+              "marginBottom": "-2px",
+            }
+          }
+        >
+          <div
+            className="field"
+          >
+            <b
+              style={
+                Object {
+                  "color": "gray",
+                }
+              }
+            >
+              year
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "6em",
+                }
+              }
+            >
+              <input
+                id="grey"
+                name="year"
+                onChange={[Function]}
+                type="number"
+                value={2000}
+              />
+            </div>
+          </div>
+          <div
+            className="field"
+          >
+            <b
+              style={
+                Object {
+                  "color": "gray",
+                }
+              }
+            >
+              month
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "5em",
+                }
+              }
+            >
+              <input
+                id="grey"
+                name="month"
+                onChange={[Function]}
+                type="number"
+                value={6}
+              />
+            </div>
+          </div>
+          <div
+            className="field"
+          >
+            <b
+              style={
+                Object {
+                  "color": "gray",
+                }
+              }
+            >
+              day
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "5em",
+                }
+              }
+            >
+              <input
+                id="grey"
+                name="day"
+                onChange={[Function]}
+                type="number"
+                value={6}
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <i
+            style={
+              Object {
+                "color": "gray",
+              }
+            }
+          >
+            comment about date (optional)
+          </i>
+          <div
+            className="ui fluid input"
+          >
+            <input
+              id="grey"
+              name="comment"
+              onChange={[Function]}
+              type="text"
+              value="2000.06.06"
+            />
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div
+    className="row"
+    id=""
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Graduated from studies
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="graduationDate"
+    >
+      <form
+        className="ui form"
+        onSubmit={[Function]}
+      >
+        <div
+          className="inline unstackable fields"
+          style={
+            Object {
+              "marginBottom": "-2px",
+            }
+          }
+        >
+          <div
+            className="field"
+          >
+            <b
+              style={Object {}}
+            >
+              year
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "6em",
+                }
+              }
+            >
+              <input
+                id=""
+                name="year"
+                onChange={[Function]}
+                type="number"
+                value={2000}
+              />
+            </div>
+          </div>
+          <div
+            className="field"
+          >
+            <b
+              style={Object {}}
+            >
+              month
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "5em",
+                }
+              }
+            >
+              <input
+                id=""
+                name="month"
+                onChange={[Function]}
+                type="number"
+                value={6}
+              />
+            </div>
+          </div>
+          <div
+            className="field"
+          >
+            <b
+              style={Object {}}
+            >
+              day
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "5em",
+                }
+              }
+            >
+              <input
+                id=""
+                name="day"
+                onChange={[Function]}
+                type="number"
+                value={6}
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <i
+            style={
+              Object {
+                "color": "gray",
+              }
+            }
+          >
+            comment about date (optional)
+          </i>
+          <div
+            className="ui fluid input"
+          >
+            <input
+              id="grey"
+              name="comment"
+              onChange={[Function]}
+              type="text"
+              value="2000.06.06"
+            />
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div
+    className="row"
+    id="grey"
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Consecration date
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="consecrationDate"
+    >
+      <form
+        className="ui form"
+        onSubmit={[Function]}
+      >
+        <div
+          className="inline unstackable fields"
+          style={
+            Object {
+              "marginBottom": "-2px",
+            }
+          }
+        >
+          <div
+            className="field"
+          >
+            <b
+              style={
+                Object {
+                  "color": "gray",
+                }
+              }
+            >
+              year
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "6em",
+                }
+              }
+            >
+              <input
+                id="grey"
+                name="year"
+                onChange={[Function]}
+                type="number"
+                value={2000}
+              />
+            </div>
+          </div>
+          <div
+            className="field"
+          >
+            <b
+              style={
+                Object {
+                  "color": "gray",
+                }
+              }
+            >
+              month
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "5em",
+                }
+              }
+            >
+              <input
+                id="grey"
+                name="month"
+                onChange={[Function]}
+                type="number"
+                value={6}
+              />
+            </div>
+          </div>
+          <div
+            className="field"
+          >
+            <b
+              style={
+                Object {
+                  "color": "gray",
+                }
+              }
+            >
+              day
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "5em",
+                }
+              }
+            >
+              <input
+                id="grey"
+                name="day"
+                onChange={[Function]}
+                type="number"
+                value={6}
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <i
+            style={
+              Object {
+                "color": "gray",
+              }
+            }
+          >
+            comment about date (optional)
+          </i>
+          <div
+            className="ui fluid input"
+          >
+            <input
+              id="grey"
+              name="comment"
+              onChange={[Function]}
+              type="text"
+              value="2000.06.06"
+            />
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div
+    className="row"
+    id=""
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Consecration place
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="consecrationPlace"
+    >
+      <div
+        className="field"
+      >
+        <div
+          className="ui input"
+        >
+          <input
+            id=""
+            onChange={[Function]}
+            type="text"
+            value="tesztplace"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="row"
+    id="grey"
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Diocese
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="diocese"
+    >
+      <div
+        className="field"
+      >
+        <div
+          className="ui input"
+        >
+          <input
+            id="grey"
+            onChange={[Function]}
+            type="text"
+            value="Zilahi"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="row"
+    id=""
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Resigned
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="resigned"
+    >
+      <form
+        className="ui form"
+        onSubmit={[Function]}
+      >
+        <div
+          className="inline unstackable fields"
+          style={
+            Object {
+              "marginBottom": "-2px",
+            }
+          }
+        >
+          <div
+            className="field"
+          >
+            <b
+              style={Object {}}
+            >
+              year
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "6em",
+                }
+              }
+            >
+              <input
+                id=""
+                name="year"
+                onChange={[Function]}
+                type="number"
+                value={2000}
+              />
+            </div>
+          </div>
+          <div
+            className="field"
+          >
+            <b
+              style={Object {}}
+            >
+              month
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "5em",
+                }
+              }
+            >
+              <input
+                id=""
+                name="month"
+                onChange={[Function]}
+                type="number"
+                value={6}
+              />
+            </div>
+          </div>
+          <div
+            className="field"
+          >
+            <b
+              style={Object {}}
+            >
+              day
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "5em",
+                }
+              }
+            >
+              <input
+                id=""
+                name="day"
+                onChange={[Function]}
+                type="number"
+                value={6}
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <i
+            style={
+              Object {
+                "color": "gray",
+              }
+            }
+          >
+            comment about date (optional)
+          </i>
+          <div
+            className="ui fluid input"
+          >
+            <input
+              id="grey"
+              name="comment"
+              onChange={[Function]}
+              type="text"
+              value="2000.06.06"
+            />
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div
+    className="row"
+    id="grey"
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Retirement date
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="retirementDate"
+    >
+      <form
+        className="ui form"
+        onSubmit={[Function]}
+      >
+        <div
+          className="inline unstackable fields"
+          style={
+            Object {
+              "marginBottom": "-2px",
+            }
+          }
+        >
+          <div
+            className="field"
+          >
+            <b
+              style={
+                Object {
+                  "color": "gray",
+                }
+              }
+            >
+              year
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "6em",
+                }
+              }
+            >
+              <input
+                id="grey"
+                name="year"
+                onChange={[Function]}
+                type="number"
+                value={2000}
+              />
+            </div>
+          </div>
+          <div
+            className="field"
+          >
+            <b
+              style={
+                Object {
+                  "color": "gray",
+                }
+              }
+            >
+              month
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "5em",
+                }
+              }
+            >
+              <input
+                id="grey"
+                name="month"
+                onChange={[Function]}
+                type="number"
+                value={6}
+              />
+            </div>
+          </div>
+          <div
+            className="field"
+          >
+            <b
+              style={
+                Object {
+                  "color": "gray",
+                }
+              }
+            >
+              day
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "5em",
+                }
+              }
+            >
+              <input
+                id="grey"
+                name="day"
+                onChange={[Function]}
+                type="number"
+                value={6}
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <i
+            style={
+              Object {
+                "color": "gray",
+              }
+            }
+          >
+            comment about date (optional)
+          </i>
+          <div
+            className="ui fluid input"
+          >
+            <input
+              id="grey"
+              name="comment"
+              onChange={[Function]}
+              type="text"
+              value="2000.06.06"
+            />
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div
+    className="row"
+    id=""
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Date of death
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="deathDate"
+    >
+      <form
+        className="ui form"
+        onSubmit={[Function]}
+      >
+        <div
+          className="inline unstackable fields"
+          style={
+            Object {
+              "marginBottom": "-2px",
+            }
+          }
+        >
+          <div
+            className="field"
+          >
+            <b
+              style={Object {}}
+            >
+              year
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "6em",
+                }
+              }
+            >
+              <input
+                id=""
+                name="year"
+                onChange={[Function]}
+                type="number"
+                value={2000}
+              />
+            </div>
+          </div>
+          <div
+            className="field"
+          >
+            <b
+              style={Object {}}
+            >
+              month
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "5em",
+                }
+              }
+            >
+              <input
+                id=""
+                name="month"
+                onChange={[Function]}
+                type="number"
+                value={6}
+              />
+            </div>
+          </div>
+          <div
+            className="field"
+          >
+            <b
+              style={Object {}}
+            >
+              day
+            </b>
+            <div
+              className="ui fluid input"
+              style={
+                Object {
+                  "width": "5em",
+                }
+              }
+            >
+              <input
+                id=""
+                name="day"
+                onChange={[Function]}
+                type="number"
+                value={6}
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <i
+            style={
+              Object {
+                "color": "gray",
+              }
+            }
+          >
+            comment about date (optional)
+          </i>
+          <div
+            className="ui fluid input"
+          >
+            <input
+              id="grey"
+              name="comment"
+              onChange={[Function]}
+              type="text"
+              value="2000.06.06"
+            />
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`PriestGeneralDataContainer element should render the grid with priest profile data when priest is provided without aviability to change 1`] = `
+<div
+  className="ui two column grid"
+>
+  <div
+    className="row"
+    id=""
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Full name
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="name"
+    >
+      Janos
+    </div>
+  </div>
+  <div
+    className="row"
+    id="grey"
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Date of birth
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="birthDate"
+    >
+      <span
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        2000.06.06
+      </span>
+    </div>
+  </div>
+  <div
+    className="row"
+    id=""
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Country of birth
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="birthCountry"
+    >
+      Románia
+    </div>
+  </div>
+  <div
+    className="row"
+    id="grey"
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        County of birth
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="birthCounty"
+    >
+      Erdély
+    </div>
+  </div>
+  <div
+    className="row"
+    id=""
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Town of birth
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="birthTown"
+    >
+      Zilah
+    </div>
+  </div>
+  <div
+    className="row"
+    id="grey"
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Subscribed to theology
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="subscriptionDate"
+    >
+      <span
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        2000.06.06
+      </span>
+    </div>
+  </div>
+  <div
+    className="row"
+    id=""
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Graduated from studies
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="graduationDate"
+    >
+      <span
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        2000.06.06
+      </span>
+    </div>
+  </div>
+  <div
+    className="row"
+    id="grey"
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Consecration date
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="consecrationDate"
+    >
+      <span
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        2000.06.06
+      </span>
+    </div>
+  </div>
+  <div
+    className="row"
+    id=""
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Consecration place
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="consecrationPlace"
+    >
+      tesztplace
+    </div>
+  </div>
+  <div
+    className="row"
+    id="grey"
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Diocese
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="diocese"
+    >
+      Zilahi
+    </div>
+  </div>
+  <div
+    className="row"
+    id=""
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Resigned
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="resigned"
+    >
+      <span
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        2000.06.06
+      </span>
+    </div>
+  </div>
+  <div
+    className="row"
+    id="grey"
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Retirement date
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="retirementDate"
+    >
+      <span
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        2000.06.06
+      </span>
+    </div>
+  </div>
+  <div
+    className="row"
+    id=""
+  >
+    <div
+      align="center"
+      className="column text"
+    >
+      <b>
+        Date of death
+        :
+      </b>
+    </div>
+    <div
+      className="column text"
+      name="deathDate"
+    >
+      <span
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        2000.06.06
+      </span>
+    </div>
+  </div>
+</div>
+`;
